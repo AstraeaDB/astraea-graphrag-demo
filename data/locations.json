@@ -1,0 +1,197 @@
+[
+  {
+    "id": "loc_tellsons_bank_london",
+    "name": "Tellson's Bank, London",
+    "description": "An old-established bank by Temple Bar in London where Mr. Lorry and Jerry Cruncher work. It handles the affairs of many French gentlemen and maintains a French branch in Paris.",
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "id": "loc_dover_road",
+    "name": "Dover Road",
+    "description": "The road from London to Dover, traveled by the mail coach on a cold November Friday night in 1775. The coach lumbers up Shooter's Hill in mud, mist, and darkness with suspicious passengers.",
+    "city": null,
+    "country": "England"
+  },
+  {
+    "id": "loc_royal_george_hotel",
+    "name": "Royal George Hotel, Dover",
+    "description": "The hotel in Dover where Mr. Lorry awaits Lucie Manette after arriving by the mail coach. He breaks the news of her father's survival to her in a dark room furnished with black horsehair.",
+    "city": "Dover",
+    "country": "England"
+  },
+  {
+    "id": "loc_defarge_wine_shop",
+    "name": "Defarge's Wine-Shop",
+    "description": "A corner wine-shop in the Saint Antoine quarter of Paris, kept by Ernest Defarge and his wife. Above it, in a locked garret on the fifth floor, Dr. Manette is kept. It serves as a gathering place for revolutionaries who call each other 'Jacques.' The wine-shop in the Saint Antoine quarter of Paris owned by Ernest and Madame Defarge. It serves as the centre point of revolutionary activity, where the Jacques meet and plan, and from which the storming of the Bastille is organized. The wine-shop in the Saint Antoine quarter kept by Ernest and Th\u00e9r\u00e8se Defarge. It serves as a headquarters for revolutionary plotting. Carton visits it in disguise, feigning poor French, and overhears Madame Defarge's plan to exterminate the entire Evr\u00e9monde family.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_saint_antoine",
+    "name": "Saint Antoine Quarter",
+    "description": "A desperately poor suburb of Paris characterized by hunger, filth, narrow winding streets, and rags. The people are gaunt scarecrows living in squalor. It is the setting of the famous spilled wine scene, a foreshadowing of the blood that will later flow in the streets. The poor, starving quarter of Paris surrounding Defarge's wine-shop, personified as a character in itself. Its inhabitants are miserable, squalid, and desperate, but possess a new sense of power after the fall of the Bastille. It is the epicenter of revolutionary violence. The revolutionary quarter of Paris where the Defarges keep their wine-shop. It is the center of revolutionary activity and the Section from which Darnay is denounced. Carton visits the Defarge wine-shop here to show his face and overhears Madame Defarge's plans.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_manette_garret",
+    "name": "Dr. Manette's Garret",
+    "description": "A dim, dark garret on the fifth floor above Defarge's wine-shop, originally a firewood depository. It has a dormer window that serves as a door to the roof. Here Dr. Manette sits making shoes in near-darkness, locked in by Defarge who claims the doctor would tear himself to pieces if the door were left open.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_bastille",
+    "name": "The Bastille",
+    "description": "The infamous French prison fortress where Dr. Manette was secretly imprisoned for eighteen years in cell One Hundred and Five, North Tower. He was confined without trial through the arbitrary power of the French aristocracy. The great fortress-prison in Paris with deep ditches, double drawbridge, massive stone walls, and eight great towers. It is stormed by the people of Saint Antoine on July 14, 1789, in the climactic event of Book 2, with Defarge personally searching Dr. Manette's former cell, One Hundred and Five, North Tower. The fortress-prison where Doctor Manette was held for eighteen years in cell One Hundred and Five, North Tower. Though it has been torn down by the time of Book 3, Defarge's discovery of Manette's hidden letter in the chimney of that cell during its fall becomes the instrument of Darnay's condemnation.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_tellsons_bank",
+    "name": "Tellson's Bank",
+    "description": "An old-fashioned, dark, ugly, incommodious bank by Temple Bar in Fleet Street, whose partners are proud of its very inconvenience. It serves as a gathering place for French emigrant aristocrats in London and the bank handles considerable French business during the Revolution.",
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "id": "loc_old_bailey",
+    "name": "The Old Bailey",
+    "description": "The infamous criminal court in London where Charles Darnay is tried for treason. It is described as a vile, deadly place with a gaol attached, famous for pillory, whipping-post, and blood-money transactions, where people paid to see the proceedings as entertainment.",
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "id": "loc_soho_lodgings",
+    "name": "Doctor Manette's Lodgings, Soho",
+    "description": "A quiet street-corner not far from Soho Square where the Doctor occupies two floors of a large stiff house. It is described as a wonderful corner for echoes, a cool, staid but cheerful spot and harbour from the raging streets, where Lucie creates a delightful home.",
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "id": "loc_monseigneur_hotel",
+    "name": "Monseigneur's Hotel",
+    "description": "The grand hotel in Paris where the Monseigneur holds his fortnightly reception. Its luxurious rooms are filled with courtiers, sycophants, and parasites who attend upon the aristocracy while the common people starve outside.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_evremonde_chateau",
+    "name": "Evr\u00e9monde Chateau",
+    "description": "The heavy stone chateau of the Marquis St. Evr\u00e9monde, a large high-roofed building with stone courtyards, staircases, and stone faces of men and lions in all directions. The Marquis is murdered there, and it is eventually burned to the ground by four revolutionary arsonists.",
+    "city": null,
+    "country": "France"
+  },
+  {
+    "id": "loc_evremonde_village",
+    "name": "The Village",
+    "description": "The poor village below the Evr\u00e9monde chateau with one poor street, a fountain, brewery, tannery, and tavern. Its people are taxed to near starvation by the lord, church, and state. After the Revolution begins, its inhabitants burn the chateau and threaten functionary Gabelle.",
+    "city": null,
+    "country": "France"
+  },
+  {
+    "id": "loc_hanging_sword_alley",
+    "name": "Hanging-sword-alley, Whitefriars",
+    "description": "The location of Jerry Cruncher's private lodging, described as not being in a savoury neighbourhood. His apartments consist of only two rooms, kept very decently clean by Mrs. Cruncher.",
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "id": "loc_stryver_chambers",
+    "name": "Stryver's Chambers, The Temple",
+    "description": "Mr. Stryver's legal chambers in the Temple where he and Sydney Carton work late into the night. Carton serves as Stryver's intellectual workhorse, preparing legal briefs in a room lined with books and littered with papers, with abundant wine, brandy, rum, and lemons.",
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "id": "loc_versailles",
+    "name": "Versailles",
+    "description": "The royal palace outside Paris where the King and Queen hold court. The mender of roads is taken there by the Defarges to see the royal carriage, gardens, courtyards, and glittering court, which Defarge uses to maintain the peasants' hatred of aristocratic excess.",
+    "city": "Versailles",
+    "country": "France"
+  },
+  {
+    "id": "loc_abbaye_prison",
+    "name": "The Abbaye Prison",
+    "description": "A prison in Paris where Gabelle is imprisoned for acting as agent of an emigrant. His desperate letter to Darnay is dated from this prison, June 21, 1792.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_la_force",
+    "name": "La Force Prison",
+    "description": "A gloomy prison in Paris, dark and filthy, with a horrible smell. Darnay is imprisoned here 'in secret' in a solitary cell measuring five paces by four and a half. The prison houses both men and women of all classes, many of whom maintain courtly manners despite their dire circumstances.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_conciergerie",
+    "name": "The Conciergerie",
+    "description": "The prison where condemned prisoners are held before execution. Darnay is transferred here before both his trials. Sydney Carton gains access through Barsad the turnkey and drugs Darnay to switch places with him. The passage from La Force to the Conciergerie is described as short and dark.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_tellsons_paris",
+    "name": "Tellson's Bank, Paris",
+    "description": "The Paris branch of Tellson's Bank, established in the Saint Germain Quarter in a wing of a large house that once belonged to a great nobleman (Monseigneur). It has a courtyard with orange-trees, a Cupid on the ceiling, and a colonnade. The grindstone where revolutionaries sharpen their weapons is set up in its courtyard during the September Massacres.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_lucie_lodging_paris",
+    "name": "Lucie's Lodging in Paris",
+    "description": "A lodging found by Mr. Lorry for Lucie and her family, high up in a removed by-street near the Banking-house, in a melancholy square of buildings with closed blinds marking deserted homes. This is where the family stays during Darnay's imprisonment and where the confrontation between Miss Pross and Madame Defarge takes place.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_beauvais",
+    "name": "Beauvais",
+    "description": "A town on the road to Paris where Darnay encounters a hostile crowd and a farrier who declares him a traitor whose life is forfeit. Doctor Manette is originally a native of Beauvais. The postmaster saves Darnay from the mob by turning his horse into the yard.",
+    "city": "Beauvais",
+    "country": "France"
+  },
+  {
+    "id": "loc_revolutionary_tribunal",
+    "name": "The Revolutionary Tribunal",
+    "description": "The dread tribunal of five Judges, a Public Prosecutor, and a determined Jury that tries prisoners daily during the Terror. It sits in a hall where the audience shouts for blood and the jury votes aloud. Darnay is tried here twice -- first acquitted, then condemned to death.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_guillotine_place",
+    "name": "The Place of Execution",
+    "description": "The site where La Guillotine stands and the tumbrils deliver the condemned. Knitting-women sit in chairs as in a garden of public diversion. The Vengeance stands on a foremost chair watching for Madame Defarge. Sydney Carton and the seamstress are executed here, he as number Twenty-Three.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_paris_barrier",
+    "name": "The Paris Barrier",
+    "description": "The gate of Paris where all travellers are stopped and their papers examined. Darnay is identified as the emigrant Evr\u00e9monde upon arrival and consigned to La Force. The Manette family and Mr. Lorry pass through the barrier during their escape, with the drugged Darnay passed off as the swooning Carton.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_wood_sawyer_shop",
+    "name": "The Wood-Sawyer's Shop",
+    "description": "A small hovel at the end of a narrow, dark, dirty street near La Force prison where a former mender of roads works as a wood-sawyer. Lucie stands near here daily hoping her husband can see her from a prison window. The shed serves as a meeting place for Madame Defarge's plotting.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_notre_dame",
+    "name": "Notre Dame Cathedral",
+    "description": "The great cathedral of Paris from whose towers the black flag waves night and day during the Terror. Miss Pross arranges to meet Jerry Cruncher at the cathedral door between the two towers for their escape from Paris.",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "loc_evremonde_country_house",
+    "name": "The Evr\u00e9monde Country House",
+    "description": "A solitary house at two-thirds of a league from the Paris barrier where the twin Evr\u00e9monde brothers brought Doctor Manette in 1757 to treat the dying peasant woman and her brother. It was damp and decayed, indifferently furnished, and evidently recently occupied and temporarily used.",
+    "country": "France"
+  }
+]

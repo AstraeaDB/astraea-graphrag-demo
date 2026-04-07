@@ -1,0 +1,310 @@
+[
+  {
+    "id": "evt_message_on_dover_road",
+    "name": "The Message on the Dover Road",
+    "description": "On a cold November night in 1775, Jerry Cruncher rides through the darkness to deliver a message to Mr. Lorry on the Dover mail coach: 'Wait at Dover for Mam'selle.' Lorry replies with the cryptic answer 'Recalled to Life,' bewildering both Jerry and the guard.",
+    "book": 1,
+    "chapter": 2
+  },
+  {
+    "id": "evt_lorry_meets_lucie",
+    "name": "Lorry Reveals the Truth to Lucie",
+    "description": "At the Royal George Hotel in Dover, Mr. Lorry tells Lucie Manette that her father, Dr. Manette, is not dead as she has always believed, but has been secretly imprisoned for eighteen years and has now been found alive. Lucie faints from the shock, and Miss Pross rushes in to tend to her.",
+    "book": 1,
+    "chapter": 4
+  },
+  {
+    "id": "evt_wine_cask_broken",
+    "name": "The Wine Cask Breaks in Saint Antoine",
+    "description": "A large cask of red wine is dropped and broken in the street outside Defarge's wine-shop. The starving people of Saint Antoine scramble to drink from the gutters. One man writes 'BLOOD' on a wall with wine-soaked fingers -- a grim foreshadowing of the revolution to come.",
+    "book": 1,
+    "chapter": 5
+  },
+  {
+    "id": "evt_discovery_of_manette",
+    "name": "Lucie and Lorry Find Dr. Manette",
+    "description": "Mr. Lorry and Lucie, guided by Defarge, climb to the locked garret above the wine-shop and find Dr. Manette -- a white-haired, hollow-faced man who identifies himself only as 'One Hundred and Five, North Tower.' Lucie embraces him, and he briefly recognizes something in her golden hair that reminds him of his wife.",
+    "book": 1,
+    "chapter": 6
+  },
+  {
+    "id": "evt_departure_from_paris",
+    "name": "Departure from Paris with Dr. Manette",
+    "description": "After the emotional reunion, Lorry and Defarge arrange to smuggle Dr. Manette out of Paris that same night. They pass through the city gates with Defarge showing the doctor's papers to soldiers. Manette clutches his shoemaking tools, unable to leave them behind.",
+    "book": 1,
+    "chapter": 6
+  },
+  {
+    "id": "evt_darnay_treason_trial",
+    "name": "Darnay's Treason Trial",
+    "description": "Charles Darnay is tried at the Old Bailey for treason, accused of passing information about British military forces to France. The key witnesses against him are spy John Barsad and his accomplice Roger Cly. Sydney Carton's physical resemblance to Darnay destroys the identification evidence, and the jury acquits Darnay.",
+    "book": 2,
+    "chapter": 3
+  },
+  {
+    "id": "evt_carton_darnay_dinner",
+    "name": "Carton and Darnay Dine Together",
+    "description": "After the acquittal, Sydney Carton takes Darnay to a tavern for dinner. Carton reveals his self-loathing and resentment toward Darnay, who resembles what Carton might have been. They toast Miss Manette, and Carton confesses he cares for no man on earth.",
+    "book": 2,
+    "chapter": 4
+  },
+  {
+    "id": "evt_marquis_kills_child",
+    "name": "The Marquis's Carriage Kills Gaspard's Child",
+    "description": "The Marquis St. Evr\u00e9monde's recklessly driven carriage runs over and kills a child in the streets of Paris near a fountain. The father Gaspard howls over his dead child, while the Marquis throws a gold coin and expresses only concern for his horses. Defarge comforts Gaspard, and Madame Defarge watches steadily, knitting.",
+    "book": 2,
+    "chapter": 7
+  },
+  {
+    "id": "evt_darnay_confronts_uncle",
+    "name": "Darnay Confronts the Marquis at the Chateau",
+    "description": "Charles Darnay arrives at the Evr\u00e9monde chateau and confronts his uncle the Marquis over the family's legacy of cruelty and oppression. Darnay declares he will renounce the property and live by his own labor in England. The Marquis refuses to change, vowing to perpetuate the system and hinting he knows of Darnay's connection to Dr. Manette and his daughter.",
+    "book": 2,
+    "chapter": 9
+  },
+  {
+    "id": "evt_marquis_murdered",
+    "name": "Murder of the Marquis St. Evr\u00e9monde",
+    "description": "The Marquis is found dead in his bed the morning after Darnay's visit, stabbed through the heart with a knife. A note on the hilt reads: 'Drive him fast to his tomb. This, from Jacques.' The murder is the work of Gaspard, avenging the death of his child.",
+    "book": 2,
+    "chapter": 9
+  },
+  {
+    "id": "evt_darnay_asks_manette",
+    "name": "Darnay Seeks Dr. Manette's Blessing",
+    "description": "Darnay confesses his love for Lucie to Dr. Manette and asks for his blessing. The Doctor is visibly troubled but gives his promise that if Lucie loves Darnay, he will give her to him. He asks Darnay not to reveal his true name until the wedding morning. That night, Lucie hears the Doctor hammering at his shoemaker's bench.",
+    "book": 2,
+    "chapter": 10
+  },
+  {
+    "id": "evt_stryver_proposal_foiled",
+    "name": "Stryver's Proposal Is Foiled by Mr. Lorry",
+    "description": "Mr. Stryver announces his intention to propose marriage to Lucie Manette. Mr. Lorry delicately advises him that the proposal would not succeed, offering to verify with a visit to Soho. Stryver is dissuaded but reframes the rejection as Lucie's foolishness in losing such an eligible match.",
+    "book": 2,
+    "chapter": 12
+  },
+  {
+    "id": "evt_carton_confession_to_lucie",
+    "name": "Carton's Confession to Lucie",
+    "description": "Sydney Carton visits Lucie alone and confesses his hopeless love for her, declaring she has been 'the last dream of my soul.' He asks nothing in return, knowing he would only bring her misery. He pledges that for her and for anyone dear to her, he would do anything, even give his life to keep a life she loves beside her.",
+    "book": 2,
+    "chapter": 13
+  },
+  {
+    "id": "evt_cruncher_grave_robbing",
+    "name": "Jerry Cruncher's Grave-Robbing Expedition",
+    "description": "After Roger Cly's mob-disrupted funeral, Jerry Cruncher goes out at night with two accomplices to dig up Cly's coffin at the churchyard of Saint Pancras. Young Jerry secretly follows and witnesses the grave-robbing, terrified by the experience. The next morning, Young Jerry asks his father about being a 'resurrection man.'",
+    "book": 2,
+    "chapter": 14
+  },
+  {
+    "id": "evt_gaspard_captured_executed",
+    "name": "Gaspard Is Captured and Executed",
+    "description": "The mender of roads witnesses Gaspard being marched through the village by soldiers, bound and captured after nearly a year in hiding. Gaspard is imprisoned in the fortress on the crag and eventually hanged from a forty-foot gallows erected by the village fountain, left hanging to poison the water as an example.",
+    "book": 2,
+    "chapter": 15
+  },
+  {
+    "id": "evt_jacques_register_evremonde",
+    "name": "The Jacques Register the Evr\u00e9mondes for Destruction",
+    "description": "In the garret above the wine-shop, Defarge and three Jacques hear the mender of roads' account of Gaspard's capture and execution. They vote to register the Evr\u00e9monde chateau and all the race for extermination in Madame Defarge's knitted register.",
+    "book": 2,
+    "chapter": 15
+  },
+  {
+    "id": "evt_barsad_visits_wine_shop",
+    "name": "Barsad's Spy Visit to the Wine-Shop",
+    "description": "John Barsad visits Defarge's wine-shop attempting to gather intelligence, revealing that Lucie Manette is to marry the nephew of the murdered Marquis, Charles Darnay. Madame Defarge recognizes him from his description and knits his name into her register. The news troubles Defarge, who hopes Darnay will stay out of France.",
+    "book": 2,
+    "chapter": 16
+  },
+  {
+    "id": "evt_lucie_charles_wedding",
+    "name": "The Marriage of Lucie and Charles",
+    "description": "Lucie Manette and Charles Darnay marry in a quiet ceremony with only Mr. Lorry and Miss Pross attending. On the wedding morning, Darnay reveals his true name to Dr. Manette, which causes the Doctor to turn deadly pale. The couple depart for a fortnight's honeymoon in Warwickshire.",
+    "book": 2,
+    "chapter": 18
+  },
+  {
+    "id": "evt_manette_relapse",
+    "name": "Doctor Manette's Relapse",
+    "description": "After Lucie's departure, Dr. Manette relapses into his prison identity and begins making shoes, not recognizing Mr. Lorry or Miss Pross. For nine days and nights, Mr. Lorry watches over him while maintaining the secret from Lucie. On the tenth morning, the Doctor recovers and has no memory of the relapse. After failing in all efforts to save Darnay from execution, Doctor Manette returns to Tellson's at midnight in a state of complete mental collapse. He asks for his shoemaking bench and work, tearing his hair and beating his feet like a distracted child. He has reverted entirely to his imprisoned self, lost and broken.",
+    "book": 3,
+    "chapter": 12
+  },
+  {
+    "id": "evt_bench_destroyed",
+    "name": "Destruction of the Shoemaker's Bench",
+    "description": "Following Dr. Manette's recovery, Mr. Lorry persuades the Doctor to consent to the removal of his shoemaker's bench and tools. That night, Mr. Lorry and Miss Pross hack the bench to pieces, burn the remains in the kitchen fire, and bury the tools, shoes, and leather in the garden.",
+    "book": 2,
+    "chapter": 19
+  },
+  {
+    "id": "evt_carton_pledge_to_darnay",
+    "name": "Carton's Pledge of Friendship to Darnay",
+    "description": "Sydney Carton visits the newly married Darnays and asks to be accepted as a friend who may come and go freely, describing himself as a worthless, dissolute fellow. Lucie later tells Charles to be generous with Carton, revealing she has seen his wounded heart bleeding.",
+    "book": 2,
+    "chapter": 20
+  },
+  {
+    "id": "evt_storming_bastille",
+    "name": "The Storming of the Bastille",
+    "description": "On July 14, 1789, the people of Saint Antoine, led by Defarge and Madame Defarge, storm the Bastille after fierce hours of cannon and musket fire. Defarge searches cell 105 North Tower where Dr. Manette was imprisoned, finding the initials 'A.M.' carved on the wall. The governor is killed by the mob, and Madame Defarge beheads him with her knife. Seven prisoners are freed and seven heads placed on pikes.",
+    "book": 2,
+    "chapter": 21
+  },
+  {
+    "id": "evt_foulon_killed",
+    "name": "The Killing of Foulon",
+    "description": "Old Foulon, who told the starving people to eat grass and faked his own death, is found alive and dragged to the Hotel de Ville. The mob, led by the Defarges and The Vengeance, seize him and hang him from a lamp-post with grass stuffed in his mouth. His son-in-law is also killed, and three severed heads are carried through the streets on pikes.",
+    "book": 2,
+    "chapter": 22
+  },
+  {
+    "id": "evt_chateau_burned",
+    "name": "The Burning of the Evr\u00e9monde Chateau",
+    "description": "Four figures set fire to the Evr\u00e9monde chateau, which burns completely. The villagers illuminate their windows with candles and refuse to help save it. Gabelle barricades himself on his rooftop as the village threatens him. The soldiers at the prison refuse to intervene, saying 'It must burn.'",
+    "book": 2,
+    "chapter": 23
+  },
+  {
+    "id": "evt_gabelle_letter",
+    "name": "Gabelle's Letter Draws Darnay to France",
+    "description": "A letter from Gabelle, imprisoned in the Abbaye, reaches Darnay through Tellson's Bank, begging him to come to Paris and save his faithful servant from execution. Stung by the sneers of emigrant nobles and Stryver, and moved by Gabelle's plea, Darnay resolves to go to France secretly, writing farewell letters to Lucie and Dr. Manette.",
+    "book": 2,
+    "chapter": 24
+  },
+  {
+    "id": "evt_darnay_journey_to_paris",
+    "name": "Darnay's Journey to Paris",
+    "description": "Charles Darnay travels from England to Paris in autumn 1792, carrying Gabelle's letter. He is stopped repeatedly by patriot patrols, forced to take an armed escort, and nearly attacked by a hostile crowd at Beauvais. He discovers the decree confiscating emigrant property was passed the day he left England.",
+    "book": 3,
+    "chapter": 1
+  },
+  {
+    "id": "evt_darnay_imprisoned_la_force",
+    "name": "Darnay Imprisoned in La Force",
+    "description": "Upon arriving at the Paris barrier, Darnay is identified as the emigrant Evr\u00e9monde by Defarge and consigned to La Force prison 'in secret' -- solitary confinement. He is placed in a cell five paces by four and a half, echoing his father-in-law's long imprisonment.",
+    "book": 3,
+    "chapter": 1
+  },
+  {
+    "id": "evt_september_massacres",
+    "name": "The September Massacres at the Grindstone",
+    "description": "On the third night of September, a mob floods the courtyard of Tellson's Bank to sharpen weapons on a grindstone. Mr. Lorry witnesses the blood-soaked scene. Doctor Manette uses his status as a Bastille prisoner to be carried by the crowd to La Force, where a self-appointed Tribunal is ordering prisoners to be massacred or released. Eleven hundred defenceless prisoners are killed over four days.",
+    "book": 3,
+    "chapter": 2
+  },
+  {
+    "id": "evt_manette_saves_darnay_massacre",
+    "name": "Manette Saves Darnay from the Massacre",
+    "description": "Doctor Manette presents himself to the self-appointed Tribunal at La Force during the September Massacres. Defarge identifies him. Manette pleads for Darnay's life, and though Darnay cannot be fully released, he is held inviolate in safe custody. The Doctor remains in the Hall of Blood until the danger passes.",
+    "book": 3,
+    "chapter": 4
+  },
+  {
+    "id": "evt_lucie_defarge_confrontation",
+    "name": "Madame Defarge Visits Lucie",
+    "description": "Defarge brings a note from Darnay to Lucie's lodging, accompanied by Madame Defarge and The Vengeance. Madame Defarge coldly studies Lucie, her child, and Miss Pross to memorize their faces. When Lucie begs for mercy, Madame Defarge replies that the wives and mothers of the oppressed have not been greatly considered.",
+    "book": 3,
+    "chapter": 3
+  },
+  {
+    "id": "evt_lucie_daily_vigil",
+    "name": "Lucie's Daily Vigil at the Prison",
+    "description": "For over a year, Lucie stands for two hours every day from two to four o'clock at a spot near La Force prison where her husband might sometimes glimpse her from an upper window. She endures all weathers and encounters the wood-sawyer and his menacing little guillotine. She kisses the prison wall each day on leaving.",
+    "book": 3,
+    "chapter": 5
+  },
+  {
+    "id": "evt_carmagnole_dance",
+    "name": "The Carmagnole Dance",
+    "description": "A throng of five hundred people dances the Carmagnole around Lucie near the prison, including the wood-sawyer hand in hand with The Vengeance. The wild, violent dance terrifies Lucie. Her father finds her and tells her Charles is summoned for trial tomorrow. Madame Defarge passes like a shadow.",
+    "book": 3,
+    "chapter": 5
+  },
+  {
+    "id": "evt_darnay_first_trial_acquittal",
+    "name": "Darnay's First Trial and Acquittal",
+    "description": "After one year and three months in prison, Darnay is tried before the Revolutionary Tribunal. Doctor Manette testifies about Darnay's renunciation of his title, his devotion to the family, and his previous trial in England as a friend of the United States. The jury unanimously acquits him. The crowd carries him home in triumph on a chair with a red flag.",
+    "book": 3,
+    "chapter": 6
+  },
+  {
+    "id": "evt_darnay_rearrested",
+    "name": "Darnay Re-arrested",
+    "description": "The very evening of his acquittal, four rough men in red caps come to arrest Darnay again. He has been denounced to the Section of Saint Antoine by Ernest Defarge, Th\u00e9r\u00e8se Defarge, and one other -- later revealed to be Doctor Manette himself, through his Bastille letter. Doctor Manette is stunned to stone.",
+    "book": 3,
+    "chapter": 7
+  },
+  {
+    "id": "evt_carton_arrives_paris",
+    "name": "Carton Arrives in Paris",
+    "description": "Sydney Carton unexpectedly arrives in Paris and presents himself at Mr. Lorry's rooms at Tellson's. He recognizes the spy Barsad as Miss Pross's brother Solomon and announces Darnay's re-arrest. He resolves to play 'the losing game' -- securing access to Darnay in the Conciergerie through blackmailing Barsad.",
+    "book": 3,
+    "chapter": 8
+  },
+  {
+    "id": "evt_carton_blackmails_barsad",
+    "name": "Carton Blackmails Barsad",
+    "description": "Carton threatens to denounce Barsad as a spy formerly in English employ, using the additional card of Roger Cly's faked death (revealed by Jerry Cruncher). Barsad capitulates and agrees to grant Carton one visit to Darnay in the Conciergerie. They speak privately to finalize the arrangement.",
+    "book": 3,
+    "chapter": 8
+  },
+  {
+    "id": "evt_manette_letter_read",
+    "name": "Doctor Manette's Bastille Letter Read at Trial",
+    "description": "At Darnay's second trial, Defarge produces a paper he found hidden in the chimney of cell One Hundred and Five, North Tower of the Bastille. It is Doctor Manette's account of being summoned by the twin Evr\u00e9monde brothers in 1757 to treat a dying peasant woman and her mortally wounded brother, victims of the brothers' cruelty. The letter ends with Manette denouncing the Evr\u00e9mondes to the last of their race.",
+    "book": 3,
+    "chapter": 10
+  },
+  {
+    "id": "evt_madame_defarge_secret_revealed",
+    "name": "Madame Defarge's Identity Revealed",
+    "description": "In the wine-shop, overheard by Carton, Madame Defarge reveals her true motivation: she is the surviving younger sister of the peasant family destroyed by the Evr\u00e9monde brothers. The mortally wounded boy was her brother, the violated woman was her sister, the dead husband was her sister's husband, and the heartbroken father was her father. She demands extermination of the entire Evr\u00e9monde line.",
+    "book": 3,
+    "chapter": 12
+  },
+  {
+    "id": "evt_darnay_condemned",
+    "name": "Darnay Condemned to Death",
+    "description": "Based on Doctor Manette's Bastille letter, the jury unanimously condemns Darnay as an Aristocrat and enemy of the Republic, sentencing him to death within twenty-four hours. Doctor Manette is named as the third denouncer despite his agonized protests. Madame Defarge whispers triumphantly, 'Save him now, my Doctor, save him!'",
+    "book": 3,
+    "chapter": 10
+  },
+  {
+    "id": "evt_carton_night_walk",
+    "name": "Carton's Night Walk Through Paris",
+    "description": "After securing his arrangement with Barsad and purchasing chemicals from a chemist, Carton walks the streets of Paris all night. He repeats the words 'I am the resurrection and the life.' He carries a little girl across the street and asks for a kiss. He watches dawn rise over the Seine, seeing in the eddy of the water an image of himself being carried to the sea.",
+    "book": 3,
+    "chapter": 9
+  },
+  {
+    "id": "evt_carton_substitution",
+    "name": "Carton's Substitution for Darnay",
+    "description": "Carton enters Darnay's cell through Barsad's help, forces Darnay to exchange clothes with him, and drugs him unconscious using chemicals he purchased from the chemist. He dictates a farewell note referencing his old promise to Lucie. Barsad carries the unconscious Darnay out as the swooning visitor, and Carton remains to face the guillotine as Evr\u00e9monde.",
+    "book": 3,
+    "chapter": 13
+  },
+  {
+    "id": "evt_escape_from_paris",
+    "name": "The Escape from Paris",
+    "description": "The coach carrying Mr. Lorry, Lucie, little Lucie, Doctor Manette, and the unconscious Darnay (passed off as the swooning Sydney Carton) passes through the Paris barrier. Mr. Lorry presents the travel papers. The guard lets them through. They race through the countryside while Darnay slowly revives, not knowing what has happened.",
+    "book": 3,
+    "chapter": 13
+  },
+  {
+    "id": "evt_pross_defarge_fight",
+    "name": "Miss Pross Kills Madame Defarge",
+    "description": "Madame Defarge arrives at the deserted lodging armed with a pistol and dagger to find evidence against Lucie. Miss Pross blocks the door and physically grapples with her. During the struggle, Madame Defarge reaches for her pistol; Miss Pross strikes at it, causing it to discharge. Madame Defarge is killed, and Miss Pross is permanently deafened by the blast.",
+    "book": 3,
+    "chapter": 14
+  },
+  {
+    "id": "evt_carton_execution",
+    "name": "Carton's Execution",
+    "description": "Carton rides in the third tumbril to the guillotine, holding hands with the young seamstress who has recognized he is not Evr\u00e9monde. They comfort each other at the scaffold. She is executed as number Twenty-Two, he as Twenty-Three. His face is described as the most peaceful ever beheld there. His imagined final thoughts include the famous words: 'It is a far, far better thing that I do, than I have ever done.'",
+    "book": 3,
+    "chapter": 15
+  }
+]

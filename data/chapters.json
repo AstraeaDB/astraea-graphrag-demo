@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ch_1_1",
+    "title": "The Period",
+    "book_number": 1,
+    "chapter_number": 1,
+    "summary": "The narrator sets the scene in 1775, drawing parallels between England and France in an era of extremes. Both nations face turmoil: France rolls toward revolution under crushing poverty and aristocratic cruelty, while England suffers rampant crime and disorder. The famous opening ('It was the best of times, it was the worst of times') establishes the novel's theme of duality."
+  },
+  {
+    "id": "ch_1_2",
+    "title": "The Mail",
+    "book_number": 1,
+    "chapter_number": 2,
+    "summary": "On a foggy November night, the Dover mail coach struggles up Shooter's Hill. A horseman overtakes them -- Jerry Cruncher, a messenger from Tellson's Bank -- carrying a dispatch for passenger Mr. Jarvis Lorry. The message reads 'Wait at Dover for Mam'selle.' Lorry's mysterious reply is 'Recalled to Life,' which baffles everyone."
+  },
+  {
+    "id": "ch_1_3",
+    "title": "The Night Shadows",
+    "book_number": 1,
+    "chapter_number": 3,
+    "summary": "As Jerry rides back to London and the mail coach continues to Dover, the narrator reflects on the mystery inherent in every human being. Mr. Lorry dozes and dreams of digging a man out of a grave who has been 'buried' for almost eighteen years. The recurring question 'You have been recalled to life?' receives the uncertain answer 'I can't say.'"
+  },
+  {
+    "id": "ch_1_4",
+    "title": "The Preparation",
+    "book_number": 1,
+    "chapter_number": 4,
+    "summary": "Mr. Lorry arrives at the Royal George Hotel in Dover and awaits a young lady. When Lucie Manette arrives, he delicately reveals that her father, Dr. Manette, is not dead but has been secretly imprisoned for eighteen years and has been found alive. The news overwhelms Lucie, who faints. Her fierce companion Miss Pross takes charge of the situation."
+  },
+  {
+    "id": "ch_1_5",
+    "title": "The Wine-shop",
+    "book_number": 1,
+    "chapter_number": 5,
+    "summary": "In the desperately poor Saint Antoine quarter of Paris, a wine cask breaks in the street and the starving populace scrambles to drink from the gutters. Monsieur and Madame Defarge run the corner wine-shop, where three men all called 'Jacques' gather conspiratorially. Mr. Lorry and Lucie arrive, and Defarge leads them up five flights of stairs to a locked garret where Dr. Manette is kept."
+  },
+  {
+    "id": "ch_1_6",
+    "title": "The Shoemaker",
+    "book_number": 1,
+    "chapter_number": 6,
+    "summary": "In the dim garret, they find Dr. Manette -- white-haired, hollow-faced, compulsively making shoes. He identifies himself only as 'One Hundred and Five, North Tower.' When Lucie approaches, he is drawn to her golden hair, comparing it to strands he kept from his wife. He nearly recognizes his daughter but cannot sustain the connection. They arrange to take him out of France that night, and he departs clutching his shoemaking tools."
+  },
+  {
+    "id": "ch_2_1",
+    "title": "Five Years Later",
+    "book_number": 2,
+    "chapter_number": 1,
+    "summary": "Set in 1780, five years after the events of Book 1. The chapter introduces Tellson's Bank and its odd-job man Jerry Cruncher, who abuses his wife for praying against his secret trade. Jerry and his son take up their daily post outside Tellson's, and Jerry is sent as a messenger to the Old Bailey. Young Jerry notices the mysterious rust on his father's fingers."
+  },
+  {
+    "id": "ch_2_2",
+    "title": "A Sight",
+    "book_number": 2,
+    "chapter_number": 2,
+    "summary": "Jerry Cruncher is sent to the Old Bailey to attend the treason trial and serve as messenger for Mr. Lorry. He finds the court crowded with spectators eager to witness the gruesome sentence of quartering. Charles Darnay is brought to the dock, a composed young gentleman accused of passing military secrets to France. Dr. Manette and Lucie sit as witnesses, attracting pity from the crowd."
+  },
+  {
+    "id": "ch_2_3",
+    "title": "A Disappointment",
+    "book_number": 2,
+    "chapter_number": 3,
+    "summary": "The Attorney-General prosecutes Darnay using the testimony of spy John Barsad and his partner Roger Cly. Mr. Lorry, Dr. Manette, and Lucie testify as witnesses. The defense counsel Stryver, aided by Sydney Carton's brilliant observation of his own resemblance to the prisoner, demolishes the identification evidence. The jury acquits Darnay, and Jerry carries the verdict 'ACQUITTED' back to Tellson's."
+  },
+  {
+    "id": "ch_2_4",
+    "title": "Congratulatory",
+    "book_number": 2,
+    "chapter_number": 4,
+    "summary": "After the acquittal, the group congratulates Darnay. Dr. Manette shows a strange, troubled look at Darnay. Sydney Carton, unacknowledged for his role, takes Darnay to a tavern where he reveals his bitterness, self-loathing, and resentment of Darnay who represents what Carton might have been. Looking in a mirror, Carton admits he hates the fellow for it."
+  },
+  {
+    "id": "ch_2_5",
+    "title": "The Jackal",
+    "book_number": 2,
+    "chapter_number": 5,
+    "summary": "The chapter reveals the professional relationship between Stryver (the lion) and Carton (the jackal). Carton does all the intellectual heavy lifting for Stryver's cases, working through the night with wet towels on his head while both drink heavily. They were schoolmates at Shrewsbury and fellow-students in Paris, where Carton always did others' work while neglecting his own. Stryver pledges a toast to 'the pretty witness,' Miss Manette, which Carton bitterly denies finding pretty."
+  },
+  {
+    "id": "ch_2_6",
+    "title": "Hundreds of People",
+    "book_number": 2,
+    "chapter_number": 6,
+    "summary": "Mr. Lorry visits the Manettes' home in the quiet corner of Soho on a fine Sunday. Miss Pross complains about 'hundreds of people' coming to see Lucie. Mr. Lorry and Miss Pross discuss Dr. Manette's unspoken memories and his shoemaker's bench. Darnay visits, mentioning a prisoner's carved inscription 'DIG' found in the Tower, which causes the Doctor to start violently. Carton also appears, and during a thunderstorm, Lucie speaks of the echoing footsteps she imagines will come into their lives."
+  },
+  {
+    "id": "ch_2_7",
+    "title": "Monseigneur in Town",
+    "book_number": 2,
+    "chapter_number": 7,
+    "summary": "The scene shifts to Paris, describing the corrupt, extravagant world of Monseigneur and his court. The Marquis St. Evr\u00e9monde leaves the reception and his recklessly driven carriage kills a child in the streets of Saint Antoine. The father Gaspard screams 'Dead!' while Defarge comforts him. The Marquis tosses a gold coin, which is thrown back into his carriage. Madame Defarge watches steadily, knitting."
+  },
+  {
+    "id": "ch_2_8",
+    "title": "Monseigneur in the Country",
+    "book_number": 2,
+    "chapter_number": 8,
+    "summary": "The Marquis travels to his country estate through a landscape of desperate poverty. At the village, the mender of roads reports seeing a man hanging under the carriage. A woman kneels at the roadside begging for a marker on her husband's grave among the 'many little heaps of poor grass.' The Marquis arrives at his chateau, expecting his nephew Charles."
+  },
+  {
+    "id": "ch_2_9",
+    "title": "The Gorgon's Head",
+    "book_number": 2,
+    "chapter_number": 9,
+    "summary": "Charles Darnay arrives at the chateau and confronts his uncle about the family's oppression and cruelty. Darnay declares he will renounce the property and work for his living in England. The Marquis reveals he knows about Dr. Manette and his daughter. That night, the Marquis is murdered in his bed with a knife, a note reading 'Drive him fast to his tomb. This, from Jacques.' Gabelle is sent galloping to report the crime."
+  },
+  {
+    "id": "ch_2_10",
+    "title": "Two Promises",
+    "book_number": 2,
+    "chapter_number": 10,
+    "summary": "A year after the Marquis's murder, Darnay has established himself as a French tutor in England. He confesses his love for Lucie to Dr. Manette and asks permission to court her. The Doctor is deeply troubled but promises not to oppose the match if Lucie loves Darnay. When Darnay tries to reveal his true name, the Doctor stops him, asking to hear it only on the wedding morning. That night, Lucie finds her father at his shoemaker's bench."
+  },
+  {
+    "id": "ch_2_11",
+    "title": "A Companion Picture",
+    "book_number": 2,
+    "chapter_number": 11,
+    "summary": "Stryver announces to Carton that he intends to marry Miss Manette, patronizingly advising Carton to find himself a landlady-type wife. Carton, exhausted from doing Stryver's legal work, reacts with practiced indifference while drinking heavily. Stryver boasts of his own gallantry and eligibility, blind to his own coarseness."
+  },
+  {
+    "id": "ch_2_12",
+    "title": "The Fellow of Delicacy",
+    "book_number": 2,
+    "chapter_number": 12,
+    "summary": "Stryver stops at Tellson's on his way to propose to Lucie, and Mr. Lorry tactfully warns him that his suit would not succeed. After an angry exchange, Stryver agrees to let Mr. Lorry verify by visiting Soho. That evening, Mr. Lorry confirms the rejection. Stryver, unable to admit defeat, reframes the situation as the young lady's foolish loss of a fine match."
+  },
+  {
+    "id": "ch_2_13",
+    "title": "The Fellow of No Delicacy",
+    "book_number": 2,
+    "chapter_number": 13,
+    "summary": "Sydney Carton visits Lucie alone and makes his extraordinary confession of hopeless love. He tells her she has been 'the last dream of my soul' and asks nothing in return. He pledges that for her and for any dear to her, he would give his life. Lucie weeps for him, and he asks her to keep his confidence secret, promising never to speak of it again."
+  },
+  {
+    "id": "ch_2_14",
+    "title": "The Honest Tradesman",
+    "book_number": 2,
+    "chapter_number": 14,
+    "summary": "The chapter follows Jerry Cruncher and the mob-disrupted funeral of spy Roger Cly. That night, Jerry goes 'fishing' -- his euphemism for grave-robbing -- to dig up Cly's coffin. Young Jerry secretly follows and witnesses the frightening expedition at the churchyard. The next morning, Young Jerry asks about being a 'resurrection man' and expresses his desire to join the trade."
+  },
+  {
+    "id": "ch_2_15",
+    "title": "Knitting",
+    "book_number": 2,
+    "chapter_number": 15,
+    "summary": "Defarge brings the mender of roads to Paris to testify before Jacques One, Two, and Three in the garret. The mender recounts witnessing Gaspard's capture, imprisonment, and execution by hanging on a forty-foot gallows. The Jacques vote to register the Evr\u00e9monde chateau and race for extermination. Defarge takes the mender to Versailles to see the King and Queen, explaining that the peasants' awe keeps the aristocrats complacent until the revolution strikes."
+  },
+  {
+    "id": "ch_2_16",
+    "title": "Still Knitting",
+    "book_number": 2,
+    "chapter_number": 16,
+    "summary": "The Defarges return from Versailles and learn from a police contact that a new spy named John Barsad has been commissioned for their quarter. The next day, Barsad visits the wine-shop, and Madame Defarge identifies him immediately from his description. He reveals that Lucie Manette will marry Darnay, nephew of the murdered Marquis. This news troubles Defarge, but Madame Defarge insists Darnay's name stays in the register alongside Barsad's."
+  },
+  {
+    "id": "ch_2_17",
+    "title": "One Night",
+    "book_number": 2,
+    "chapter_number": 17,
+    "summary": "On the eve of Lucie's wedding, father and daughter sit under the plane-tree. Dr. Manette speaks for the first time about his imprisonment, describing how he watched the moon and imagined his unborn child. He assures Lucie that her marriage brings him greater happiness, not less. That night, Lucie checks on him sleeping peacefully, his face showing the struggle of mastering his old suffering even in sleep."
+  },
+  {
+    "id": "ch_2_18",
+    "title": "Nine Days",
+    "book_number": 2,
+    "chapter_number": 18,
+    "summary": "On the wedding morning, Darnay reveals his true name to Dr. Manette behind closed doors, causing the Doctor to turn deadly pale. The wedding proceeds quietly. After the couple departs, Dr. Manette collapses into a relapse, returning to shoemaking and not recognizing anyone. Mr. Lorry watches over him for nine agonizing days while Miss Pross helps maintain the deception that the Doctor has been called away."
+  },
+  {
+    "id": "ch_2_19",
+    "title": "An Opinion",
+    "book_number": 2,
+    "chapter_number": 19,
+    "summary": "On the tenth morning, Dr. Manette recovers with no memory of his relapse. Mr. Lorry consults with the Doctor about the case -- framed as that of a friend -- and learns it was triggered by an anticipated association. Mr. Lorry persuades the Doctor to consent to the removal of his shoemaker's bench, which is then secretly hacked to pieces and burned."
+  },
+  {
+    "id": "ch_2_20",
+    "title": "A Plea",
+    "book_number": 2,
+    "chapter_number": 20,
+    "summary": "Sydney Carton visits the newly married Darnays and asks to be accepted as a friend who may come and go freely. When Darnay later speaks of Carton dismissively, Lucie gently corrects him, revealing she has seen Carton's wounded heart. She asks Darnay to be generous and lenient with Carton, and Darnay, moved, promises to remember their happiness and Carton's misery."
+  },
+  {
+    "id": "ch_2_21",
+    "title": "Echoing Footsteps",
+    "book_number": 2,
+    "chapter_number": 21,
+    "summary": "Years pass in the Darnay household: little Lucie is born, a son dies young, and Carton visits rarely but faithfully. In July 1789, the echoes become real as Saint Antoine storms the Bastille. Defarge leads the assault, searches cell 105 North Tower, and finds Dr. Manette's inscriptions. Madame Defarge beheads the governor. Seven prisoners are freed, seven heads placed on pikes."
+  },
+  {
+    "id": "ch_2_22",
+    "title": "The Sea Still Rises",
+    "book_number": 2,
+    "chapter_number": 22,
+    "summary": "A week after the Bastille falls, Defarge brings news that old Foulon, who told the people to eat grass, has been found alive. Madame Defarge and The Vengeance rouse the women of Saint Antoine, and the mob drags Foulon from the Hotel de Ville, hanging him from a lamp-post with grass in his mouth. His son-in-law is also killed, and three heads are carried on pikes through the streets."
+  },
+  {
+    "id": "ch_2_23",
+    "title": "Fire Rises",
+    "book_number": 2,
+    "chapter_number": 23,
+    "summary": "Revolutionary figures spread across the countryside. Four men set fire to the Evr\u00e9monde chateau, which burns completely while the villagers watch with folded arms and illuminate their windows. Gabelle barricades himself on his rooftop. Across France, chateaux burn and functionaries are hanged, as the fierce revolutionary figures march East, West, North, and South."
+  },
+  {
+    "id": "ch_2_24",
+    "title": "Drawn to the Loadstone Rock",
+    "book_number": 2,
+    "chapter_number": 24,
+    "summary": "By August 1792, three years of revolution have passed. Mr. Lorry prepares to travel to Paris to protect Tellson's documents. A letter from Gabelle, imprisoned in the Abbaye, reaches Darnay through the bank, begging him to come to Paris. Stung by the emigrant nobles' sneers and moved by duty to his faithful servant, Darnay secretly resolves to go to France. He writes farewell letters to Lucie and the Doctor and departs for Dover that night."
+  },
+  {
+    "id": "ch_3_1",
+    "title": "In Secret",
+    "book_number": 3,
+    "chapter_number": 1,
+    "summary": "Charles Darnay travels from England to Paris in autumn 1792, repeatedly stopped by citizen-patriots along the way. At Beauvais he is nearly attacked by a hostile crowd. Upon reaching Paris, he is identified as the emigrant Evr\u00e9monde by Defarge, who refuses to help him despite knowing his connection to Doctor Manette. Darnay is consigned to La Force prison 'in secret' -- solitary confinement in a cell five paces by four and a half. He encounters ghostly aristocratic prisoners in the common room before being locked away alone."
+  },
+  {
+    "id": "ch_3_2",
+    "title": "The Grindstone",
+    "book_number": 3,
+    "chapter_number": 2,
+    "summary": "Mr. Lorry sits in Tellson's Paris office as the September Massacres begin. Lucie and Doctor Manette arrive unexpectedly, revealing that Darnay has been imprisoned. A mob floods the courtyard to sharpen weapons on a grindstone, their hands and clothes soaked in blood. Doctor Manette, invoking his status as a Bastille prisoner, goes out among the mob and is carried to La Force by the crowd shouting to save the Bastille prisoner's kindred. Mr. Lorry shelters Lucie, Miss Pross, and little Lucie through the terrible night."
+  },
+  {
+    "id": "ch_3_3",
+    "title": "The Shadow",
+    "book_number": 3,
+    "chapter_number": 3,
+    "summary": "Mr. Lorry arranges lodgings for Lucie near the Bank. Defarge brings a note from Doctor Manette confirming Charles is safe, along with a short note from Darnay to Lucie. Madame Defarge and The Vengeance accompany Defarge to the lodging to observe and memorize the faces of Lucie, her child, and Miss Pross. Lucie pleads for mercy but Madame Defarge coldly rebuffs her, reminding her that the wives and mothers of the oppressed have long suffered. The shadow of Madame Defarge's menace falls dark on the family."
+  },
+  {
+    "id": "ch_3_4",
+    "title": "Calm in Storm",
+    "book_number": 3,
+    "chapter_number": 4,
+    "summary": "Doctor Manette returns after four days, during which eleven hundred prisoners have been massacred. He recounts how a self-appointed Tribunal at La Force, including Defarge, ordered prisoners released or killed. Manette saved Darnay from execution but could not secure his release. The Doctor becomes inspecting physician of three prisons, drawing strength and pride from his Bastille suffering. Over fifteen months, as the king and queen are executed and the Reign of Terror intensifies, Manette walks steadily among the terrors, unable to free Darnay but keeping him alive."
+  },
+  {
+    "id": "ch_3_5",
+    "title": "The Wood-Sawyer",
+    "book_number": 3,
+    "chapter_number": 5,
+    "summary": "For one year and three months, Lucie stands daily from two to four o'clock near La Force prison where her husband might glimpse her from an upper window. She encounters the sinister wood-sawyer who calls his saw 'my Little Guillotine.' On a snowy December afternoon, a wild throng dances the Carmagnole around her. Doctor Manette arrives and tells her Charles is summoned for trial tomorrow. Three tumbrils pass carrying condemned prisoners. At Tellson's, a mysterious visitor in a riding-coat is present -- someone who must not be seen."
+  },
+  {
+    "id": "ch_3_6",
+    "title": "Triumph",
+    "book_number": 3,
+    "chapter_number": 6,
+    "summary": "Darnay is tried before the Revolutionary Tribunal after fifteen months of imprisonment. Fifteen other prisoners are condemned in an hour and a half before his case is heard. Doctor Manette testifies about Darnay's voluntary renunciation of his title, his faithful devotion to his family, and his English trial as a friend of the United States. The crowd is moved to tears and the jury unanimously acquits him. The fickle populace carries Darnay home in triumph through the snowy streets in a chair draped with a red flag."
+  },
+  {
+    "id": "ch_3_7",
+    "title": "A Knock at the Door",
+    "book_number": 3,
+    "chapter_number": 7,
+    "summary": "On the evening of Darnay's acquittal, the family gathers by the fire in quiet relief. Miss Pross and Jerry go out to shop. Doctor Manette tells a fairy tale to little Lucie. Then four rough men burst in to re-arrest Darnay, who has been denounced to the Section of Saint Antoine by Ernest Defarge, Th\u00e9r\u00e8se Defarge, and one other person whose identity the arresting men refuse to reveal except to say the Doctor will learn the answer tomorrow."
+  },
+  {
+    "id": "ch_3_8",
+    "title": "A Hand at Cards",
+    "book_number": 3,
+    "chapter_number": 8,
+    "summary": "Miss Pross encounters her long-lost brother Solomon in a wine-shop, who is now the spy John Barsad. Sydney Carton appears and reveals he has been in Paris. He announces Darnay's re-arrest and resolves to secure access to Darnay through Barsad, who is a turnkey at the Conciergerie. Carton threatens to denounce Barsad as a double agent, with Jerry Cruncher providing the additional card that Roger Cly's burial was faked. Barsad capitulates, and Carton takes him into a private room to finalize the arrangement."
+  },
+  {
+    "id": "ch_3_9",
+    "title": "The Game Made",
+    "book_number": 3,
+    "chapter_number": 9,
+    "summary": "Jerry Cruncher promises Mr. Lorry to reform his grave-robbing ways. Carton reveals he has secured one visit to Darnay in the Conciergerie. He has an intimate, emotional conversation with Mr. Lorry about the value of a life well lived. He walks to La Force, talks with the wood-sawyer about the guillotine, then visits a chemist to purchase mysterious chemicals. He wanders the streets of Paris all night, repeating 'I am the resurrection and the life,' watching the dawn, and finding a settled peace as a man who has found his road and sees its end."
+  },
+  {
+    "id": "ch_3_10",
+    "title": "The Substance of the Shadow",
+    "book_number": 3,
+    "chapter_number": 10,
+    "summary": "At Darnay's second trial, Defarge produces Doctor Manette's hidden letter from the Bastille chimney. The letter recounts how in 1757 Manette was summoned by twin Evr\u00e9monde brothers to treat a dying peasant woman driven mad after being violated by the younger brother, and her mortally wounded brother who had attacked the younger twin with a sword. The boy dies cursing the Evr\u00e9mondes; the woman dies a week later. Manette wrote to the Minister but was kidnapped and imprisoned. The letter denounces the Evr\u00e9mondes to the last of their race. Darnay is unanimously condemned to death."
+  },
+  {
+    "id": "ch_3_11",
+    "title": "Dusk",
+    "book_number": 3,
+    "chapter_number": 11,
+    "summary": "After Darnay's condemnation, Lucie embraces him in the emptied courtroom with extraordinary courage. Darnay forgives his father-in-law, understanding the letter's origins. Sydney Carton carries the unconscious Lucie to a coach and home, kissing her and murmuring 'A life you love.' He urges Doctor Manette to make one final effort with the judges and tells Mr. Lorry he has no real hope but wants the attempt made for Lucie's consolation."
+  },
+  {
+    "id": "ch_3_12",
+    "title": "Darkness",
+    "book_number": 3,
+    "chapter_number": 12,
+    "summary": "Carton visits the Defarge wine-shop in disguise, where Madame Defarge reveals she is the surviving sister of the destroyed peasant family and demands the extermination of the entire Evr\u00e9monde line including Lucie and her child. Doctor Manette returns at midnight in complete mental collapse, asking for his shoemaking bench. Carton instructs Mr. Lorry to prepare the coach for departure at two o'clock, shows him the travel certificates, and warns that Madame Defarge plans to denounce Lucie. He tells Lorry to wait for him in the coach and then drive for England."
+  },
+  {
+    "id": "ch_3_13",
+    "title": "Fifty-two",
+    "book_number": 3,
+    "chapter_number": 13,
+    "summary": "Fifty-two prisoners await execution. Darnay composes himself through the night, writing farewell letters. Carton enters his cell through Barsad, forces him to exchange clothes, and drugs him unconscious with chemicals. Barsad carries the unconscious Darnay out as the swooning visitor. Carton, now dressed as Darnay, waits in the cell and is led out with the condemned. A young seamstress recognizes he is not Evr\u00e9monde and asks to hold his hand. Meanwhile, the coach carrying the real Darnay passes through the Paris barrier, with Mr. Lorry presenting the papers."
+  },
+  {
+    "id": "ch_3_14",
+    "title": "The Knitting Done",
+    "book_number": 3,
+    "chapter_number": 14,
+    "summary": "Madame Defarge plots with Jacques Three and The Vengeance to denounce Lucie, her child, and Doctor Manette. She arms herself with a pistol and dagger and goes to the lodging to confront Lucie. She finds only Miss Pross, who blocks the door. The two women struggle furiously; Madame Defarge reaches for her pistol but Miss Pross strikes at it, causing it to fire and kill Madame Defarge. The blast permanently deafens Miss Pross. She escapes to meet Jerry Cruncher at Notre Dame cathedral, and they flee Paris by a separate route."
+  },
+  {
+    "id": "ch_3_15",
+    "title": "The Footsteps Die Out For Ever",
+    "book_number": 3,
+    "chapter_number": 15,
+    "summary": "Six tumbrils carry fifty-two condemned to the guillotine through the streets of Paris. Carton rides in the third, holding hands with the seamstress and speaking to her of hope and comfort. Barsad identifies him from the steps of a church. The Vengeance calls in vain for the absent Th\u00e9r\u00e8se Defarge. The seamstress is executed as number Twenty-Two; Carton as Twenty-Three. His face is described as the most peaceful ever seen there. His prophetic final vision imagines the lives he saved prospering in England, a child named for him, and ends with the immortal words: 'It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.'"
+  }
+]

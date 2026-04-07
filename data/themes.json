@@ -1,0 +1,32 @@
+[
+  {
+    "id": "theme_resurrection",
+    "name": "Resurrection",
+    "description": "The central theme of being 'recalled to life' -- Dr. Manette's release from prison, Darnay's acquittals, and ultimately Carton's spiritual resurrection through self-sacrifice. The phrase 'recalled to life' echoes throughout the novel as characters are repeatedly brought back from death or near-death."
+  },
+  {
+    "id": "theme_sacrifice",
+    "name": "Sacrifice",
+    "description": "Self-sacrifice as the highest expression of love, embodied most powerfully by Sydney Carton's decision to die in Darnay's place. Also seen in Lucie's devotion to her father, and in smaller acts throughout the novel."
+  },
+  {
+    "id": "theme_duality",
+    "name": "Duality",
+    "description": "The novel is structured around doubles and opposites: two cities (London and Paris), two nations, two lookalikes (Carton and Darnay), order and disorder, love and hatred, light and darkness. The famous opening paragraph establishes this theme of paired extremes."
+  },
+  {
+    "id": "theme_revolution_violence",
+    "name": "Revolution and Violence",
+    "description": "The French Revolution as both justified response to aristocratic cruelty and a force that consumes the innocent along with the guilty. The cycle of oppression breeding violence breeding more oppression is a central concern."
+  },
+  {
+    "id": "theme_fate_justice",
+    "name": "Fate and Justice",
+    "description": "The tension between human justice and cosmic fate. The aristocrats' sins are visited upon their descendants; Madame Defarge's personal vendetta masquerades as revolutionary justice; the courts are shown to be arbitrary in both England and France."
+  },
+  {
+    "id": "theme_imprisonment",
+    "name": "Imprisonment and Freedom",
+    "description": "Both literal and psychological imprisonment pervade the novel. Dr. Manette's physical imprisonment echoes in his psychological relapses to shoemaking. Darnay is imprisoned multiple times. Even Carton is imprisoned by his wasted life until his final act frees him."
+  }
+]

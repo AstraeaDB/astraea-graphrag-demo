@@ -1,0 +1,2202 @@
+{
+  "characters": [
+    {
+      "id": "char_jerry_cruncher",
+      "name": "Jerry Cruncher",
+      "aliases": [
+        "Mr. Cruncher",
+        "Jerry",
+        "the honest tradesman",
+        "the odd-job-man"
+      ],
+      "description": "The odd-job man and messenger for Tellson's Bank, stationed outside its doors on Fleet Street. He is a secret resurrection man (body snatcher) by night, and abuses his pious wife for praying against his illicit trade. He has spiky hair perpetually covered in rust from his nocturnal grave-robbing activities.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 1
+      }
+    },
+    {
+      "id": "char_young_jerry",
+      "name": "Young Jerry Cruncher",
+      "aliases": [
+        "Young Jerry",
+        "Master Cruncher"
+      ],
+      "description": "The twelve-year-old son of Jerry Cruncher, who serves as his father's stand-in at Tellson's Bank. He closely resembles his father with similar spiky hair and close-set eyes. He follows his father on a grave-robbing expedition and aspires to become a resurrection man himself.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 1
+      }
+    },
+    {
+      "id": "char_mrs_cruncher",
+      "name": "Mrs. Cruncher",
+      "aliases": [
+        "Aggerawayter"
+      ],
+      "description": "The long-suffering, pious wife of Jerry Cruncher, who is regularly abused by her husband for praying. She is a woman of orderly and industrious appearance who keeps their modest lodgings clean. Her husband blames her prayers for his bad luck in his secret grave-robbing trade.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 1
+      }
+    },
+    {
+      "id": "char_charles_darnay",
+      "name": "Charles Darnay",
+      "aliases": [
+        "Charles Evr\u00e9monde",
+        "Monsieur Charles",
+        "the Marquis St. Evr\u00e9monde",
+        "Mr. Darnay"
+      ],
+      "description": "A young French gentleman of about twenty-five, well-grown and well-looking with a sunburnt cheek and dark eye. He is the nephew of the Marquis St. Evr\u00e9monde, who has renounced his family's cruel legacy and lives in England as a French language tutor. He loves and marries Lucie Manette, and is ultimately drawn back to France by Gabelle's plea for help.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 2
+      }
+    },
+    {
+      "id": "char_sydney_carton",
+      "name": "Sydney Carton",
+      "aliases": [
+        "Mr. Carton",
+        "Sydney",
+        "Memory",
+        "the jackal"
+      ],
+      "description": "A brilliant but dissolute English barrister who bears a striking physical resemblance to Charles Darnay. He serves as the intellectual workhorse (the 'jackal') for the ambitious Mr. Stryver, doing all the legal preparation work while drinking heavily. He is secretly and hopelessly in love with Lucie Manette, to whom he confesses his devotion and pledges to sacrifice anything for those dear to her.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 3
+      }
+    },
+    {
+      "id": "char_john_barsad",
+      "name": "John Barsad",
+      "aliases": [
+        "Barsad",
+        "the spy"
+      ],
+      "description": "An English spy who testifies as the 'patriot' witness against Charles Darnay at the treason trial. He is revealed through cross-examination to be a gambler, debtor, and hired informer. He later visits the Defarges' wine-shop in Paris to gather intelligence on revolutionary activity, where Madame Defarge knits his name into her register.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 3
+      }
+    },
+    {
+      "id": "char_roger_cly",
+      "name": "Roger Cly",
+      "aliases": [
+        "Cly",
+        "the virtuous servant"
+      ],
+      "description": "A spy and associate of John Barsad who poses as Charles Darnay's servant and testifies against him at the treason trial. He claims to have discovered incriminating papers in Darnay's possession. His funeral later becomes a mob event, and Jerry Cruncher attempts to dig up his coffin that night.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 3
+      }
+    },
+    {
+      "id": "char_stryver",
+      "name": "Mr. Stryver",
+      "aliases": [
+        "Stryver",
+        "C. J. Stryver",
+        "the lion"
+      ],
+      "description": "A loud, stout, red-faced barrister of about thirty who is Charles Darnay's defense counsel. He is ambitious and self-important, shouldering his way through life and law with brute force. He unsuccessfully attempts to propose marriage to Lucie Manette, is dissuaded by Mr. Lorry, and later marries a florid widow with property and three boys.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 3
+      }
+    },
+    {
+      "id": "char_jarvis_lorry",
+      "name": "Jarvis Lorry",
+      "aliases": [
+        "Mr. Lorry"
+      ],
+      "description": "The elderly, devoted bachelor banker of Tellson's who becomes a trusted family friend to the Manettes. In Book 2, he testifies at Darnay's trial, watches over Dr. Manette during his nine-day relapse into shoemaking after Lucie's wedding, and persuades the Doctor to allow destruction of his cobbler's bench. He resolves to travel to Paris to protect Tellson's documents despite the dangers of the Revolution.",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 2
+      }
+    },
+    {
+      "id": "char_lucie_manette",
+      "name": "Lucie Manette",
+      "aliases": [
+        "Miss Manette",
+        "Ladybird",
+        "Lucie Darnay"
+      ],
+      "description": "The beautiful golden-haired young lady of about twenty who is the 'golden thread' binding together all the characters. She testifies reluctantly at Darnay's trial, showing great compassion for the accused. She marries Charles Darnay and becomes the heart of a happy household in the quiet corner of Soho, bearing a daughter (little Lucie) and a son who dies young.",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 4
+      }
+    },
+    {
+      "id": "char_doctor_manette",
+      "name": "Doctor Alexandre Manette",
+      "aliases": [
+        "Doctor Manette",
+        "the Doctor",
+        "the Doctor of Beauvais"
+      ],
+      "description": "Lucie's father, a former prisoner of the Bastille for eighteen years who was found making shoes in a garret. In Book 2, he has recovered considerably but keeps his shoemaker's bench, and suffers a nine-day relapse into shoemaking after Lucie's wedding to Darnay. He agrees to Darnay's suit, requesting only that Darnay reveal his true name on the wedding morning, and the revelation triggers his mental collapse.",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5
+      }
+    },
+    {
+      "id": "char_miss_pross",
+      "name": "Miss Pross",
+      "aliases": [
+        "Pross",
+        "the wild red woman"
+      ],
+      "description": "Lucie Manette's fiercely devoted English companion and servant, a wild, red, grim woman of strong hand. She has cared for Lucie since she was ten years old, is jealous of anyone taking Lucie's affections, and believes her worthless brother Solomon is the only man worthy of Ladybird. She is an excellent cook who combines English and French culinary skills.",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 4
+      }
+    },
+    {
+      "id": "char_ernest_defarge",
+      "name": "Ernest Defarge",
+      "aliases": [
+        "Defarge",
+        "Monsieur Defarge",
+        "Jacques Four"
+      ],
+      "description": "The former servant of Doctor Manette, now the owner of a wine-shop in the Saint Antoine quarter of Paris. He leads the Jacques revolutionary network, organizing and receiving intelligence. He leads the assault on the Bastille, personally searching cell 105 North Tower where Dr. Manette was imprisoned, and finds hidden documents there.",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5
+      }
+    },
+    {
+      "id": "char_madame_defarge",
+      "name": "Madame Defarge",
+      "aliases": [
+        "Madame",
+        "Th\u00e9r\u00e8se Defarge"
+      ],
+      "description": "The formidable wife of Ernest Defarge, who sits perpetually knitting at the wine-shop counter. Her knitting is actually a register encoding the names and crimes of those condemned to revolutionary justice. She is relentless and remorseless, leading women in the storming of the Bastille, personally beheading the governor, and insisting that the Evr\u00e9monde name be proscribed regardless of Defarge's sympathy for the Manettes.",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5
+      }
+    },
+    {
+      "id": "char_marquis_st_evremonde",
+      "name": "The Marquis St. Evr\u00e9monde",
+      "aliases": [
+        "Monseigneur",
+        "Monsieur the Marquis",
+        "the uncle"
+      ],
+      "description": "Charles Darnay's uncle, a cruel and haughty French aristocrat of about sixty with a face like a fine mask. His carriage runs over and kills a child in the streets of Paris, for which he tosses a gold coin in compensation. He is murdered in his bed by the father Gaspard, with a note reading 'Drive him fast to his tomb. This, from Jacques.'",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 7
+      }
+    },
+    {
+      "id": "char_gaspard",
+      "name": "Gaspard",
+      "aliases": [
+        "the tall man"
+      ],
+      "description": "A tall, desperate father from the Saint Antoine quarter whose child is killed by the Marquis St. Evr\u00e9monde's carriage. He assassinates the Marquis by stabbing him in the heart with a knife as he sleeps. He is captured after hiding for nearly a year, imprisoned in the fortress on the crag, and executed by hanging from a forty-foot gallows over the village fountain.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 7
+      }
+    },
+    {
+      "id": "char_the_mender_of_roads",
+      "name": "The Mender of Roads",
+      "aliases": [
+        "Jacques Five",
+        "the road-mender"
+      ],
+      "description": "A grizzled peasant road-worker from the village near the Marquis's chateau. He witnesses Gaspard clinging under the Marquis's carriage and later sees Gaspard captured and hanged. He is brought to Paris by Defarge to testify before the Jacques, and is taken to Versailles where he cheers the King and Queen, which Defarge uses to keep the aristocrats complacent.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 8
+      }
+    },
+    {
+      "id": "char_gabelle",
+      "name": "Monsieur Gabelle",
+      "aliases": [
+        "Gabelle",
+        "Th\u00e9ophile Gabelle"
+      ],
+      "description": "The postmaster and tax collector of the village near the Evr\u00e9monde chateau. He manages the estate on Darnay's written instructions to spare the people. When the chateau is burned, he barricades himself on his rooftop. He is eventually imprisoned in the Abbaye in Paris and writes a desperate letter to Darnay begging for help, which draws Darnay back to France.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 8
+      }
+    },
+    {
+      "id": "char_jacques_one",
+      "name": "Jacques One",
+      "aliases": [],
+      "description": "One of the revolutionary leaders in the Jacques network who meets in the garret above Defarge's wine-shop. He participates in hearing the mender of roads' testimony about Gaspard and votes to register the Evr\u00e9monde chateau and race for destruction.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 15
+      }
+    },
+    {
+      "id": "char_jacques_two",
+      "name": "Jacques Two",
+      "aliases": [],
+      "description": "One of the revolutionary leaders who meets in the garret above Defarge's wine-shop. He questions the security of Madame Defarge's knitted register and participates in the tribunal-like proceedings against the Evr\u00e9monde family.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 15
+      }
+    },
+    {
+      "id": "char_jacques_three",
+      "name": "Jacques Three",
+      "aliases": [
+        "the hungry man"
+      ],
+      "description": "One of the revolutionary leaders, distinguished by his restless hand constantly gliding over his mouth and nose, and a greedy, hungry air that craves bloodshed. He participates in the storming of the Bastille alongside Defarge and accompanies him to cell 105 North Tower.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 15
+      }
+    },
+    {
+      "id": "char_the_vengeance",
+      "name": "The Vengeance",
+      "aliases": [],
+      "description": "The short, rather plump wife of a starved grocer and mother of two children, who serves as Madame Defarge's lieutenant among the Saint Antoine women. She earns her complimentary name through her terrific shrieks and fierce enthusiasm, and serves as custodian of the revolutionary drum.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 22
+      }
+    },
+    {
+      "id": "char_little_lucie",
+      "name": "Little Lucie Darnay",
+      "aliases": [
+        "little Lucie"
+      ],
+      "description": "The daughter of Charles Darnay and Lucie Manette, born after their marriage. She chatters in the tongues of the Two Cities blended in her life, and has a special sympathy with Sydney Carton. By Book 2, Chapter 24, she is six years old.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 21
+      }
+    },
+    {
+      "id": "char_foulon",
+      "name": "Foulon",
+      "aliases": [
+        "Old Foulon"
+      ],
+      "description": "A wicked old man of more than seventy who told the starving people they might eat grass. He faked his own death and funeral but is found alive hiding in the country. He is dragged to the lamp-post and hanged by the mob of Saint Antoine, with grass stuffed in his mouth, and his head is placed on a pike.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 22
+      }
+    },
+    {
+      "id": "char_solomon_pross",
+      "name": "Solomon Pross",
+      "aliases": [
+        "Solomon"
+      ],
+      "description": "Miss Pross's brother, whom she considers the only man worthy of Lucie despite the fact that he stripped Miss Pross of everything she possessed, speculated with it, and abandoned her in poverty without compunction.",
+      "first_appearance": {
+        "book": 2,
+        "chapter": 6
+      }
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc_tellsons_bank",
+      "name": "Tellson's Bank",
+      "description": "An old-fashioned, dark, ugly, incommodious bank by Temple Bar in Fleet Street, whose partners are proud of its very inconvenience. It serves as a gathering place for French emigrant aristocrats in London and the bank handles considerable French business during the Revolution.",
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "id": "loc_old_bailey",
+      "name": "The Old Bailey",
+      "description": "The infamous criminal court in London where Charles Darnay is tried for treason. It is described as a vile, deadly place with a gaol attached, famous for pillory, whipping-post, and blood-money transactions, where people paid to see the proceedings as entertainment.",
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "id": "loc_soho_lodgings",
+      "name": "Doctor Manette's Lodgings, Soho",
+      "description": "A quiet street-corner not far from Soho Square where the Doctor occupies two floors of a large stiff house. It is described as a wonderful corner for echoes, a cool, staid but cheerful spot and harbour from the raging streets, where Lucie creates a delightful home.",
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "id": "loc_defarge_wine_shop",
+      "name": "Defarge's Wine-shop",
+      "description": "The wine-shop in the Saint Antoine quarter of Paris owned by Ernest and Madame Defarge. It serves as the centre point of revolutionary activity, where the Jacques meet and plan, and from which the storming of the Bastille is organized.",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "id": "loc_saint_antoine",
+      "name": "Saint Antoine",
+      "description": "The poor, starving quarter of Paris surrounding Defarge's wine-shop, personified as a character in itself. Its inhabitants are miserable, squalid, and desperate, but possess a new sense of power after the fall of the Bastille. It is the epicenter of revolutionary violence.",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "id": "loc_monseigneur_hotel",
+      "name": "Monseigneur's Hotel",
+      "description": "The grand hotel in Paris where the Monseigneur holds his fortnightly reception. Its luxurious rooms are filled with courtiers, sycophants, and parasites who attend upon the aristocracy while the common people starve outside.",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "id": "loc_evremonde_chateau",
+      "name": "Evr\u00e9monde Chateau",
+      "description": "The heavy stone chateau of the Marquis St. Evr\u00e9monde, a large high-roofed building with stone courtyards, staircases, and stone faces of men and lions in all directions. The Marquis is murdered there, and it is eventually burned to the ground by four revolutionary arsonists.",
+      "city": null,
+      "country": "France"
+    },
+    {
+      "id": "loc_evremonde_village",
+      "name": "The Village",
+      "description": "The poor village below the Evr\u00e9monde chateau with one poor street, a fountain, brewery, tannery, and tavern. Its people are taxed to near starvation by the lord, church, and state. After the Revolution begins, its inhabitants burn the chateau and threaten functionary Gabelle.",
+      "city": null,
+      "country": "France"
+    },
+    {
+      "id": "loc_bastille",
+      "name": "The Bastille",
+      "description": "The great fortress-prison in Paris with deep ditches, double drawbridge, massive stone walls, and eight great towers. It is stormed by the people of Saint Antoine on July 14, 1789, in the climactic event of Book 2, with Defarge personally searching Dr. Manette's former cell, One Hundred and Five, North Tower.",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "id": "loc_hanging_sword_alley",
+      "name": "Hanging-sword-alley, Whitefriars",
+      "description": "The location of Jerry Cruncher's private lodging, described as not being in a savoury neighbourhood. His apartments consist of only two rooms, kept very decently clean by Mrs. Cruncher.",
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "id": "loc_stryver_chambers",
+      "name": "Stryver's Chambers, The Temple",
+      "description": "Mr. Stryver's legal chambers in the Temple where he and Sydney Carton work late into the night. Carton serves as Stryver's intellectual workhorse, preparing legal briefs in a room lined with books and littered with papers, with abundant wine, brandy, rum, and lemons.",
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "id": "loc_versailles",
+      "name": "Versailles",
+      "description": "The royal palace outside Paris where the King and Queen hold court. The mender of roads is taken there by the Defarges to see the royal carriage, gardens, courtyards, and glittering court, which Defarge uses to maintain the peasants' hatred of aristocratic excess.",
+      "city": "Versailles",
+      "country": "France"
+    },
+    {
+      "id": "loc_abbaye_prison",
+      "name": "The Abbaye Prison",
+      "description": "A prison in Paris where Gabelle is imprisoned for acting as agent of an emigrant. His desperate letter to Darnay is dated from this prison, June 21, 1792.",
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt_darnay_treason_trial",
+      "name": "Darnay's Treason Trial",
+      "description": "Charles Darnay is tried at the Old Bailey for treason, accused of passing information about British military forces to France. The key witnesses against him are spy John Barsad and his accomplice Roger Cly. Sydney Carton's physical resemblance to Darnay destroys the identification evidence, and the jury acquits Darnay.",
+      "book": 2,
+      "chapter": 3
+    },
+    {
+      "id": "evt_carton_darnay_dinner",
+      "name": "Carton and Darnay Dine Together",
+      "description": "After the acquittal, Sydney Carton takes Darnay to a tavern for dinner. Carton reveals his self-loathing and resentment toward Darnay, who resembles what Carton might have been. They toast Miss Manette, and Carton confesses he cares for no man on earth.",
+      "book": 2,
+      "chapter": 4
+    },
+    {
+      "id": "evt_marquis_kills_child",
+      "name": "The Marquis's Carriage Kills Gaspard's Child",
+      "description": "The Marquis St. Evr\u00e9monde's recklessly driven carriage runs over and kills a child in the streets of Paris near a fountain. The father Gaspard howls over his dead child, while the Marquis throws a gold coin and expresses only concern for his horses. Defarge comforts Gaspard, and Madame Defarge watches steadily, knitting.",
+      "book": 2,
+      "chapter": 7
+    },
+    {
+      "id": "evt_darnay_confronts_uncle",
+      "name": "Darnay Confronts the Marquis at the Chateau",
+      "description": "Charles Darnay arrives at the Evr\u00e9monde chateau and confronts his uncle the Marquis over the family's legacy of cruelty and oppression. Darnay declares he will renounce the property and live by his own labor in England. The Marquis refuses to change, vowing to perpetuate the system and hinting he knows of Darnay's connection to Dr. Manette and his daughter.",
+      "book": 2,
+      "chapter": 9
+    },
+    {
+      "id": "evt_marquis_murdered",
+      "name": "Murder of the Marquis St. Evr\u00e9monde",
+      "description": "The Marquis is found dead in his bed the morning after Darnay's visit, stabbed through the heart with a knife. A note on the hilt reads: 'Drive him fast to his tomb. This, from Jacques.' The murder is the work of Gaspard, avenging the death of his child.",
+      "book": 2,
+      "chapter": 9
+    },
+    {
+      "id": "evt_darnay_asks_manette",
+      "name": "Darnay Seeks Dr. Manette's Blessing",
+      "description": "Darnay confesses his love for Lucie to Dr. Manette and asks for his blessing. The Doctor is visibly troubled but gives his promise that if Lucie loves Darnay, he will give her to him. He asks Darnay not to reveal his true name until the wedding morning. That night, Lucie hears the Doctor hammering at his shoemaker's bench.",
+      "book": 2,
+      "chapter": 10
+    },
+    {
+      "id": "evt_stryver_proposal_foiled",
+      "name": "Stryver's Proposal Is Foiled by Mr. Lorry",
+      "description": "Mr. Stryver announces his intention to propose marriage to Lucie Manette. Mr. Lorry delicately advises him that the proposal would not succeed, offering to verify with a visit to Soho. Stryver is dissuaded but reframes the rejection as Lucie's foolishness in losing such an eligible match.",
+      "book": 2,
+      "chapter": 12
+    },
+    {
+      "id": "evt_carton_confession_to_lucie",
+      "name": "Carton's Confession to Lucie",
+      "description": "Sydney Carton visits Lucie alone and confesses his hopeless love for her, declaring she has been 'the last dream of my soul.' He asks nothing in return, knowing he would only bring her misery. He pledges that for her and for anyone dear to her, he would do anything, even give his life to keep a life she loves beside her.",
+      "book": 2,
+      "chapter": 13
+    },
+    {
+      "id": "evt_cruncher_grave_robbing",
+      "name": "Jerry Cruncher's Grave-Robbing Expedition",
+      "description": "After Roger Cly's mob-disrupted funeral, Jerry Cruncher goes out at night with two accomplices to dig up Cly's coffin at the churchyard of Saint Pancras. Young Jerry secretly follows and witnesses the grave-robbing, terrified by the experience. The next morning, Young Jerry asks his father about being a 'resurrection man.'",
+      "book": 2,
+      "chapter": 14
+    },
+    {
+      "id": "evt_gaspard_captured_executed",
+      "name": "Gaspard Is Captured and Executed",
+      "description": "The mender of roads witnesses Gaspard being marched through the village by soldiers, bound and captured after nearly a year in hiding. Gaspard is imprisoned in the fortress on the crag and eventually hanged from a forty-foot gallows erected by the village fountain, left hanging to poison the water as an example.",
+      "book": 2,
+      "chapter": 15
+    },
+    {
+      "id": "evt_jacques_register_evremonde",
+      "name": "The Jacques Register the Evr\u00e9mondes for Destruction",
+      "description": "In the garret above the wine-shop, Defarge and three Jacques hear the mender of roads' account of Gaspard's capture and execution. They vote to register the Evr\u00e9monde chateau and all the race for extermination in Madame Defarge's knitted register.",
+      "book": 2,
+      "chapter": 15
+    },
+    {
+      "id": "evt_barsad_visits_wine_shop",
+      "name": "Barsad's Spy Visit to the Wine-Shop",
+      "description": "John Barsad visits Defarge's wine-shop attempting to gather intelligence, revealing that Lucie Manette is to marry the nephew of the murdered Marquis, Charles Darnay. Madame Defarge recognizes him from his description and knits his name into her register. The news troubles Defarge, who hopes Darnay will stay out of France.",
+      "book": 2,
+      "chapter": 16
+    },
+    {
+      "id": "evt_lucie_charles_wedding",
+      "name": "The Marriage of Lucie and Charles",
+      "description": "Lucie Manette and Charles Darnay marry in a quiet ceremony with only Mr. Lorry and Miss Pross attending. On the wedding morning, Darnay reveals his true name to Dr. Manette, which causes the Doctor to turn deadly pale. The couple depart for a fortnight's honeymoon in Warwickshire.",
+      "book": 2,
+      "chapter": 18
+    },
+    {
+      "id": "evt_manette_relapse",
+      "name": "Dr. Manette's Nine-Day Relapse",
+      "description": "After Lucie's departure, Dr. Manette relapses into his prison identity and begins making shoes, not recognizing Mr. Lorry or Miss Pross. For nine days and nights, Mr. Lorry watches over him while maintaining the secret from Lucie. On the tenth morning, the Doctor recovers and has no memory of the relapse.",
+      "book": 2,
+      "chapter": 18
+    },
+    {
+      "id": "evt_bench_destroyed",
+      "name": "Destruction of the Shoemaker's Bench",
+      "description": "Following Dr. Manette's recovery, Mr. Lorry persuades the Doctor to consent to the removal of his shoemaker's bench and tools. That night, Mr. Lorry and Miss Pross hack the bench to pieces, burn the remains in the kitchen fire, and bury the tools, shoes, and leather in the garden.",
+      "book": 2,
+      "chapter": 19
+    },
+    {
+      "id": "evt_carton_pledge_to_darnay",
+      "name": "Carton's Pledge of Friendship to Darnay",
+      "description": "Sydney Carton visits the newly married Darnays and asks to be accepted as a friend who may come and go freely, describing himself as a worthless, dissolute fellow. Lucie later tells Charles to be generous with Carton, revealing she has seen his wounded heart bleeding.",
+      "book": 2,
+      "chapter": 20
+    },
+    {
+      "id": "evt_storming_bastille",
+      "name": "The Storming of the Bastille",
+      "description": "On July 14, 1789, the people of Saint Antoine, led by Defarge and Madame Defarge, storm the Bastille after fierce hours of cannon and musket fire. Defarge searches cell 105 North Tower where Dr. Manette was imprisoned, finding the initials 'A.M.' carved on the wall. The governor is killed by the mob, and Madame Defarge beheads him with her knife. Seven prisoners are freed and seven heads placed on pikes.",
+      "book": 2,
+      "chapter": 21
+    },
+    {
+      "id": "evt_foulon_killed",
+      "name": "The Killing of Foulon",
+      "description": "Old Foulon, who told the starving people to eat grass and faked his own death, is found alive and dragged to the Hotel de Ville. The mob, led by the Defarges and The Vengeance, seize him and hang him from a lamp-post with grass stuffed in his mouth. His son-in-law is also killed, and three severed heads are carried through the streets on pikes.",
+      "book": 2,
+      "chapter": 22
+    },
+    {
+      "id": "evt_chateau_burned",
+      "name": "The Burning of the Evr\u00e9monde Chateau",
+      "description": "Four figures set fire to the Evr\u00e9monde chateau, which burns completely. The villagers illuminate their windows with candles and refuse to help save it. Gabelle barricades himself on his rooftop as the village threatens him. The soldiers at the prison refuse to intervene, saying 'It must burn.'",
+      "book": 2,
+      "chapter": 23
+    },
+    {
+      "id": "evt_gabelle_letter",
+      "name": "Gabelle's Letter Draws Darnay to France",
+      "description": "A letter from Gabelle, imprisoned in the Abbaye, reaches Darnay through Tellson's Bank, begging him to come to Paris and save his faithful servant from execution. Stung by the sneers of emigrant nobles and Stryver, and moved by Gabelle's plea, Darnay resolves to go to France secretly, writing farewell letters to Lucie and Dr. Manette.",
+      "book": 2,
+      "chapter": 24
+    }
+  ],
+  "chapters": [
+    {
+      "id": "ch_2_1",
+      "title": "Five Years Later",
+      "book_number": 2,
+      "chapter_number": 1,
+      "summary": "Set in 1780, five years after the events of Book 1. The chapter introduces Tellson's Bank and its odd-job man Jerry Cruncher, who abuses his wife for praying against his secret trade. Jerry and his son take up their daily post outside Tellson's, and Jerry is sent as a messenger to the Old Bailey. Young Jerry notices the mysterious rust on his father's fingers."
+    },
+    {
+      "id": "ch_2_2",
+      "title": "A Sight",
+      "book_number": 2,
+      "chapter_number": 2,
+      "summary": "Jerry Cruncher is sent to the Old Bailey to attend the treason trial and serve as messenger for Mr. Lorry. He finds the court crowded with spectators eager to witness the gruesome sentence of quartering. Charles Darnay is brought to the dock, a composed young gentleman accused of passing military secrets to France. Dr. Manette and Lucie sit as witnesses, attracting pity from the crowd."
+    },
+    {
+      "id": "ch_2_3",
+      "title": "A Disappointment",
+      "book_number": 2,
+      "chapter_number": 3,
+      "summary": "The Attorney-General prosecutes Darnay using the testimony of spy John Barsad and his partner Roger Cly. Mr. Lorry, Dr. Manette, and Lucie testify as witnesses. The defense counsel Stryver, aided by Sydney Carton's brilliant observation of his own resemblance to the prisoner, demolishes the identification evidence. The jury acquits Darnay, and Jerry carries the verdict 'ACQUITTED' back to Tellson's."
+    },
+    {
+      "id": "ch_2_4",
+      "title": "Congratulatory",
+      "book_number": 2,
+      "chapter_number": 4,
+      "summary": "After the acquittal, the group congratulates Darnay. Dr. Manette shows a strange, troubled look at Darnay. Sydney Carton, unacknowledged for his role, takes Darnay to a tavern where he reveals his bitterness, self-loathing, and resentment of Darnay who represents what Carton might have been. Looking in a mirror, Carton admits he hates the fellow for it."
+    },
+    {
+      "id": "ch_2_5",
+      "title": "The Jackal",
+      "book_number": 2,
+      "chapter_number": 5,
+      "summary": "The chapter reveals the professional relationship between Stryver (the lion) and Carton (the jackal). Carton does all the intellectual heavy lifting for Stryver's cases, working through the night with wet towels on his head while both drink heavily. They were schoolmates at Shrewsbury and fellow-students in Paris, where Carton always did others' work while neglecting his own. Stryver pledges a toast to 'the pretty witness,' Miss Manette, which Carton bitterly denies finding pretty."
+    },
+    {
+      "id": "ch_2_6",
+      "title": "Hundreds of People",
+      "book_number": 2,
+      "chapter_number": 6,
+      "summary": "Mr. Lorry visits the Manettes' home in the quiet corner of Soho on a fine Sunday. Miss Pross complains about 'hundreds of people' coming to see Lucie. Mr. Lorry and Miss Pross discuss Dr. Manette's unspoken memories and his shoemaker's bench. Darnay visits, mentioning a prisoner's carved inscription 'DIG' found in the Tower, which causes the Doctor to start violently. Carton also appears, and during a thunderstorm, Lucie speaks of the echoing footsteps she imagines will come into their lives."
+    },
+    {
+      "id": "ch_2_7",
+      "title": "Monseigneur in Town",
+      "book_number": 2,
+      "chapter_number": 7,
+      "summary": "The scene shifts to Paris, describing the corrupt, extravagant world of Monseigneur and his court. The Marquis St. Evr\u00e9monde leaves the reception and his recklessly driven carriage kills a child in the streets of Saint Antoine. The father Gaspard screams 'Dead!' while Defarge comforts him. The Marquis tosses a gold coin, which is thrown back into his carriage. Madame Defarge watches steadily, knitting."
+    },
+    {
+      "id": "ch_2_8",
+      "title": "Monseigneur in the Country",
+      "book_number": 2,
+      "chapter_number": 8,
+      "summary": "The Marquis travels to his country estate through a landscape of desperate poverty. At the village, the mender of roads reports seeing a man hanging under the carriage. A woman kneels at the roadside begging for a marker on her husband's grave among the 'many little heaps of poor grass.' The Marquis arrives at his chateau, expecting his nephew Charles."
+    },
+    {
+      "id": "ch_2_9",
+      "title": "The Gorgon's Head",
+      "book_number": 2,
+      "chapter_number": 9,
+      "summary": "Charles Darnay arrives at the chateau and confronts his uncle about the family's oppression and cruelty. Darnay declares he will renounce the property and work for his living in England. The Marquis reveals he knows about Dr. Manette and his daughter. That night, the Marquis is murdered in his bed with a knife, a note reading 'Drive him fast to his tomb. This, from Jacques.' Gabelle is sent galloping to report the crime."
+    },
+    {
+      "id": "ch_2_10",
+      "title": "Two Promises",
+      "book_number": 2,
+      "chapter_number": 10,
+      "summary": "A year after the Marquis's murder, Darnay has established himself as a French tutor in England. He confesses his love for Lucie to Dr. Manette and asks permission to court her. The Doctor is deeply troubled but promises not to oppose the match if Lucie loves Darnay. When Darnay tries to reveal his true name, the Doctor stops him, asking to hear it only on the wedding morning. That night, Lucie finds her father at his shoemaker's bench."
+    },
+    {
+      "id": "ch_2_11",
+      "title": "A Companion Picture",
+      "book_number": 2,
+      "chapter_number": 11,
+      "summary": "Stryver announces to Carton that he intends to marry Miss Manette, patronizingly advising Carton to find himself a landlady-type wife. Carton, exhausted from doing Stryver's legal work, reacts with practiced indifference while drinking heavily. Stryver boasts of his own gallantry and eligibility, blind to his own coarseness."
+    },
+    {
+      "id": "ch_2_12",
+      "title": "The Fellow of Delicacy",
+      "book_number": 2,
+      "chapter_number": 12,
+      "summary": "Stryver stops at Tellson's on his way to propose to Lucie, and Mr. Lorry tactfully warns him that his suit would not succeed. After an angry exchange, Stryver agrees to let Mr. Lorry verify by visiting Soho. That evening, Mr. Lorry confirms the rejection. Stryver, unable to admit defeat, reframes the situation as the young lady's foolish loss of a fine match."
+    },
+    {
+      "id": "ch_2_13",
+      "title": "The Fellow of No Delicacy",
+      "book_number": 2,
+      "chapter_number": 13,
+      "summary": "Sydney Carton visits Lucie alone and makes his extraordinary confession of hopeless love. He tells her she has been 'the last dream of my soul' and asks nothing in return. He pledges that for her and for any dear to her, he would give his life. Lucie weeps for him, and he asks her to keep his confidence secret, promising never to speak of it again."
+    },
+    {
+      "id": "ch_2_14",
+      "title": "The Honest Tradesman",
+      "book_number": 2,
+      "chapter_number": 14,
+      "summary": "The chapter follows Jerry Cruncher and the mob-disrupted funeral of spy Roger Cly. That night, Jerry goes 'fishing' -- his euphemism for grave-robbing -- to dig up Cly's coffin. Young Jerry secretly follows and witnesses the frightening expedition at the churchyard. The next morning, Young Jerry asks about being a 'resurrection man' and expresses his desire to join the trade."
+    },
+    {
+      "id": "ch_2_15",
+      "title": "Knitting",
+      "book_number": 2,
+      "chapter_number": 15,
+      "summary": "Defarge brings the mender of roads to Paris to testify before Jacques One, Two, and Three in the garret. The mender recounts witnessing Gaspard's capture, imprisonment, and execution by hanging on a forty-foot gallows. The Jacques vote to register the Evr\u00e9monde chateau and race for extermination. Defarge takes the mender to Versailles to see the King and Queen, explaining that the peasants' awe keeps the aristocrats complacent until the revolution strikes."
+    },
+    {
+      "id": "ch_2_16",
+      "title": "Still Knitting",
+      "book_number": 2,
+      "chapter_number": 16,
+      "summary": "The Defarges return from Versailles and learn from a police contact that a new spy named John Barsad has been commissioned for their quarter. The next day, Barsad visits the wine-shop, and Madame Defarge identifies him immediately from his description. He reveals that Lucie Manette will marry Darnay, nephew of the murdered Marquis. This news troubles Defarge, but Madame Defarge insists Darnay's name stays in the register alongside Barsad's."
+    },
+    {
+      "id": "ch_2_17",
+      "title": "One Night",
+      "book_number": 2,
+      "chapter_number": 17,
+      "summary": "On the eve of Lucie's wedding, father and daughter sit under the plane-tree. Dr. Manette speaks for the first time about his imprisonment, describing how he watched the moon and imagined his unborn child. He assures Lucie that her marriage brings him greater happiness, not less. That night, Lucie checks on him sleeping peacefully, his face showing the struggle of mastering his old suffering even in sleep."
+    },
+    {
+      "id": "ch_2_18",
+      "title": "Nine Days",
+      "book_number": 2,
+      "chapter_number": 18,
+      "summary": "On the wedding morning, Darnay reveals his true name to Dr. Manette behind closed doors, causing the Doctor to turn deadly pale. The wedding proceeds quietly. After the couple departs, Dr. Manette collapses into a relapse, returning to shoemaking and not recognizing anyone. Mr. Lorry watches over him for nine agonizing days while Miss Pross helps maintain the deception that the Doctor has been called away."
+    },
+    {
+      "id": "ch_2_19",
+      "title": "An Opinion",
+      "book_number": 2,
+      "chapter_number": 19,
+      "summary": "On the tenth morning, Dr. Manette recovers with no memory of his relapse. Mr. Lorry consults with the Doctor about the case -- framed as that of a friend -- and learns it was triggered by an anticipated association. Mr. Lorry persuades the Doctor to consent to the removal of his shoemaker's bench, which is then secretly hacked to pieces and burned."
+    },
+    {
+      "id": "ch_2_20",
+      "title": "A Plea",
+      "book_number": 2,
+      "chapter_number": 20,
+      "summary": "Sydney Carton visits the newly married Darnays and asks to be accepted as a friend who may come and go freely. When Darnay later speaks of Carton dismissively, Lucie gently corrects him, revealing she has seen Carton's wounded heart. She asks Darnay to be generous and lenient with Carton, and Darnay, moved, promises to remember their happiness and Carton's misery."
+    },
+    {
+      "id": "ch_2_21",
+      "title": "Echoing Footsteps",
+      "book_number": 2,
+      "chapter_number": 21,
+      "summary": "Years pass in the Darnay household: little Lucie is born, a son dies young, and Carton visits rarely but faithfully. In July 1789, the echoes become real as Saint Antoine storms the Bastille. Defarge leads the assault, searches cell 105 North Tower, and finds Dr. Manette's inscriptions. Madame Defarge beheads the governor. Seven prisoners are freed, seven heads placed on pikes."
+    },
+    {
+      "id": "ch_2_22",
+      "title": "The Sea Still Rises",
+      "book_number": 2,
+      "chapter_number": 22,
+      "summary": "A week after the Bastille falls, Defarge brings news that old Foulon, who told the people to eat grass, has been found alive. Madame Defarge and The Vengeance rouse the women of Saint Antoine, and the mob drags Foulon from the Hotel de Ville, hanging him from a lamp-post with grass in his mouth. His son-in-law is also killed, and three heads are carried on pikes through the streets."
+    },
+    {
+      "id": "ch_2_23",
+      "title": "Fire Rises",
+      "book_number": 2,
+      "chapter_number": 23,
+      "summary": "Revolutionary figures spread across the countryside. Four men set fire to the Evr\u00e9monde chateau, which burns completely while the villagers watch with folded arms and illuminate their windows. Gabelle barricades himself on his rooftop. Across France, chateaux burn and functionaries are hanged, as the fierce revolutionary figures march East, West, North, and South."
+    },
+    {
+      "id": "ch_2_24",
+      "title": "Drawn to the Loadstone Rock",
+      "book_number": 2,
+      "chapter_number": 24,
+      "summary": "By August 1792, three years of revolution have passed. Mr. Lorry prepares to travel to Paris to protect Tellson's documents. A letter from Gabelle, imprisoned in the Abbaye, reaches Darnay through the bank, begging him to come to Paris. Stung by the emigrant nobles' sneers and moved by duty to his faithful servant, Darnay secretly resolves to go to France. He writes farewell letters to Lucie and the Doctor and departs for Dover that night."
+    }
+  ],
+  "text_chunks": [
+    {
+      "id": "txt_2_1_1",
+      "text": "Tellson's Bank by Temple Bar was an old-fashioned place, even in the year one thousand seven hundred and eighty. It was very small, very dark, very ugly, very incommodious. It was an old-fashioned place, moreover, in the moral attribute that the partners in the House were proud of its smallness, proud of its darkness, proud of its ugliness, proud of its incommodiousness.",
+      "book": 2,
+      "chapter": 1,
+      "chunk_index": 1,
+      "context": "Opening description of Tellson's Bank, establishing its old-fashioned character"
+    },
+    {
+      "id": "txt_2_2_1",
+      "text": "Silence in the court! Charles Darnay had yesterday pleaded Not Guilty to an indictment denouncing him (with infinite jingle and jangle) for that he was a false traitor to our serene, illustrious, excellent, and so forth, prince, our Lord the King, by reason of his having, on divers occasions, and by divers means and ways, assisted Lewis, the French King, in his wars against our said serene, illustrious, excellent, and so forth.",
+      "book": 2,
+      "chapter": 2,
+      "chunk_index": 1,
+      "context": "The formal treason charge against Charles Darnay at the Old Bailey"
+    },
+    {
+      "id": "txt_2_3_1",
+      "text": "Hastily written on the paper was the word 'ACQUITTED.'",
+      "book": 2,
+      "chapter": 3,
+      "chunk_index": 1,
+      "context": "The verdict of Darnay's treason trial, delivered to Jerry Cruncher"
+    },
+    {
+      "id": "txt_2_4_1",
+      "text": "She was the golden thread that united him to a Past beyond his misery, and to a Present beyond his misery: and the sound of her voice, the light of her face, the touch of her hand, had a strong beneficial influence with him almost always.",
+      "book": 2,
+      "chapter": 4,
+      "chunk_index": 1,
+      "context": "Description of Lucie as the golden thread connecting Dr. Manette to life"
+    },
+    {
+      "id": "txt_2_4_2",
+      "text": "Do you particularly like the man?\" he muttered, at his own image; \"why should you particularly like a man who resembles you? There is nothing in you to like; you know that. Ah, confound you! What a change you have made in yourself! A good reason for taking to a man, that he shows you what you have fallen away from, and what you might have been!\"",
+      "book": 2,
+      "chapter": 4,
+      "chunk_index": 2,
+      "context": "Carton's self-lacerating soliloquy in the mirror after dining with Darnay"
+    },
+    {
+      "id": "txt_2_5_1",
+      "text": "Waste forces within him, and a desert all around, this man stood still on his way across a silent terrace, and saw for a moment, lying in the wilderness before him, a mirage of honourable ambition, self-denial, and perseverance.",
+      "book": 2,
+      "chapter": 5,
+      "chunk_index": 1,
+      "context": "Carton's momentary vision of a better life as he walks home at dawn"
+    },
+    {
+      "id": "txt_2_5_2",
+      "text": "Sadly, sadly, the sun rose; it rose upon no sadder sight than the man of good abilities and good emotions, incapable of their directed exercise, incapable of his own help and his own happiness, sensible of the blight on him, and resigning himself to let it eat him away.",
+      "book": 2,
+      "chapter": 5,
+      "chunk_index": 2,
+      "context": "The narrator's summary of Carton's tragic condition"
+    },
+    {
+      "id": "txt_2_6_1",
+      "text": "There never was, nor will be, but one man worthy of Ladybird,\" said Miss Pross; \"and that was my brother Solomon, if he hadn't made a mistake in life.\"",
+      "book": 2,
+      "chapter": 6,
+      "chunk_index": 1,
+      "context": "Miss Pross's deluded devotion to her worthless brother Solomon"
+    },
+    {
+      "id": "txt_2_6_2",
+      "text": "There is a great crowd coming one day into our lives, if that be so,\" Sydney Carton struck in, in his moody way.",
+      "book": 2,
+      "chapter": 6,
+      "chunk_index": 2,
+      "context": "Carton's prophetic remark during the storm, foreshadowing the Revolution"
+    },
+    {
+      "id": "txt_2_7_1",
+      "text": "The earth and the fulness thereof are mine, saith Monseigneur.",
+      "book": 2,
+      "chapter": 7,
+      "chunk_index": 1,
+      "context": "The Monseigneur's self-serving alteration of Scripture to justify his greed"
+    },
+    {
+      "id": "txt_2_7_2",
+      "text": "\"Killed!\" shrieked the man, in wild desperation, extending both arms at their length above his head, and staring at him. \"Dead!\"",
+      "book": 2,
+      "chapter": 7,
+      "chunk_index": 2,
+      "context": "Gaspard's anguished cry when his child is killed by the Marquis's carriage"
+    },
+    {
+      "id": "txt_2_9_1",
+      "text": "\"Repression is the only lasting philosophy. The dark deference of fear and slavery, my friend,\" observed the Marquis, \"will keep the dogs obedient to the whip, as long as this roof,\" looking up to it, \"shuts out the sky.\"",
+      "book": 2,
+      "chapter": 9,
+      "chunk_index": 1,
+      "context": "The Marquis's philosophy of aristocratic rule through fear"
+    },
+    {
+      "id": "txt_2_9_2",
+      "text": "\"This property and France are lost to me,\" said the nephew, sadly; \"I renounce them.\"",
+      "book": 2,
+      "chapter": 9,
+      "chunk_index": 2,
+      "context": "Darnay renouncing the Evr\u00e9monde estate and France"
+    },
+    {
+      "id": "txt_2_9_3",
+      "text": "Drive him fast to his tomb. This, from Jacques.",
+      "book": 2,
+      "chapter": 9,
+      "chunk_index": 3,
+      "context": "The note found on the knife driven into the Marquis's heart"
+    },
+    {
+      "id": "txt_2_10_1",
+      "text": "\"Dear Doctor Manette, I love your daughter fondly, dearly, disinterestedly, devotedly. If ever there were love in the world, I love her. You have loved yourself; let your old love speak for me!\"",
+      "book": 2,
+      "chapter": 10,
+      "chunk_index": 1,
+      "context": "Darnay's declaration of love for Lucie to her father"
+    },
+    {
+      "id": "txt_2_10_2",
+      "text": "\"Tell me when I ask you, not now. If your suit should prosper, if Lucie should love you, you shall tell me on your marriage morning. Do you promise?\"",
+      "book": 2,
+      "chapter": 10,
+      "chunk_index": 2,
+      "context": "Dr. Manette asking Darnay to delay revealing his true name until the wedding"
+    },
+    {
+      "id": "txt_2_13_1",
+      "text": "\"I wish you to know that you have been the last dream of my soul. In my degradation I have not been so degraded but that the sight of you with your father, and of this home made such a home by you, has stirred old shadows that I thought had died out of me.\"",
+      "book": 2,
+      "chapter": 13,
+      "chunk_index": 1,
+      "context": "Carton's confession of love to Lucie"
+    },
+    {
+      "id": "txt_2_13_2",
+      "text": "\"For you, and for any dear to you, I would do anything. If my career were of that better kind that there was any opportunity or capacity of sacrifice in it, I would embrace any sacrifice for you and for those dear to you.\"",
+      "book": 2,
+      "chapter": 13,
+      "chunk_index": 2,
+      "context": "Carton's pledge of sacrifice to Lucie, foreshadowing his ultimate act"
+    },
+    {
+      "id": "txt_2_13_3",
+      "text": "\"O Miss Manette, when the little picture of a happy father's face looks up in yours, when you see your own bright beauty springing up anew at your feet, think now and then that there is a man who would give his life, to keep a life you love beside you!\"",
+      "book": 2,
+      "chapter": 13,
+      "chunk_index": 3,
+      "context": "Carton's farewell words to Lucie, a direct foreshadowing of his sacrifice"
+    },
+    {
+      "id": "txt_2_15_1",
+      "text": "\"To be registered, as doomed to destruction,\" returned Defarge. \"The chateau, and all the race?\" inquired the first. \"The chateau and all the race,\" returned Defarge. \"Extermination.\"",
+      "book": 2,
+      "chapter": 15,
+      "chunk_index": 1,
+      "context": "The Jacques voting to condemn the entire Evr\u00e9monde line to destruction"
+    },
+    {
+      "id": "txt_2_15_2",
+      "text": "\"Jacques,\" returned Defarge, drawing himself up, \"if madame my wife undertook to keep the register in her memory alone, she would not lose a word of it--not a syllable of it. Knitted, in her own stitches and her own symbols, it will always be as plain to her as the sun.\"",
+      "book": 2,
+      "chapter": 15,
+      "chunk_index": 2,
+      "context": "Defarge explaining Madame Defarge's knitted register of the condemned"
+    },
+    {
+      "id": "txt_2_16_1",
+      "text": "\"Vengeance and retribution require a long time; it is the rule.\"",
+      "book": 2,
+      "chapter": 16,
+      "chunk_index": 1,
+      "context": "Madame Defarge's philosophy of patient revolutionary justice"
+    },
+    {
+      "id": "txt_2_16_2",
+      "text": "\"It does not take a long time,\" said madame, \"for an earthquake to swallow a town. Eh well! Tell me how long it takes to prepare the earthquake?\"",
+      "book": 2,
+      "chapter": 16,
+      "chunk_index": 2,
+      "context": "Madame Defarge comparing the revolution to an earthquake in preparation"
+    },
+    {
+      "id": "txt_2_16_3",
+      "text": "\"Her husband's destiny,\" said Madame Defarge, with her usual composure, \"will take him where he is to go, and will lead him to the end that is to end him. That is all I know.\"",
+      "book": 2,
+      "chapter": 16,
+      "chunk_index": 3,
+      "context": "Madame Defarge's cold pronouncement on Darnay's fate despite Defarge's sympathy"
+    },
+    {
+      "id": "txt_2_17_1",
+      "text": "\"I have looked at her from my prison-window, when I could not bear her light. I have looked at her when it has been such torture to me to think of her shining upon what I had lost, that I have beaten my head against my prison-walls.\"",
+      "book": 2,
+      "chapter": 17,
+      "chunk_index": 1,
+      "context": "Dr. Manette speaking of the moon from his prison, his first reference to captivity"
+    },
+    {
+      "id": "txt_2_18_1",
+      "text": "\"O me, O me! All is lost!\" cried she, wringing her hands. \"What is to be told to Ladybird? He doesn't know me, and is making shoes!\"",
+      "book": 2,
+      "chapter": 18,
+      "chunk_index": 1,
+      "context": "Miss Pross's anguished discovery of Dr. Manette's relapse into shoemaking"
+    },
+    {
+      "id": "txt_2_19_1",
+      "text": "\"In her name, then, let it be done; I sanction it. But, I would not take it away while he was present. Let it be removed when he is not there; let him miss his old companion after an absence.\"",
+      "book": 2,
+      "chapter": 19,
+      "chunk_index": 1,
+      "context": "Dr. Manette consenting to the destruction of his shoemaker's bench"
+    },
+    {
+      "id": "txt_2_20_1",
+      "text": "\"I am sure that he is capable of good things, gentle things, even magnanimous things.\"",
+      "book": 2,
+      "chapter": 20,
+      "chunk_index": 1,
+      "context": "Lucie defending Carton's character to her husband"
+    },
+    {
+      "id": "txt_2_20_2",
+      "text": "\"Remember how strong we are in our happiness, and how weak he is in his misery!\"",
+      "book": 2,
+      "chapter": 20,
+      "chunk_index": 2,
+      "context": "Lucie urging Darnay to have compassion for Carton"
+    },
+    {
+      "id": "txt_2_21_1",
+      "text": "With a roar that sounded as if all the breath in France had been shaped into the detested word, the living sea rose, wave on wave, depth on depth, and overflowed the city to that point. Alarm-bells ringing, drums beating, the sea raging and thundering on its new beach, the attack began.",
+      "book": 2,
+      "chapter": 21,
+      "chunk_index": 1,
+      "context": "The people of Paris surging toward the Bastille on July 14, 1789"
+    },
+    {
+      "id": "txt_2_21_2",
+      "text": "\"Alexandre Manette,\" said Defarge in his ear, following the letters with his swart forefinger, deeply engrained with gunpowder. \"And here he wrote 'a poor physician.'\"",
+      "book": 2,
+      "chapter": 21,
+      "chunk_index": 2,
+      "context": "Defarge finding Dr. Manette's inscription in cell 105 North Tower of the Bastille"
+    },
+    {
+      "id": "txt_2_21_3",
+      "text": "Seven prisoners released, seven gory heads on pikes, the keys of the accursed fortress of the eight strong towers, some discovered letters and other memorials of prisoners of old time, long dead of broken hearts,--such, and such--like, the loudly echoing footsteps of Saint Antoine escort through the Paris streets in mid-July, one thousand seven hundred and eighty-nine.",
+      "book": 2,
+      "chapter": 21,
+      "chunk_index": 3,
+      "context": "Summary of the aftermath of the Bastille's fall"
+    },
+    {
+      "id": "txt_2_22_1",
+      "text": "Once, he went aloft, and the rope broke, and they caught him shrieking; twice, he went aloft, and the rope broke, and they caught him shrieking; then, the rope was merciful, and held him, and his head was soon upon a pike, with grass enough in the mouth for all Saint Antoine to dance at the sight of.",
+      "book": 2,
+      "chapter": 22,
+      "chunk_index": 1,
+      "context": "The mob hanging old Foulon with grass in his mouth"
+    },
+    {
+      "id": "txt_2_23_1",
+      "text": "The chateau burned; the nearest trees, laid hold of by the fire, scorched and shrivelled; trees at a distance, fired by the four fierce figures, begirt the blazing edifice with a new forest of smoke.",
+      "book": 2,
+      "chapter": 23,
+      "chunk_index": 1,
+      "context": "The burning of the Evr\u00e9monde chateau"
+    },
+    {
+      "id": "txt_2_24_1",
+      "text": "\"Very pressing. To Monsieur heretofore the Marquis St. Evr\u00e9monde, of France. Confided to the cares of Messrs. Tellson and Co., Bankers, London, England.\"",
+      "book": 2,
+      "chapter": 24,
+      "chunk_index": 1,
+      "context": "The address on Gabelle's letter that reveals Darnay's true identity to the reader"
+    },
+    {
+      "id": "txt_2_24_2",
+      "text": "\"For the love of Heaven, of justice, of generosity, of the honour of your noble name!\" was the poor prisoner's cry with which he strengthened his sinking heart, as he left all that was dear on earth behind him, and floated away for the Loadstone Rock.",
+      "book": 2,
+      "chapter": 24,
+      "chunk_index": 2,
+      "context": "Darnay departing for France, drawn by Gabelle's plea and his own sense of duty"
+    },
+    {
+      "id": "txt_2_21_4",
+      "text": "No man ever really loved a woman, lost her, and knew her with a blameless though an unchanged mind, when she was a wife and a mother, but her children had a strange sympathy with him--an instinctive delicacy of pity for him.",
+      "book": 2,
+      "chapter": 21,
+      "chunk_index": 4,
+      "context": "The narrator on Carton's relationship with the Darnay children"
+    }
+  ],
+  "edges": [
+    {
+      "source": "char_charles_darnay",
+      "target": "char_lucie_manette",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "husband and wife",
+        "description": "Darnay loves Lucie from the hour of his trial and marries her after gaining Dr. Manette's consent"
+      }
+    },
+    {
+      "source": "char_charles_darnay",
+      "target": "char_marquis_st_evremonde",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "nephew and uncle",
+        "description": "Darnay is the nephew of the Marquis, who is his father's twin brother and inheritor of the Evr\u00e9monde estate"
+      }
+    },
+    {
+      "source": "char_charles_darnay",
+      "target": "char_doctor_manette",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "son-in-law and father-in-law",
+        "description": "Darnay marries Lucie and promises to reveal his true name (Evr\u00e9monde) on the wedding morning"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "char_lucie_manette",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "unrequited love",
+        "description": "Carton confesses his hopeless love to Lucie and pledges to sacrifice anything for her and those dear to her"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "char_charles_darnay",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "physical double and reluctant friend",
+        "description": "Carton bears a striking resemblance to Darnay, which saves Darnay at trial; they later form an uneasy friendship"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "char_stryver",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "jackal and lion / professional partners",
+        "description": "Carton does all intellectual legal work for Stryver while Stryver takes the credit and fame; they were schoolmates at Shrewsbury"
+      }
+    },
+    {
+      "source": "char_ernest_defarge",
+      "target": "char_madame_defarge",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "husband and wife",
+        "description": "Partners in running the wine-shop and leading the revolutionary Jacques network"
+      }
+    },
+    {
+      "source": "char_ernest_defarge",
+      "target": "char_doctor_manette",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "former servant and master",
+        "description": "Defarge was Dr. Manette's servant before his imprisonment and cared for him when he was released"
+      }
+    },
+    {
+      "source": "char_jerry_cruncher",
+      "target": "char_mrs_cruncher",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "husband and wife",
+        "description": "Jerry abuses his wife for praying, believing her prayers undermine his grave-robbing trade"
+      }
+    },
+    {
+      "source": "char_jerry_cruncher",
+      "target": "char_young_jerry",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "father and son",
+        "description": "Young Jerry is his express image, serves as his stand-in at Tellson's, and aspires to follow in his resurrection man trade"
+      }
+    },
+    {
+      "source": "char_jerry_cruncher",
+      "target": "char_jarvis_lorry",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "messenger and banker",
+        "description": "Jerry serves as Mr. Lorry's bodyguard and messenger, accompanying him to Paris"
+      }
+    },
+    {
+      "source": "char_miss_pross",
+      "target": "char_lucie_manette",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "devoted companion and charge",
+        "description": "Miss Pross has cared for Lucie since she was ten years old with fierce, selfless devotion"
+      }
+    },
+    {
+      "source": "char_miss_pross",
+      "target": "char_solomon_pross",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "sister and brother",
+        "description": "Miss Pross maintains deluded faith in her brother Solomon despite his having stripped her of everything"
+      }
+    },
+    {
+      "source": "char_john_barsad",
+      "target": "char_roger_cly",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "fellow spies and accomplices",
+        "description": "Barsad and Cly work together to frame Darnay for treason, having known each other seven or eight years"
+      }
+    },
+    {
+      "source": "char_gaspard",
+      "target": "char_marquis_st_evremonde",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "avenger and victim",
+        "description": "Gaspard murders the Marquis to avenge his child who was killed by the Marquis's carriage"
+      }
+    },
+    {
+      "source": "char_gabelle",
+      "target": "char_charles_darnay",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "steward and master",
+        "description": "Gabelle manages the Evr\u00e9monde estate on Darnay's instructions to spare the people, and is imprisoned for serving an emigrant"
+      }
+    },
+    {
+      "source": "char_little_lucie",
+      "target": "char_charles_darnay",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "daughter and father",
+        "description": "Little Lucie is the daughter of Charles and Lucie Darnay"
+      }
+    },
+    {
+      "source": "char_little_lucie",
+      "target": "char_lucie_manette",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "daughter and mother",
+        "description": "Little Lucie is the daughter of Lucie, chattering in the tongues of the Two Cities"
+      }
+    },
+    {
+      "source": "char_the_vengeance",
+      "target": "char_madame_defarge",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "lieutenant and leader",
+        "description": "The Vengeance serves as Madame Defarge's chief lieutenant among the women of Saint Antoine"
+      }
+    },
+    {
+      "source": "char_the_mender_of_roads",
+      "target": "char_ernest_defarge",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "witness and handler",
+        "description": "Defarge brings the mender of roads to Paris to testify before the Jacques about Gaspard"
+      }
+    },
+    {
+      "source": "char_stryver",
+      "target": "char_lucie_manette",
+      "edge_type": "RELATED_TO",
+      "properties": {
+        "relationship": "rejected suitor",
+        "description": "Stryver intends to propose to Lucie but is dissuaded by Mr. Lorry before he can do so"
+      }
+    },
+    {
+      "source": "char_jerry_cruncher",
+      "target": "loc_tellsons_bank",
+      "edge_type": "LOCATED_IN",
+      "properties": {
+        "description": "Jerry serves as odd-job man and porter outside Tellson's Bank"
+      }
+    },
+    {
+      "source": "char_jarvis_lorry",
+      "target": "loc_tellsons_bank",
+      "edge_type": "LOCATED_IN",
+      "properties": {
+        "description": "Mr. Lorry works as a clerk at Tellson's Bank for over sixty years"
+      }
+    },
+    {
+      "source": "char_doctor_manette",
+      "target": "loc_soho_lodgings",
+      "edge_type": "LOCATED_IN",
+      "properties": {
+        "description": "The Doctor lives and practices medicine at the quiet corner in Soho"
+      }
+    },
+    {
+      "source": "char_lucie_manette",
+      "target": "loc_soho_lodgings",
+      "edge_type": "LOCATED_IN",
+      "properties": {
+        "description": "Lucie creates a happy home at the Soho lodgings with her father and later with Darnay"
+      }
+    },
+    {
+      "source": "char_ernest_defarge",
+      "target": "loc_defarge_wine_shop",
+      "edge_type": "LOCATED_IN",
+      "properties": {
+        "description": "Defarge owns and operates the wine-shop in Saint Antoine"
+      }
+    },
+    {
+      "source": "char_madame_defarge",
+      "target": "loc_defarge_wine_shop",
+      "edge_type": "LOCATED_IN",
+      "properties": {
+        "description": "Madame Defarge presides at the counter of the wine-shop, perpetually knitting her register"
+      }
+    },
+    {
+      "source": "char_marquis_st_evremonde",
+      "target": "loc_evremonde_chateau",
+      "edge_type": "LOCATED_IN",
+      "properties": {
+        "description": "The Marquis lives at the chateau and is murdered there in his bed"
+      }
+    },
+    {
+      "source": "char_gabelle",
+      "target": "loc_evremonde_village",
+      "edge_type": "LOCATED_IN",
+      "properties": {
+        "description": "Gabelle serves as postmaster and tax functionary of the village"
+      }
+    },
+    {
+      "source": "char_the_mender_of_roads",
+      "target": "loc_evremonde_village",
+      "edge_type": "LOCATED_IN",
+      "properties": {
+        "description": "The mender of roads works on the hillside above the village"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "loc_stryver_chambers",
+      "edge_type": "LOCATED_IN",
+      "properties": {
+        "description": "Carton works through the nights at Stryver's chambers preparing legal briefs"
+      }
+    },
+    {
+      "source": "char_jerry_cruncher",
+      "target": "loc_hanging_sword_alley",
+      "edge_type": "LOCATED_IN",
+      "properties": {
+        "description": "Jerry and his family live in Hanging-sword-alley, Whitefriars"
+      }
+    },
+    {
+      "source": "char_gabelle",
+      "target": "loc_abbaye_prison",
+      "edge_type": "LOCATED_IN",
+      "properties": {
+        "description": "Gabelle is imprisoned in the Abbaye and writes his desperate letter to Darnay from there"
+      }
+    },
+    {
+      "source": "char_charles_darnay",
+      "target": "evt_darnay_treason_trial",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "the accused prisoner on trial for treason"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "evt_darnay_treason_trial",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "barrister whose resemblance to Darnay destroys the prosecution's identification"
+      }
+    },
+    {
+      "source": "char_lucie_manette",
+      "target": "evt_darnay_treason_trial",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "reluctant witness for the prosecution"
+      }
+    },
+    {
+      "source": "char_doctor_manette",
+      "target": "evt_darnay_treason_trial",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "witness who cannot identify Darnay due to his mental state during the voyage"
+      }
+    },
+    {
+      "source": "char_jarvis_lorry",
+      "target": "evt_darnay_treason_trial",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "witness who testifies about the Dover mail journey"
+      }
+    },
+    {
+      "source": "char_john_barsad",
+      "target": "evt_darnay_treason_trial",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "chief prosecution witness, exposed as spy and scoundrel"
+      }
+    },
+    {
+      "source": "char_roger_cly",
+      "target": "evt_darnay_treason_trial",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "prosecution witness posing as Darnay's honest servant"
+      }
+    },
+    {
+      "source": "char_stryver",
+      "target": "evt_darnay_treason_trial",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "defense counsel for Darnay"
+      }
+    },
+    {
+      "source": "char_jerry_cruncher",
+      "target": "evt_darnay_treason_trial",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "messenger for Mr. Lorry, carries the acquittal verdict back to Tellson's"
+      }
+    },
+    {
+      "source": "char_marquis_st_evremonde",
+      "target": "evt_marquis_kills_child",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "the aristocrat whose carriage kills the child"
+      }
+    },
+    {
+      "source": "char_gaspard",
+      "target": "evt_marquis_kills_child",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "the father of the killed child"
+      }
+    },
+    {
+      "source": "char_ernest_defarge",
+      "target": "evt_marquis_kills_child",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "comforts Gaspard and is identified by the Marquis"
+      }
+    },
+    {
+      "source": "char_madame_defarge",
+      "target": "evt_marquis_kills_child",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "stands watching steadily and knitting as the scene unfolds"
+      }
+    },
+    {
+      "source": "char_gaspard",
+      "target": "evt_marquis_murdered",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "the assassin who stabs the Marquis in the heart"
+      }
+    },
+    {
+      "source": "char_marquis_st_evremonde",
+      "target": "evt_marquis_murdered",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "the victim, murdered in his bed"
+      }
+    },
+    {
+      "source": "char_charles_darnay",
+      "target": "evt_darnay_confronts_uncle",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "confronts his uncle and renounces the family property"
+      }
+    },
+    {
+      "source": "char_marquis_st_evremonde",
+      "target": "evt_darnay_confronts_uncle",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "refuses to change and vows to perpetuate the system of oppression"
+      }
+    },
+    {
+      "source": "char_charles_darnay",
+      "target": "evt_darnay_asks_manette",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "asks Dr. Manette for permission to court Lucie"
+      }
+    },
+    {
+      "source": "char_doctor_manette",
+      "target": "evt_darnay_asks_manette",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "gives conditional consent while struggling with inner turmoil"
+      }
+    },
+    {
+      "source": "char_stryver",
+      "target": "evt_stryver_proposal_foiled",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "the would-be suitor dissuaded from proposing"
+      }
+    },
+    {
+      "source": "char_jarvis_lorry",
+      "target": "evt_stryver_proposal_foiled",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "tactfully warns Stryver that his proposal would fail"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "evt_carton_confession_to_lucie",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "confesses his love and pledges to sacrifice anything for Lucie"
+      }
+    },
+    {
+      "source": "char_lucie_manette",
+      "target": "evt_carton_confession_to_lucie",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "receives Carton's confession with compassion and promises to keep his secret"
+      }
+    },
+    {
+      "source": "char_jerry_cruncher",
+      "target": "evt_cruncher_grave_robbing",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "leads the grave-robbing expedition to dig up Roger Cly's coffin"
+      }
+    },
+    {
+      "source": "char_young_jerry",
+      "target": "evt_cruncher_grave_robbing",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "secretly follows his father and witnesses the grave-robbing"
+      }
+    },
+    {
+      "source": "char_the_mender_of_roads",
+      "target": "evt_gaspard_captured_executed",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "witness to Gaspard's capture and execution"
+      }
+    },
+    {
+      "source": "char_gaspard",
+      "target": "evt_gaspard_captured_executed",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "the prisoner who is captured and hanged"
+      }
+    },
+    {
+      "source": "char_ernest_defarge",
+      "target": "evt_jacques_register_evremonde",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "presides over the tribunal and declares extermination of the Evr\u00e9mondes"
+      }
+    },
+    {
+      "source": "char_john_barsad",
+      "target": "evt_barsad_visits_wine_shop",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "spy attempting to gather intelligence from the Defarges"
+      }
+    },
+    {
+      "source": "char_madame_defarge",
+      "target": "evt_barsad_visits_wine_shop",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "identifies Barsad and knits his name into the register"
+      }
+    },
+    {
+      "source": "char_charles_darnay",
+      "target": "evt_lucie_charles_wedding",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "the groom who reveals his true name on the wedding morning"
+      }
+    },
+    {
+      "source": "char_lucie_manette",
+      "target": "evt_lucie_charles_wedding",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "the bride"
+      }
+    },
+    {
+      "source": "char_doctor_manette",
+      "target": "evt_lucie_charles_wedding",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "gives his daughter away, turns deadly pale upon hearing Darnay's true name"
+      }
+    },
+    {
+      "source": "char_doctor_manette",
+      "target": "evt_manette_relapse",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "relapses into shoemaking for nine days after learning Darnay's true name"
+      }
+    },
+    {
+      "source": "char_jarvis_lorry",
+      "target": "evt_manette_relapse",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "watches over the Doctor and maintains the secret from Lucie"
+      }
+    },
+    {
+      "source": "char_miss_pross",
+      "target": "evt_manette_relapse",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "discovers the relapse and helps maintain the deception"
+      }
+    },
+    {
+      "source": "char_jarvis_lorry",
+      "target": "evt_bench_destroyed",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "hacks the bench to pieces and burns the remains"
+      }
+    },
+    {
+      "source": "char_miss_pross",
+      "target": "evt_bench_destroyed",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "assists Mr. Lorry by holding the candle during the destruction"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "evt_carton_pledge_to_darnay",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "asks to be accepted as a friend who may come and go freely"
+      }
+    },
+    {
+      "source": "char_ernest_defarge",
+      "target": "evt_storming_bastille",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "leads the assault and searches cell 105 North Tower"
+      }
+    },
+    {
+      "source": "char_madame_defarge",
+      "target": "evt_storming_bastille",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "leads the women, beheads the governor with her knife"
+      }
+    },
+    {
+      "source": "char_jacques_three",
+      "target": "evt_storming_bastille",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "accompanies Defarge to cell 105 North Tower"
+      }
+    },
+    {
+      "source": "char_madame_defarge",
+      "target": "evt_foulon_killed",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "seizes Foulon and releases him to the mob at the lamp-post"
+      }
+    },
+    {
+      "source": "char_the_vengeance",
+      "target": "evt_foulon_killed",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "rouses the women and leads them in the pursuit of Foulon"
+      }
+    },
+    {
+      "source": "char_foulon",
+      "target": "evt_foulon_killed",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "the victim, hanged with grass in his mouth"
+      }
+    },
+    {
+      "source": "char_gabelle",
+      "target": "evt_chateau_burned",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "barricades himself on his rooftop as the village threatens him"
+      }
+    },
+    {
+      "source": "char_charles_darnay",
+      "target": "evt_gabelle_letter",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "receives Gabelle's letter and resolves to go to France"
+      }
+    },
+    {
+      "source": "char_gabelle",
+      "target": "evt_gabelle_letter",
+      "edge_type": "PARTICIPATES_IN",
+      "properties": {
+        "role": "writes the desperate letter from the Abbaye prison"
+      }
+    },
+    {
+      "source": "evt_darnay_treason_trial",
+      "target": "loc_old_bailey",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "The treason trial takes place at the Old Bailey courthouse"
+      }
+    },
+    {
+      "source": "evt_marquis_kills_child",
+      "target": "loc_saint_antoine",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "The Marquis's carriage kills the child in the streets near a fountain in Saint Antoine"
+      }
+    },
+    {
+      "source": "evt_marquis_murdered",
+      "target": "loc_evremonde_chateau",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "The Marquis is murdered in his bed at the chateau"
+      }
+    },
+    {
+      "source": "evt_darnay_confronts_uncle",
+      "target": "loc_evremonde_chateau",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "Darnay confronts the Marquis over dinner at the chateau"
+      }
+    },
+    {
+      "source": "evt_darnay_asks_manette",
+      "target": "loc_soho_lodgings",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "Darnay speaks to Dr. Manette at his lodgings in Soho"
+      }
+    },
+    {
+      "source": "evt_carton_confession_to_lucie",
+      "target": "loc_soho_lodgings",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "Carton confesses to Lucie at the Manette home in Soho"
+      }
+    },
+    {
+      "source": "evt_stryver_proposal_foiled",
+      "target": "loc_tellsons_bank",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "Stryver is dissuaded from proposing during a visit to Tellson's"
+      }
+    },
+    {
+      "source": "evt_jacques_register_evremonde",
+      "target": "loc_defarge_wine_shop",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "The Jacques meet in the garret above the wine-shop to register the Evr\u00e9mondes"
+      }
+    },
+    {
+      "source": "evt_barsad_visits_wine_shop",
+      "target": "loc_defarge_wine_shop",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "Barsad visits the wine-shop to spy on the Defarges"
+      }
+    },
+    {
+      "source": "evt_storming_bastille",
+      "target": "loc_bastille",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "The people of Saint Antoine storm the Bastille fortress"
+      }
+    },
+    {
+      "source": "evt_chateau_burned",
+      "target": "loc_evremonde_chateau",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "Four revolutionaries set fire to the chateau, burning it completely"
+      }
+    },
+    {
+      "source": "evt_gaspard_captured_executed",
+      "target": "loc_evremonde_village",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "Gaspard is captured, imprisoned, and hanged in the village"
+      }
+    },
+    {
+      "source": "evt_gabelle_letter",
+      "target": "loc_tellsons_bank",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "Darnay receives Gabelle's letter at Tellson's Bank"
+      }
+    },
+    {
+      "source": "evt_lucie_charles_wedding",
+      "target": "loc_soho_lodgings",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "The wedding party gathers at the Soho lodgings before going to a nearby church"
+      }
+    },
+    {
+      "source": "evt_manette_relapse",
+      "target": "loc_soho_lodgings",
+      "edge_type": "OCCURS_IN",
+      "properties": {
+        "description": "Dr. Manette's nine-day relapse occurs at his lodgings in Soho"
+      }
+    },
+    {
+      "source": "evt_darnay_treason_trial",
+      "target": "ch_2_3",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_carton_darnay_dinner",
+      "target": "ch_2_4",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_marquis_kills_child",
+      "target": "ch_2_7",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_darnay_confronts_uncle",
+      "target": "ch_2_9",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_marquis_murdered",
+      "target": "ch_2_9",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_darnay_asks_manette",
+      "target": "ch_2_10",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_stryver_proposal_foiled",
+      "target": "ch_2_12",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_carton_confession_to_lucie",
+      "target": "ch_2_13",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_cruncher_grave_robbing",
+      "target": "ch_2_14",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_gaspard_captured_executed",
+      "target": "ch_2_15",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_jacques_register_evremonde",
+      "target": "ch_2_15",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_barsad_visits_wine_shop",
+      "target": "ch_2_16",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_lucie_charles_wedding",
+      "target": "ch_2_18",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_manette_relapse",
+      "target": "ch_2_18",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_bench_destroyed",
+      "target": "ch_2_19",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_carton_pledge_to_darnay",
+      "target": "ch_2_20",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_storming_bastille",
+      "target": "ch_2_21",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_foulon_killed",
+      "target": "ch_2_22",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_chateau_burned",
+      "target": "ch_2_23",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "evt_gabelle_letter",
+      "target": "ch_2_24",
+      "edge_type": "OCCURS_DURING",
+      "properties": {}
+    },
+    {
+      "source": "char_charles_darnay",
+      "target": "txt_2_2_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "The treason charge against Darnay"
+      }
+    },
+    {
+      "source": "char_lucie_manette",
+      "target": "txt_2_4_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Lucie described as the golden thread"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "txt_2_4_2",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Carton's self-lacerating mirror soliloquy"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "txt_2_5_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Carton's mirage of a better life"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "txt_2_5_2",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Narrator's summary of Carton's wasted potential"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "txt_2_13_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Carton's confession to Lucie"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "txt_2_13_2",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Carton's pledge of sacrifice"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "txt_2_13_3",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Carton's farewell words foreshadowing his sacrifice"
+      }
+    },
+    {
+      "source": "char_marquis_st_evremonde",
+      "target": "txt_2_9_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "The Marquis's philosophy of repression"
+      }
+    },
+    {
+      "source": "char_charles_darnay",
+      "target": "txt_2_9_2",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Darnay renouncing the estate"
+      }
+    },
+    {
+      "source": "char_gaspard",
+      "target": "txt_2_7_2",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Gaspard's cry at his child's death"
+      }
+    },
+    {
+      "source": "char_gaspard",
+      "target": "txt_2_9_3",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "The note on the knife driven into the Marquis's heart"
+      }
+    },
+    {
+      "source": "char_madame_defarge",
+      "target": "txt_2_15_2",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Defarge explaining the knitted register"
+      }
+    },
+    {
+      "source": "char_madame_defarge",
+      "target": "txt_2_16_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Madame Defarge on vengeance requiring time"
+      }
+    },
+    {
+      "source": "char_madame_defarge",
+      "target": "txt_2_16_2",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Madame Defarge's earthquake metaphor"
+      }
+    },
+    {
+      "source": "char_madame_defarge",
+      "target": "txt_2_16_3",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Madame Defarge's cold pronouncement on Darnay's fate"
+      }
+    },
+    {
+      "source": "char_doctor_manette",
+      "target": "txt_2_17_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Dr. Manette speaking of the moon from his prison"
+      }
+    },
+    {
+      "source": "char_doctor_manette",
+      "target": "txt_2_18_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Miss Pross discovering the relapse"
+      }
+    },
+    {
+      "source": "char_doctor_manette",
+      "target": "txt_2_19_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Dr. Manette consenting to destroy the bench"
+      }
+    },
+    {
+      "source": "char_lucie_manette",
+      "target": "txt_2_20_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Lucie defending Carton"
+      }
+    },
+    {
+      "source": "char_lucie_manette",
+      "target": "txt_2_20_2",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Lucie urging compassion for Carton"
+      }
+    },
+    {
+      "source": "char_ernest_defarge",
+      "target": "txt_2_21_2",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Defarge finding Manette's inscription in the Bastille"
+      }
+    },
+    {
+      "source": "char_foulon",
+      "target": "txt_2_22_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Foulon being hanged by the mob"
+      }
+    },
+    {
+      "source": "char_charles_darnay",
+      "target": "txt_2_24_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Gabelle's letter revealing Darnay's true identity as Marquis St. Evr\u00e9monde"
+      }
+    },
+    {
+      "source": "char_charles_darnay",
+      "target": "txt_2_24_2",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Darnay departing for France"
+      }
+    },
+    {
+      "source": "loc_tellsons_bank",
+      "target": "txt_2_1_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Opening description of Tellson's Bank"
+      }
+    },
+    {
+      "source": "loc_bastille",
+      "target": "txt_2_21_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "The storming of the Bastille"
+      }
+    },
+    {
+      "source": "loc_evremonde_chateau",
+      "target": "txt_2_23_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "The burning of the chateau"
+      }
+    },
+    {
+      "source": "char_miss_pross",
+      "target": "txt_2_6_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Miss Pross praising her worthless brother Solomon"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "txt_2_6_2",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Carton's prophetic remark about the crowd"
+      }
+    },
+    {
+      "source": "char_sydney_carton",
+      "target": "txt_2_21_4",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "The narrator on Carton's relationship with the Darnay children"
+      }
+    },
+    {
+      "source": "char_charles_darnay",
+      "target": "txt_2_10_1",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Darnay's declaration of love to Dr. Manette"
+      }
+    },
+    {
+      "source": "char_doctor_manette",
+      "target": "txt_2_10_2",
+      "edge_type": "MENTIONED_IN",
+      "properties": {
+        "description": "Dr. Manette asking Darnay to delay revealing his name"
+      }
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+[
+  {
+    "id": "char_jarvis_lorry",
+    "name": "Jarvis Lorry",
+    "aliases": [
+      "Monsieur Lorry",
+      "the gentleman from Tellson's",
+      "Mr. Lorry",
+      "the bank passenger"
+    ],
+    "description": "An elderly, methodical gentleman of about sixty who works as a confidential clerk at Tellson's Bank. He is sent on a secret mission to Paris to retrieve Dr. Manette. He insists he is a mere 'man of business' with 'no feelings,' though his compassion repeatedly shows through. The elderly, devoted bachelor banker of Tellson's who becomes a trusted family friend to the Manettes. In Book 2, he testifies at Darnay's trial, watches over Dr. Manette during his nine-day relapse into shoemaking after Lucie's wedding, and persuades the Doctor to allow destruction of his cobbler's bench. He resolves to travel to Paris to protect Tellson's documents despite the dangers of the Revolution. The elderly banker of Tellson's, seventy-eight years old, who has remained in Paris on business during the Revolution. He occupies rooms at the Paris branch of Tellson's Bank and serves as the steadfast protector and counselor of the Manette family. He facilitates the escape from Paris by preparing the coach and travel papers, and drives the party to safety while the drugged Darnay lies unconscious in the carriage.",
+    "first_appearance": {
+      "book": 1,
+      "chapter": 2
+    }
+  },
+  {
+    "id": "char_jerry_cruncher",
+    "name": "Jerry Cruncher",
+    "aliases": [
+      "the odd-job-man",
+      "the messenger",
+      "Mr. Cruncher",
+      "the honest tradesman",
+      "Jerry"
+    ],
+    "description": "A messenger employed by Tellson's Bank who rides through the night to deliver a dispatch to Mr. Lorry on the Dover road. He has stiff, spiky black hair, close-set eyes, and a hoarse voice. He is bewildered by the cryptic reply 'Recalled to Life.' The odd-job man and messenger for Tellson's Bank, stationed outside its doors on Fleet Street. He is a secret resurrection man (body snatcher) by night, and abuses his pious wife for praying against his illicit trade. He has spiky hair perpetually covered in rust from his nocturnal grave-robbing activities. Tellson's Bank messenger, now serving as the Manette household's daily retainer in Paris. His knowledge of Roger Cly's faked burial provides crucial leverage over the spy Barsad. He vows to reform his former grave-robbing ways and to stop interfering with his wife's prayers. He accompanies Miss Pross in a separate conveyance to escape Paris after the family's flight.",
+    "first_appearance": {
+      "book": 1,
+      "chapter": 2
+    }
+  },
+  {
+    "id": "char_lucie_manette",
+    "name": "Lucie Manette Darnay",
+    "aliases": [
+      "Ladybird",
+      "the golden-haired",
+      "Mam'selle",
+      "the young lady",
+      "Lucie",
+      "Lucie Darnay",
+      "the wife of Evr\u00e9monde",
+      "Miss Manette"
+    ],
+    "description": "A beautiful young woman of about seventeen with golden hair and blue eyes, who has grown up believing her father was dead. She travels to Paris with Mr. Lorry to be reunited with her father. She shows remarkable composure and tenderness in the face of her father's broken condition. The beautiful golden-haired young lady of about twenty who is the 'golden thread' binding together all the characters. She testifies reluctantly at Darnay's trial, showing great compassion for the accused. She marries Charles Darnay and becomes the heart of a happy household in the quiet corner of Soho, bearing a daughter (little Lucie) and a son who dies young. Doctor Manette's devoted daughter and Charles Darnay's wife. In Paris she faithfully stands for two hours each day near La Force prison hoping her husband might glimpse her from an upper window. She pleads with Madame Defarge for mercy but is rebuffed. After Darnay's death sentence, she is carried unconscious from the court by Carton, and escapes Paris with her father and child in a coach while Carton takes Darnay's place.",
+    "first_appearance": {
+      "book": 1,
+      "chapter": 4
+    }
+  },
+  {
+    "id": "char_doctor_manette",
+    "name": "Doctor Alexandre Manette",
+    "aliases": [
+      "One Hundred and Five North Tower",
+      "the Doctor",
+      "Citizen Manette",
+      "Dr. Manette",
+      "the Bastille prisoner",
+      "Doctor Manette",
+      "the shoemaker",
+      "the buried man",
+      "Monsieur Manette",
+      "the Doctor of Beauvais",
+      "Citizen Doctor",
+      "the prisoner"
+    ],
+    "description": "A once-eminent French physician who was secretly imprisoned in the Bastille for eighteen years. Found in a garret above Defarge's wine-shop, he is a hollow, white-haired wreck who has lost his identity and knows himself only by his cell number. He compulsively makes shoes, a craft he taught himself in captivity. Lucie's father, a former prisoner of the Bastille for eighteen years who was found making shoes in a garret. In Book 2, he has recovered considerably but keeps his shoemaker's bench, and suffers a nine-day relapse into shoemaking after Lucie's wedding to Darnay. He agrees to Darnay's suit, requesting only that Darnay reveal his true name on the wedding morning, and the revelation triggers his mental collapse. Former prisoner of the Bastille for eighteen years, now a revered figure in revolutionary Paris whose suffering gives him unique influence. He becomes inspecting physician of three prisons and works tirelessly to save his son-in-law Darnay. His own letter, written in the Bastille in 1767 denouncing the Evr\u00e9monde family to the last of their race, is discovered by Defarge and used to condemn Darnay at his second trial. The shock causes Manette to relapse into his shoemaking madness.",
+    "first_appearance": {
+      "book": 1,
+      "chapter": 3
+    }
+  },
+  {
+    "id": "char_ernest_defarge",
+    "name": "Ernest Defarge",
+    "aliases": [
+      "the wine-shop keeper",
+      "Jacques Four",
+      "Citizen Defarge",
+      "Monsieur Defarge",
+      "Defarge"
+    ],
+    "description": "A bull-necked, martial-looking man of about thirty who keeps a wine-shop in the Saint Antoine quarter of Paris. He was formerly Dr. Manette's servant and has been caring for the broken doctor in a locked garret above his shop. He is implacable and purposeful, showing revolutionaries the imprisoned doctor. The former servant of Doctor Manette, now the owner of a wine-shop in the Saint Antoine quarter of Paris. He leads the Jacques revolutionary network, organizing and receiving intelligence. He leads the assault on the Bastille, personally searching cell 105 North Tower where Dr. Manette was imprisoned, and finds hidden documents there. Wine-shop keeper in the Saint Antoine quarter and former servant of Doctor Manette. He serves as Darnay's conductor to La Force prison and refuses to help him despite knowing his connection to Manette. He found Doctor Manette's hidden letter in cell One Hundred and Five of the Bastille and produces it at Darnay's second trial. Though he denounces Darnay, he shows reluctance about pursuing the Doctor and Lucie, putting him at odds with his implacable wife.",
+    "first_appearance": {
+      "book": 1,
+      "chapter": 5
+    }
+  },
+  {
+    "id": "char_madame_defarge",
+    "name": "Th\u00e9r\u00e8se Defarge",
+    "aliases": [
+      "Madame Defarge",
+      "Madame",
+      "Therese Defarge",
+      "Th\u00e9r\u00e8se Defarge",
+      "the citizeness"
+    ],
+    "description": "The stout, watchful wife of Ernest Defarge, who sits knitting behind the counter of the wine-shop with great composure. She communicates with her husband through subtle signals -- grains of cough and raised eyebrows. She sees everything while appearing to see nothing. The formidable wife of Ernest Defarge, who sits perpetually knitting at the wine-shop counter. Her knitting is actually a register encoding the names and crimes of those condemned to revolutionary justice. She is relentless and remorseless, leading women in the storming of the Bastille, personally beheading the governor, and insisting that the Evr\u00e9monde name be proscribed regardless of Defarge's sympathy for the Manettes. The implacable, knitting revolutionary woman who is revealed to be the surviving younger sister of the peasant family destroyed by the Evr\u00e9monde brothers. She seeks the complete extermination of the Evr\u00e9monde line, including Lucie and little Lucie. She visits Lucie's lodging to memorize their faces, denounces Darnay at his second trial, and plots to denounce Lucie, her child, and Doctor Manette. She is killed in a struggle with Miss Pross when she goes to the lodging to find evidence of the family's flight.",
+    "first_appearance": {
+      "book": 1,
+      "chapter": 5
+    }
+  },
+  {
+    "id": "char_miss_pross",
+    "name": "Miss Pross",
+    "aliases": [
+      "the strong woman",
+      "Pross",
+      "the wild red woman",
+      "the Englishwoman",
+      "the wild-looking woman"
+    ],
+    "description": "A wild-looking, red-haired, brawny woman of extraordinary loyalty who serves as Lucie Manette's companion and protector. She arrives at the Royal George Hotel in Dover and immediately takes charge of the fainted Lucie, pushing Mr. Lorry aside with fierce maternal energy. Lucie Manette's fiercely devoted English companion and servant, a wild, red, grim woman of strong hand. She has cared for Lucie since she was ten years old, is jealous of anyone taking Lucie's affections, and believes her worthless brother Solomon is the only man worthy of Ladybird. She is an excellent cook who combines English and French culinary skills. Lucie's fiercely loyal English servant and companion. She is brave, determined, and devoted to her 'Ladybird.' In the climactic scene of Book 3, she physically confronts Madame Defarge in the deserted lodging, preventing her from discovering that the family has fled. During their struggle, Madame Defarge's pistol discharges, killing Defarge and permanently deafening Miss Pross. She escapes Paris with Jerry Cruncher via a separate conveyance.",
+    "first_appearance": {
+      "book": 1,
+      "chapter": 4
+    }
+  },
+  {
+    "id": "char_gaspard",
+    "name": "Gaspard",
+    "aliases": [
+      "the tall joker",
+      "the tall man"
+    ],
+    "description": "A tall, wolfishly practical joker in the Saint Antoine quarter who writes the word 'BLOOD' on a wall with his finger dipped in spilled wine-lees. Defarge angrily wipes it away and rebukes him. A tall, desperate father from the Saint Antoine quarter whose child is killed by the Marquis St. Evr\u00e9monde's carriage. He assassinates the Marquis by stabbing him in the heart with a knife as he sleeps. He is captured after hiding for nearly a year, imprisoned in the fortress on the crag, and executed by hanging from a forty-foot gallows over the village fountain.",
+    "first_appearance": {
+      "book": 1,
+      "chapter": 5
+    }
+  },
+  {
+    "id": "char_young_jerry",
+    "name": "Young Jerry Cruncher",
+    "aliases": [
+      "Young Jerry",
+      "Master Cruncher"
+    ],
+    "description": "The twelve-year-old son of Jerry Cruncher, who serves as his father's stand-in at Tellson's Bank. He closely resembles his father with similar spiky hair and close-set eyes. He follows his father on a grave-robbing expedition and aspires to become a resurrection man himself.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 1
+    }
+  },
+  {
+    "id": "char_mrs_cruncher",
+    "name": "Mrs. Cruncher",
+    "aliases": [
+      "Aggerawayter"
+    ],
+    "description": "The long-suffering, pious wife of Jerry Cruncher, who is regularly abused by her husband for praying. She is a woman of orderly and industrious appearance who keeps their modest lodgings clean. Her husband blames her prayers for his bad luck in his secret grave-robbing trade.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 1
+    }
+  },
+  {
+    "id": "char_charles_darnay",
+    "name": "Charles Evr\u00e9monde, called Darnay",
+    "aliases": [
+      "Evr\u00e9monde",
+      "Mr. Darnay",
+      "Citizen Evr\u00e9monde",
+      "the Marquis St. Evr\u00e9monde",
+      "Charles Evr\u00e9monde",
+      "Charles Darnay",
+      "Monsieur Charles",
+      "the Emigrant Evr\u00e9monde"
+    ],
+    "description": "A young French gentleman of about twenty-five, well-grown and well-looking with a sunburnt cheek and dark eye. He is the nephew of the Marquis St. Evr\u00e9monde, who has renounced his family's cruel legacy and lives in England as a French language tutor. He loves and marries Lucie Manette, and is ultimately drawn back to France by Gabelle's plea for help. Nephew of the late Marquis St. Evr\u00e9monde who renounced his title and lived in England as a French tutor. He travels to Paris to save his former servant Gabelle, is imprisoned in La Force, acquitted at his first trial through Doctor Manette's influence, then re-arrested and condemned to death based on Manette's own hidden document denouncing the Evr\u00e9monde family. He is saved from the guillotine by Sydney Carton's secret substitution.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 2
+    }
+  },
+  {
+    "id": "char_sydney_carton",
+    "name": "Sydney Carton",
+    "aliases": [
+      "Sydney",
+      "Mr. Carton",
+      "Memory",
+      "the jackal",
+      "the English advocate",
+      "the Englishman"
+    ],
+    "description": "A brilliant but dissolute English barrister who bears a striking physical resemblance to Charles Darnay. He serves as the intellectual workhorse (the 'jackal') for the ambitious Mr. Stryver, doing all the legal preparation work while drinking heavily. He is secretly and hopelessly in love with Lucie Manette, to whom he confesses his devotion and pledges to sacrifice anything for those dear to her. A brilliant but dissolute English barrister who bears a striking physical resemblance to Charles Darnay. In Book 3 he arrives unexpectedly in Paris, blackmails the spy Barsad to gain access to the Conciergerie, purchases chemicals from a chemist, and ultimately sacrifices his life by switching places with Darnay in prison. He goes to the guillotine serenely, comforting a young seamstress, fulfilling his promise to Lucie that he would give his life for one she loved.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 3
+    }
+  },
+  {
+    "id": "char_john_barsad",
+    "name": "John Barsad",
+    "aliases": [
+      "the spy",
+      "Solomon Pross",
+      "the Spy",
+      "Barsad",
+      "the Sheep of the prisons"
+    ],
+    "description": "An English spy who testifies as the 'patriot' witness against Charles Darnay at the treason trial. He is revealed through cross-examination to be a gambler, debtor, and hired informer. He later visits the Defarges' wine-shop in Paris to gather intelligence on revolutionary activity, where Madame Defarge knits his name into her register. A spy and turnkey at the Conciergerie who is also Miss Pross's long-lost brother Solomon. He formerly spied for the English government and now works for the French revolutionary authorities. Sydney Carton blackmails him with the threat of denunciation, forcing him to grant access to Darnay's cell in the Conciergerie. He assists in carrying out the substitution of Carton for Darnay and watches the tumbrils from the steps of a church.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 3
+    }
+  },
+  {
+    "id": "char_roger_cly",
+    "name": "Roger Cly",
+    "aliases": [
+      "Cly",
+      "the virtuous servant"
+    ],
+    "description": "A spy and associate of John Barsad who poses as Charles Darnay's servant and testifies against him at the treason trial. He claims to have discovered incriminating papers in Darnay's possession. His funeral later becomes a mob event, and Jerry Cruncher attempts to dig up his coffin that night. Barsad's former partner and spy who faked his own death and burial in London. Jerry Cruncher reveals the coffin contained only paving stones. He is now disguised and working as a spy in French country prisons. Carton uses the knowledge of his faked death as additional leverage over Barsad.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 3
+    }
+  },
+  {
+    "id": "char_stryver",
+    "name": "Mr. Stryver",
+    "aliases": [
+      "Stryver",
+      "C. J. Stryver",
+      "the lion"
+    ],
+    "description": "A loud, stout, red-faced barrister of about thirty who is Charles Darnay's defense counsel. He is ambitious and self-important, shouldering his way through life and law with brute force. He unsuccessfully attempts to propose marriage to Lucie Manette, is dissuaded by Mr. Lorry, and later marries a florid widow with property and three boys.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 3
+    }
+  },
+  {
+    "id": "char_marquis_st_evremonde_elder",
+    "name": "The Marquis St. Evr\u00e9monde (Elder Twin)",
+    "aliases": [
+      "the elder brother",
+      "Monsieur the Marquis",
+      "Monseigneur",
+      "the Marquis",
+      "the uncle"
+    ],
+    "description": "Charles Darnay's uncle, a cruel and haughty French aristocrat of about sixty with a face like a fine mask. His carriage runs over and kills a child in the streets of Paris, for which he tosses a gold coin in compensation. He is murdered in his bed by the father Gaspard, with a note reading 'Drive him fast to his tomb. This, from Jacques.' One of the twin brothers of the Evr\u00e9monde family, as revealed in Doctor Manette's Bastille letter. He is the more authoritative of the two. He arranged Manette's imprisonment after the doctor witnessed the brothers' crimes against a peasant family and wrote to the Minister about it. He intercepted Manette's letter and had him locked in the Bastille.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 7
+    }
+  },
+  {
+    "id": "char_the_mender_of_roads",
+    "name": "The Mender of Roads",
+    "aliases": [
+      "Jacques Five",
+      "the road-mender"
+    ],
+    "description": "A grizzled peasant road-worker from the village near the Marquis's chateau. He witnesses Gaspard clinging under the Marquis's carriage and later sees Gaspard captured and hanged. He is brought to Paris by Defarge to testify before the Jacques, and is taken to Versailles where he cheers the King and Queen, which Defarge uses to keep the aristocrats complacent.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 8
+    }
+  },
+  {
+    "id": "char_gabelle",
+    "name": "Th\u00e9ophile Gabelle",
+    "aliases": [
+      "Citizen Gabelle",
+      "Gabelle",
+      "Th\u00e9ophile Gabelle"
+    ],
+    "description": "The postmaster and tax collector of the village near the Evr\u00e9monde chateau. He manages the estate on Darnay's written instructions to spare the people. When the chateau is burned, he barricades himself on his rooftop. He is eventually imprisoned in the Abbaye in Paris and writes a desperate letter to Darnay begging for help, which draws Darnay back to France. Former tax collector and servant of the Evr\u00e9monde estate whose imprisoned appeal from the Abbaye prison brought Darnay to France. He testifies at Darnay's first trial, confirming Darnay's voluntary return. He had been imprisoned and nearly forgotten by the Tribunal until three days before, when he was released upon Darnay's surrender.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 8
+    }
+  },
+  {
+    "id": "char_jacques_one",
+    "name": "Jacques One",
+    "aliases": [],
+    "description": "One of the revolutionary leaders in the Jacques network who meets in the garret above Defarge's wine-shop. He participates in hearing the mender of roads' testimony about Gaspard and votes to register the Evr\u00e9monde chateau and race for destruction.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 15
+    }
+  },
+  {
+    "id": "char_jacques_two",
+    "name": "Jacques Two",
+    "aliases": [],
+    "description": "One of the revolutionary leaders who meets in the garret above Defarge's wine-shop. He questions the security of Madame Defarge's knitted register and participates in the tribunal-like proceedings against the Evr\u00e9monde family.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 15
+    }
+  },
+  {
+    "id": "char_jacques_three",
+    "name": "Jacques Three",
+    "aliases": [
+      "the hungry man",
+      "the Juryman"
+    ],
+    "description": "One of the revolutionary leaders, distinguished by his restless hand constantly gliding over his mouth and nose, and a greedy, hungry air that craves bloodshed. He participates in the storming of the Bastille alongside Defarge and accompanies him to cell 105 North Tower. A member of the Revolutionary Tribunal jury with a craving face and fingers perpetually hovering about his lips. He is bloodthirsty and supports Madame Defarge's plan to exterminate the entire Evr\u00e9monde family including Lucie and her child, commenting with epicurean relish on the beauty of golden hair held up by the executioner.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 15
+    }
+  },
+  {
+    "id": "char_the_vengeance",
+    "name": "The Vengeance",
+    "aliases": [
+      "little Vengeance"
+    ],
+    "description": "The short, rather plump wife of a starved grocer and mother of two children, who serves as Madame Defarge's lieutenant among the Saint Antoine women. She earns her complimentary name through her terrific shrieks and fierce enthusiasm, and serves as custodian of the revolutionary drum. Madame Defarge's lieutenant and devoted follower, a shrill-voiced woman who accompanies Madame Defarge to observe Lucie and her child. She assists at the Tribunal, keeps Madame Defarge's knitting and chair at the executions, and is left calling in vain for Th\u00e9r\u00e8se Defarge at the guillotine when Madame Defarge fails to appear.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 22
+    }
+  },
+  {
+    "id": "char_little_lucie",
+    "name": "Little Lucie Darnay",
+    "aliases": [
+      "little citizeness",
+      "the child",
+      "little Lucie"
+    ],
+    "description": "The daughter of Charles Darnay and Lucie Manette, born after their marriage. She chatters in the tongues of the Two Cities blended in her life, and has a special sympathy with Sydney Carton. By Book 2, Chapter 24, she is six years old. The young daughter of Charles and Lucie Darnay. She accompanies her mother to stand near La Force prison and is targeted by Madame Defarge's plot to exterminate the Evr\u00e9monde family. She passionately embraces Carton and begs him to help save her parents. She escapes Paris in the coach with her mother, grandfather, and Mr. Lorry.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 21
+    }
+  },
+  {
+    "id": "char_foulon",
+    "name": "Foulon",
+    "aliases": [
+      "Old Foulon"
+    ],
+    "description": "A wicked old man of more than seventy who told the starving people they might eat grass. He faked his own death and funeral but is found alive hiding in the country. He is dragged to the lamp-post and hanged by the mob of Saint Antoine, with grass stuffed in his mouth, and his head is placed on a pike.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 22
+    }
+  },
+  {
+    "id": "char_solomon_pross",
+    "name": "Solomon Pross",
+    "aliases": [
+      "Solomon"
+    ],
+    "description": "Miss Pross's brother, whom she considers the only man worthy of Lucie despite the fact that he stripped Miss Pross of everything she possessed, speculated with it, and abandoned her in poverty without compunction.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 6
+    }
+  },
+  {
+    "id": "char_wood_sawyer",
+    "name": "The Wood-Sawyer",
+    "aliases": [
+      "the little citizen",
+      "a mender of roads"
+    ],
+    "description": "A little man formerly a mender of roads, now a wood-sawyer with a shop near La Force prison. He names his saw 'my Little Guillotine' and 'Little Sainte Guillotine.' He is under the control of the Defarges and has been rehearsed to testify that he saw Lucie making signals to prisoners. He participates in Madame Defarge's plot to denounce Lucie.",
+    "first_appearance": {
+      "book": 2,
+      "chapter": 15
+    }
+  },
+  {
+    "id": "char_seamstress",
+    "name": "The Seamstress",
+    "aliases": [
+      "a poor little seamstress"
+    ],
+    "description": "A young, slight, pale girl condemned to the guillotine on charges of plots, though she is innocent. She had been imprisoned with Darnay at La Force. She recognizes that Carton is not Evr\u00e9monde but is dying in his place. She holds his hand in the tumbril and they comfort each other at the scaffold. She is executed as number Twenty-Two, just before Carton.",
+    "first_appearance": {
+      "book": 3,
+      "chapter": 13
+    }
+  },
+  {
+    "id": "char_marquis_st_evremonde_younger",
+    "name": "The Younger Evr\u00e9monde Twin",
+    "aliases": [
+      "the younger brother",
+      "the worst of a bad race"
+    ],
+    "description": "The younger of the Evr\u00e9monde twins, described as the worst of the bad race. He abducted a young peasant woman, driving her husband to death and causing her brother to attack him with a sword. He killed the brother with a sword-thrust. The young woman he violated died under Doctor Manette's care. He is Darnay's father, and his wife later visited Manette seeking to make amends.",
+    "first_appearance": {
+      "book": 3,
+      "chapter": 10
+    }
+  },
+  {
+    "id": "char_darnays_mother",
+    "name": "The Wife of the Younger Evr\u00e9monde",
+    "aliases": [
+      "the Marquise",
+      "Darnay's mother"
+    ],
+    "description": "A young, engaging, handsome woman not marked for long life, and not happy in her marriage. She visited Doctor Manette seeking to find and help the surviving younger sister of the peasant family her husband had destroyed. She brought her young son Charles and charged him to make amends. She kissed the boy and said 'It is for thine own dear sake. Thou wilt be faithful, little Charles?'",
+    "first_appearance": {
+      "book": 3,
+      "chapter": 10
+    }
+  }
+]

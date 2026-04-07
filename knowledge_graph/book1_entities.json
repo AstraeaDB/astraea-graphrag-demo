@@ -1,0 +1,338 @@
+{
+  "characters": [
+    {
+      "id": "char_jarvis_lorry",
+      "name": "Jarvis Lorry",
+      "aliases": ["Mr. Lorry", "the gentleman from Tellson's", "the bank passenger"],
+      "description": "An elderly, methodical gentleman of about sixty who works as a confidential clerk at Tellson's Bank. He is sent on a secret mission to Paris to retrieve Dr. Manette. He insists he is a mere 'man of business' with 'no feelings,' though his compassion repeatedly shows through.",
+      "first_appearance": {"book": 1, "chapter": 2}
+    },
+    {
+      "id": "char_jerry_cruncher",
+      "name": "Jerry Cruncher",
+      "aliases": ["Jerry", "the messenger"],
+      "description": "A messenger employed by Tellson's Bank who rides through the night to deliver a dispatch to Mr. Lorry on the Dover road. He has stiff, spiky black hair, close-set eyes, and a hoarse voice. He is bewildered by the cryptic reply 'Recalled to Life.'",
+      "first_appearance": {"book": 1, "chapter": 2}
+    },
+    {
+      "id": "char_lucie_manette",
+      "name": "Lucie Manette",
+      "aliases": ["Miss Manette", "Mam'selle", "the young lady", "the golden-haired"],
+      "description": "A beautiful young woman of about seventeen with golden hair and blue eyes, who has grown up believing her father was dead. She travels to Paris with Mr. Lorry to be reunited with her father. She shows remarkable composure and tenderness in the face of her father's broken condition.",
+      "first_appearance": {"book": 1, "chapter": 4}
+    },
+    {
+      "id": "char_alexandre_manette",
+      "name": "Dr. Alexandre Manette",
+      "aliases": ["Dr. Manette", "Monsieur Manette", "the shoemaker", "One Hundred and Five North Tower", "the prisoner", "the buried man"],
+      "description": "A once-eminent French physician who was secretly imprisoned in the Bastille for eighteen years. Found in a garret above Defarge's wine-shop, he is a hollow, white-haired wreck who has lost his identity and knows himself only by his cell number. He compulsively makes shoes, a craft he taught himself in captivity.",
+      "first_appearance": {"book": 1, "chapter": 5}
+    },
+    {
+      "id": "char_ernest_defarge",
+      "name": "Ernest Defarge",
+      "aliases": ["Monsieur Defarge", "Defarge", "the wine-shop keeper"],
+      "description": "A bull-necked, martial-looking man of about thirty who keeps a wine-shop in the Saint Antoine quarter of Paris. He was formerly Dr. Manette's servant and has been caring for the broken doctor in a locked garret above his shop. He is implacable and purposeful, showing revolutionaries the imprisoned doctor.",
+      "first_appearance": {"book": 1, "chapter": 5}
+    },
+    {
+      "id": "char_therese_defarge",
+      "name": "Madame Defarge",
+      "aliases": ["Madame Defarge", "Therese Defarge"],
+      "description": "The stout, watchful wife of Ernest Defarge, who sits knitting behind the counter of the wine-shop with great composure. She communicates with her husband through subtle signals -- grains of cough and raised eyebrows. She sees everything while appearing to see nothing.",
+      "first_appearance": {"book": 1, "chapter": 5}
+    },
+    {
+      "id": "char_miss_pross",
+      "name": "Miss Pross",
+      "aliases": ["the wild-looking woman", "the strong woman"],
+      "description": "A wild-looking, red-haired, brawny woman of extraordinary loyalty who serves as Lucie Manette's companion and protector. She arrives at the Royal George Hotel in Dover and immediately takes charge of the fainted Lucie, pushing Mr. Lorry aside with fierce maternal energy.",
+      "first_appearance": {"book": 1, "chapter": 4}
+    },
+    {
+      "id": "char_gaspard",
+      "name": "Gaspard",
+      "aliases": ["the tall joker"],
+      "description": "A tall, wolfishly practical joker in the Saint Antoine quarter who writes the word 'BLOOD' on a wall with his finger dipped in spilled wine-lees. Defarge angrily wipes it away and rebukes him.",
+      "first_appearance": {"book": 1, "chapter": 5}
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc_tellsons_bank_london",
+      "name": "Tellson's Bank, London",
+      "description": "An old-established bank by Temple Bar in London where Mr. Lorry and Jerry Cruncher work. It handles the affairs of many French gentlemen and maintains a French branch in Paris.",
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "id": "loc_dover_road",
+      "name": "Dover Road",
+      "description": "The road from London to Dover, traveled by the mail coach on a cold November Friday night in 1775. The coach lumbers up Shooter's Hill in mud, mist, and darkness with suspicious passengers.",
+      "city": null,
+      "country": "England"
+    },
+    {
+      "id": "loc_royal_george_hotel",
+      "name": "Royal George Hotel, Dover",
+      "description": "The hotel in Dover where Mr. Lorry awaits Lucie Manette after arriving by the mail coach. He breaks the news of her father's survival to her in a dark room furnished with black horsehair.",
+      "city": "Dover",
+      "country": "England"
+    },
+    {
+      "id": "loc_defarge_wine_shop",
+      "name": "Defarge Wine-Shop",
+      "description": "A corner wine-shop in the Saint Antoine quarter of Paris, kept by Ernest Defarge and his wife. Above it, in a locked garret on the fifth floor, Dr. Manette is kept. It serves as a gathering place for revolutionaries who call each other 'Jacques.'",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "id": "loc_saint_antoine",
+      "name": "Saint Antoine Quarter",
+      "description": "A desperately poor suburb of Paris characterized by hunger, filth, narrow winding streets, and rags. The people are gaunt scarecrows living in squalor. It is the setting of the famous spilled wine scene, a foreshadowing of the blood that will later flow in the streets.",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "id": "loc_manette_garret",
+      "name": "Dr. Manette's Garret",
+      "description": "A dim, dark garret on the fifth floor above Defarge's wine-shop, originally a firewood depository. It has a dormer window that serves as a door to the roof. Here Dr. Manette sits making shoes in near-darkness, locked in by Defarge who claims the doctor would tear himself to pieces if the door were left open.",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "id": "loc_bastille",
+      "name": "The Bastille",
+      "description": "The infamous French prison fortress where Dr. Manette was secretly imprisoned for eighteen years in cell One Hundred and Five, North Tower. He was confined without trial through the arbitrary power of the French aristocracy.",
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt_message_on_dover_road",
+      "name": "The Message on the Dover Road",
+      "description": "On a cold November night in 1775, Jerry Cruncher rides through the darkness to deliver a message to Mr. Lorry on the Dover mail coach: 'Wait at Dover for Mam'selle.' Lorry replies with the cryptic answer 'Recalled to Life,' bewildering both Jerry and the guard.",
+      "book": 1,
+      "chapter": 2
+    },
+    {
+      "id": "evt_lorry_meets_lucie",
+      "name": "Lorry Reveals the Truth to Lucie",
+      "description": "At the Royal George Hotel in Dover, Mr. Lorry tells Lucie Manette that her father, Dr. Manette, is not dead as she has always believed, but has been secretly imprisoned for eighteen years and has now been found alive. Lucie faints from the shock, and Miss Pross rushes in to tend to her.",
+      "book": 1,
+      "chapter": 4
+    },
+    {
+      "id": "evt_wine_cask_broken",
+      "name": "The Wine Cask Breaks in Saint Antoine",
+      "description": "A large cask of red wine is dropped and broken in the street outside Defarge's wine-shop. The starving people of Saint Antoine scramble to drink from the gutters. One man writes 'BLOOD' on a wall with wine-soaked fingers -- a grim foreshadowing of the revolution to come.",
+      "book": 1,
+      "chapter": 5
+    },
+    {
+      "id": "evt_discovery_of_manette",
+      "name": "Lucie and Lorry Find Dr. Manette",
+      "description": "Mr. Lorry and Lucie, guided by Defarge, climb to the locked garret above the wine-shop and find Dr. Manette -- a white-haired, hollow-faced man who identifies himself only as 'One Hundred and Five, North Tower.' Lucie embraces him, and he briefly recognizes something in her golden hair that reminds him of his wife.",
+      "book": 1,
+      "chapter": 6
+    },
+    {
+      "id": "evt_departure_from_paris",
+      "name": "Departure from Paris with Dr. Manette",
+      "description": "After the emotional reunion, Lorry and Defarge arrange to smuggle Dr. Manette out of Paris that same night. They pass through the city gates with Defarge showing the doctor's papers to soldiers. Manette clutches his shoemaking tools, unable to leave them behind.",
+      "book": 1,
+      "chapter": 6
+    }
+  ],
+  "chapters": [
+    {
+      "id": "ch_1_1",
+      "title": "The Period",
+      "book_number": 1,
+      "chapter_number": 1,
+      "summary": "The narrator sets the scene in 1775, drawing parallels between England and France in an era of extremes. Both nations face turmoil: France rolls toward revolution under crushing poverty and aristocratic cruelty, while England suffers rampant crime and disorder. The famous opening ('It was the best of times, it was the worst of times') establishes the novel's theme of duality."
+    },
+    {
+      "id": "ch_1_2",
+      "title": "The Mail",
+      "book_number": 1,
+      "chapter_number": 2,
+      "summary": "On a foggy November night, the Dover mail coach struggles up Shooter's Hill. A horseman overtakes them -- Jerry Cruncher, a messenger from Tellson's Bank -- carrying a dispatch for passenger Mr. Jarvis Lorry. The message reads 'Wait at Dover for Mam'selle.' Lorry's mysterious reply is 'Recalled to Life,' which baffles everyone."
+    },
+    {
+      "id": "ch_1_3",
+      "title": "The Night Shadows",
+      "book_number": 1,
+      "chapter_number": 3,
+      "summary": "As Jerry rides back to London and the mail coach continues to Dover, the narrator reflects on the mystery inherent in every human being. Mr. Lorry dozes and dreams of digging a man out of a grave who has been 'buried' for almost eighteen years. The recurring question 'You have been recalled to life?' receives the uncertain answer 'I can't say.'"
+    },
+    {
+      "id": "ch_1_4",
+      "title": "The Preparation",
+      "book_number": 1,
+      "chapter_number": 4,
+      "summary": "Mr. Lorry arrives at the Royal George Hotel in Dover and awaits a young lady. When Lucie Manette arrives, he delicately reveals that her father, Dr. Manette, is not dead but has been secretly imprisoned for eighteen years and has been found alive. The news overwhelms Lucie, who faints. Her fierce companion Miss Pross takes charge of the situation."
+    },
+    {
+      "id": "ch_1_5",
+      "title": "The Wine-shop",
+      "book_number": 1,
+      "chapter_number": 5,
+      "summary": "In the desperately poor Saint Antoine quarter of Paris, a wine cask breaks in the street and the starving populace scrambles to drink from the gutters. Monsieur and Madame Defarge run the corner wine-shop, where three men all called 'Jacques' gather conspiratorially. Mr. Lorry and Lucie arrive, and Defarge leads them up five flights of stairs to a locked garret where Dr. Manette is kept."
+    },
+    {
+      "id": "ch_1_6",
+      "title": "The Shoemaker",
+      "book_number": 1,
+      "chapter_number": 6,
+      "summary": "In the dim garret, they find Dr. Manette -- white-haired, hollow-faced, compulsively making shoes. He identifies himself only as 'One Hundred and Five, North Tower.' When Lucie approaches, he is drawn to her golden hair, comparing it to strands he kept from his wife. He nearly recognizes his daughter but cannot sustain the connection. They arrange to take him out of France that night, and he departs clutching his shoemaking tools."
+    }
+  ],
+  "text_chunks": [
+    {
+      "id": "txt_1_1_1",
+      "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "book": 1,
+      "chapter": 1,
+      "chunk_index": 1,
+      "context": "The famous opening paragraph establishing the era of duality and extremes"
+    },
+    {
+      "id": "txt_1_2_1",
+      "text": "'Wait at Dover for Mam'selle.' It's not long, you see, guard. Jerry, say that my answer was, RECALLED TO LIFE.",
+      "book": 1,
+      "chapter": 2,
+      "chunk_index": 1,
+      "context": "Mr. Lorry receives the message about Dr. Manette and sends back his cryptic reply"
+    },
+    {
+      "id": "txt_1_3_1",
+      "text": "A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other. A solemn consideration, when I enter a great city by night, that every one of those darkly clustered houses encloses its own secret; that every room in every one of them encloses its own secret; that every beating heart in the hundreds of thousands of breasts there, is, in some of its imaginings, a secret to the heart nearest it!",
+      "book": 1,
+      "chapter": 3,
+      "chunk_index": 1,
+      "context": "The narrator's reflection on the inscrutability of every human being"
+    },
+    {
+      "id": "txt_1_3_2",
+      "text": "\"Buried how long?\" The answer was always the same: \"Almost eighteen years.\" \"You had abandoned all hope of being dug out?\" \"Long ago.\" \"You know that you are recalled to life?\" \"They tell me so.\" \"I hope you care to live?\" \"I can't say.\"",
+      "book": 1,
+      "chapter": 3,
+      "chunk_index": 2,
+      "context": "Mr. Lorry's recurring dream-dialogue with the buried man, foreshadowing Dr. Manette"
+    },
+    {
+      "id": "txt_1_5_1",
+      "text": "The wine was red wine, and had stained the ground of the narrow street in the suburb of Saint Antoine, in Paris, where it was spilled. It had stained many hands, too, and many faces, and many naked feet, and many wooden shoes. The hands of the man who sawed the wood, left red marks on the billets; and the forehead of the woman who nursed her baby, was stained with the stain of the old rag she wound about her head again. Those who had been greedy with the staves of the cask, had acquired a tigerish smear about the mouth; and one tall joker so besmirched, his head more out of a long squalid bag of a nightcap than in it, scrawled upon a wall with his finger dipped in muddy wine-lees--BLOOD.",
+      "book": 1,
+      "chapter": 5,
+      "chunk_index": 1,
+      "context": "The spilled wine stains the people red -- foreshadowing the blood of the Revolution"
+    },
+    {
+      "id": "txt_1_5_2",
+      "text": "Hunger was pushed out of the tall houses, in the wretched clothing that hung upon poles and lines; Hunger was patched into them with straw and rag and wood and paper; Hunger was repeated in every fragment of the small modicum of firewood that the man sawed off; Hunger stared down from the smokeless chimneys, and started up from the filthy street that had no offal, among its refuse, of anything to eat. Hunger was the inscription on the baker's shelves, written in every small loaf of his scanty stock of bad bread; at the sausage-shop, in every dead-dog preparation that was offered for sale.",
+      "book": 1,
+      "chapter": 5,
+      "chunk_index": 2,
+      "context": "The personification of Hunger pervading every aspect of life in Saint Antoine"
+    },
+    {
+      "id": "txt_1_6_1",
+      "text": "The faintness of the voice was pitiable and dreadful. It was not the faintness of physical weakness, though confinement and hard fare no doubt had their part in it. Its deplorable peculiarity was, that it was the faintness of solitude and disuse. It was like the last feeble echo of a sound made long and long ago. So entirely had it lost the life and resonance of the human voice, that it affected the senses like a once beautiful colour faded away into a poor weak stain.",
+      "book": 1,
+      "chapter": 6,
+      "chunk_index": 1,
+      "context": "Description of Dr. Manette's ruined voice after eighteen years of solitary imprisonment"
+    },
+    {
+      "id": "txt_1_6_2",
+      "text": "\"Did you ask me for my name?\" \"Assuredly I did.\" \"One Hundred and Five, North Tower.\" \"Is that all?\" \"One Hundred and Five, North Tower.\"",
+      "book": 1,
+      "chapter": 6,
+      "chunk_index": 2,
+      "context": "Dr. Manette identifies himself only by his Bastille cell number, having lost his name"
+    },
+    {
+      "id": "txt_1_6_3",
+      "text": "\"She had laid her head upon my shoulder, that night when I was summoned out--she had a fear of my going, though I had none--and when I was brought to the North Tower they found these upon my sleeve. 'You will leave me them? They can never help me to escape in the body, though they may in the spirit.' Those were the words I said. I remember them very well.\"",
+      "book": 1,
+      "chapter": 6,
+      "chunk_index": 3,
+      "context": "Dr. Manette recalls the night of his arrest and the golden hairs from his wife he kept as a talisman"
+    },
+    {
+      "id": "txt_1_6_4",
+      "text": "\"If you hear in my voice--I don't know that it is so, but I hope it is--if you hear in my voice any resemblance to a voice that once was sweet music in your ears, weep for it, weep for it! If you touch, in touching my hair, anything that recalls a beloved head that lay on your breast when you were young and free, weep for it, weep for it!\"",
+      "book": 1,
+      "chapter": 6,
+      "chunk_index": 4,
+      "context": "Lucie's emotional plea to her father in the garret, appealing to his buried memories"
+    },
+    {
+      "id": "txt_1_6_5",
+      "text": "\"I hope you care to be recalled to life?\" And the old answer: \"I can't say.\"",
+      "book": 1,
+      "chapter": 6,
+      "chunk_index": 5,
+      "context": "The closing lines of Book the First, echoing the recurring motif of resurrection"
+    }
+  ],
+  "edges": [
+    {"source": "char_jarvis_lorry", "target": "loc_tellsons_bank_london", "edge_type": "LOCATED_IN", "properties": {"relationship": "employee", "description": "Confidential clerk at Tellson's Bank"}},
+    {"source": "char_jerry_cruncher", "target": "loc_tellsons_bank_london", "edge_type": "LOCATED_IN", "properties": {"relationship": "messenger", "description": "Odd-job man and messenger for Tellson's Bank"}},
+    {"source": "char_lucie_manette", "target": "char_alexandre_manette", "edge_type": "RELATED_TO", "properties": {"relationship": "daughter", "description": "Lucie is Dr. Manette's daughter, raised believing he was dead"}},
+    {"source": "char_alexandre_manette", "target": "char_lucie_manette", "edge_type": "RELATED_TO", "properties": {"relationship": "father", "description": "Dr. Manette is Lucie's father, imprisoned since she was an infant"}},
+    {"source": "char_ernest_defarge", "target": "char_alexandre_manette", "edge_type": "RELATED_TO", "properties": {"relationship": "former_servant", "description": "Defarge was formerly Dr. Manette's servant and now cares for him in the garret"}},
+    {"source": "char_ernest_defarge", "target": "char_therese_defarge", "edge_type": "RELATED_TO", "properties": {"relationship": "husband", "description": "Ernest and Therese Defarge are married and run the wine-shop together"}},
+    {"source": "char_therese_defarge", "target": "char_ernest_defarge", "edge_type": "RELATED_TO", "properties": {"relationship": "wife", "description": "Madame Defarge is Ernest's wife, ever-knitting and watchful"}},
+    {"source": "char_miss_pross", "target": "char_lucie_manette", "edge_type": "RELATED_TO", "properties": {"relationship": "companion", "description": "Miss Pross is Lucie's fiercely devoted companion and protector"}},
+    {"source": "char_jarvis_lorry", "target": "char_lucie_manette", "edge_type": "RELATED_TO", "properties": {"relationship": "guardian_figure", "description": "Lorry carried Lucie to England as an infant and serves as her connection to Tellson's Bank"}},
+    {"source": "char_alexandre_manette", "target": "loc_bastille", "edge_type": "LOCATED_IN", "properties": {"relationship": "prisoner", "description": "Imprisoned for eighteen years in cell 105, North Tower"}},
+    {"source": "char_alexandre_manette", "target": "loc_manette_garret", "edge_type": "LOCATED_IN", "properties": {"relationship": "confined", "description": "Kept in a locked garret above Defarge's wine-shop after release from the Bastille"}},
+    {"source": "char_ernest_defarge", "target": "loc_defarge_wine_shop", "edge_type": "LOCATED_IN", "properties": {"relationship": "owner", "description": "Proprietor of the wine-shop in Saint Antoine"}},
+    {"source": "char_therese_defarge", "target": "loc_defarge_wine_shop", "edge_type": "LOCATED_IN", "properties": {"relationship": "owner", "description": "Sits behind the counter knitting"}},
+    {"source": "loc_defarge_wine_shop", "target": "loc_saint_antoine", "edge_type": "LOCATED_IN", "properties": {"description": "The wine-shop is in the Saint Antoine quarter"}},
+    {"source": "loc_manette_garret", "target": "loc_defarge_wine_shop", "edge_type": "LOCATED_IN", "properties": {"description": "The garret is on the fifth floor above the wine-shop"}},
+
+    {"source": "char_jarvis_lorry", "target": "evt_message_on_dover_road", "edge_type": "PARTICIPATES_IN", "properties": {"role": "recipient", "description": "Receives the message and replies 'Recalled to Life'"}},
+    {"source": "char_jerry_cruncher", "target": "evt_message_on_dover_road", "edge_type": "PARTICIPATES_IN", "properties": {"role": "messenger", "description": "Delivers the dispatch from Tellson's Bank"}},
+    {"source": "evt_message_on_dover_road", "target": "loc_dover_road", "edge_type": "OCCURS_IN", "properties": {}},
+    {"source": "evt_message_on_dover_road", "target": "ch_1_2", "edge_type": "OCCURS_DURING", "properties": {}},
+
+    {"source": "char_jarvis_lorry", "target": "evt_lorry_meets_lucie", "edge_type": "PARTICIPATES_IN", "properties": {"role": "revealer", "description": "Tells Lucie her father is alive"}},
+    {"source": "char_lucie_manette", "target": "evt_lorry_meets_lucie", "edge_type": "PARTICIPATES_IN", "properties": {"role": "recipient", "description": "Learns her father is alive and faints from shock"}},
+    {"source": "char_miss_pross", "target": "evt_lorry_meets_lucie", "edge_type": "PARTICIPATES_IN", "properties": {"role": "caretaker", "description": "Rushes in to tend to the fainted Lucie"}},
+    {"source": "evt_lorry_meets_lucie", "target": "loc_royal_george_hotel", "edge_type": "OCCURS_IN", "properties": {}},
+    {"source": "evt_lorry_meets_lucie", "target": "ch_1_4", "edge_type": "OCCURS_DURING", "properties": {}},
+
+    {"source": "char_gaspard", "target": "evt_wine_cask_broken", "edge_type": "PARTICIPATES_IN", "properties": {"role": "instigator", "description": "Writes 'BLOOD' on the wall with wine-lees"}},
+    {"source": "char_ernest_defarge", "target": "evt_wine_cask_broken", "edge_type": "PARTICIPATES_IN", "properties": {"role": "observer", "description": "Watches from his shop and rebukes Gaspard for writing BLOOD"}},
+    {"source": "evt_wine_cask_broken", "target": "loc_saint_antoine", "edge_type": "OCCURS_IN", "properties": {}},
+    {"source": "evt_wine_cask_broken", "target": "ch_1_5", "edge_type": "OCCURS_DURING", "properties": {}},
+
+    {"source": "char_lucie_manette", "target": "evt_discovery_of_manette", "edge_type": "PARTICIPATES_IN", "properties": {"role": "daughter", "description": "Reunites with her imprisoned father for the first time"}},
+    {"source": "char_jarvis_lorry", "target": "evt_discovery_of_manette", "edge_type": "PARTICIPATES_IN", "properties": {"role": "escort", "description": "Accompanies Lucie to identify Dr. Manette"}},
+    {"source": "char_ernest_defarge", "target": "evt_discovery_of_manette", "edge_type": "PARTICIPATES_IN", "properties": {"role": "guide", "description": "Leads them to the garret and unlocks the door"}},
+    {"source": "char_alexandre_manette", "target": "evt_discovery_of_manette", "edge_type": "PARTICIPATES_IN", "properties": {"role": "subject", "description": "Found making shoes, identifies himself only by his cell number"}},
+    {"source": "evt_discovery_of_manette", "target": "loc_manette_garret", "edge_type": "OCCURS_IN", "properties": {}},
+    {"source": "evt_discovery_of_manette", "target": "ch_1_6", "edge_type": "OCCURS_DURING", "properties": {}},
+
+    {"source": "char_jarvis_lorry", "target": "evt_departure_from_paris", "edge_type": "PARTICIPATES_IN", "properties": {"role": "organizer", "description": "Arranges the carriage and papers for departure"}},
+    {"source": "char_lucie_manette", "target": "evt_departure_from_paris", "edge_type": "PARTICIPATES_IN", "properties": {"role": "companion", "description": "Holds her father's arm as they leave"}},
+    {"source": "char_alexandre_manette", "target": "evt_departure_from_paris", "edge_type": "PARTICIPATES_IN", "properties": {"role": "rescued", "description": "Leaves Paris clutching his shoemaking tools"}},
+    {"source": "char_ernest_defarge", "target": "evt_departure_from_paris", "edge_type": "PARTICIPATES_IN", "properties": {"role": "facilitator", "description": "Drives the coach and handles papers at the city gate"}},
+    {"source": "evt_departure_from_paris", "target": "loc_saint_antoine", "edge_type": "OCCURS_IN", "properties": {}},
+    {"source": "evt_departure_from_paris", "target": "ch_1_6", "edge_type": "OCCURS_DURING", "properties": {}},
+
+    {"source": "char_jarvis_lorry", "target": "txt_1_2_1", "edge_type": "MENTIONED_IN", "properties": {}},
+    {"source": "char_alexandre_manette", "target": "txt_1_3_2", "edge_type": "MENTIONED_IN", "properties": {}},
+    {"source": "char_alexandre_manette", "target": "txt_1_6_1", "edge_type": "MENTIONED_IN", "properties": {}},
+    {"source": "char_alexandre_manette", "target": "txt_1_6_2", "edge_type": "MENTIONED_IN", "properties": {}},
+    {"source": "char_alexandre_manette", "target": "txt_1_6_3", "edge_type": "MENTIONED_IN", "properties": {}},
+    {"source": "char_lucie_manette", "target": "txt_1_6_4", "edge_type": "MENTIONED_IN", "properties": {}},
+    {"source": "loc_saint_antoine", "target": "txt_1_5_1", "edge_type": "MENTIONED_IN", "properties": {}},
+    {"source": "loc_saint_antoine", "target": "txt_1_5_2", "edge_type": "MENTIONED_IN", "properties": {}}
+  ]
+}

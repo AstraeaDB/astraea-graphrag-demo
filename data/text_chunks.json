@@ -1,0 +1,618 @@
+[
+  {
+    "id": "txt_1_1_1",
+    "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+    "book": 1,
+    "chapter": 1,
+    "chunk_index": 1,
+    "context": "The famous opening paragraph establishing the era of duality and extremes"
+  },
+  {
+    "id": "txt_1_2_1",
+    "text": "'Wait at Dover for Mam'selle.' It's not long, you see, guard. Jerry, say that my answer was, RECALLED TO LIFE.",
+    "book": 1,
+    "chapter": 2,
+    "chunk_index": 1,
+    "context": "Mr. Lorry receives the message about Dr. Manette and sends back his cryptic reply"
+  },
+  {
+    "id": "txt_1_3_1",
+    "text": "A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other. A solemn consideration, when I enter a great city by night, that every one of those darkly clustered houses encloses its own secret; that every room in every one of them encloses its own secret; that every beating heart in the hundreds of thousands of breasts there, is, in some of its imaginings, a secret to the heart nearest it!",
+    "book": 1,
+    "chapter": 3,
+    "chunk_index": 1,
+    "context": "The narrator's reflection on the inscrutability of every human being"
+  },
+  {
+    "id": "txt_1_3_2",
+    "text": "\"Buried how long?\" The answer was always the same: \"Almost eighteen years.\" \"You had abandoned all hope of being dug out?\" \"Long ago.\" \"You know that you are recalled to life?\" \"They tell me so.\" \"I hope you care to live?\" \"I can't say.\"",
+    "book": 1,
+    "chapter": 3,
+    "chunk_index": 2,
+    "context": "Mr. Lorry's recurring dream-dialogue with the buried man, foreshadowing Dr. Manette"
+  },
+  {
+    "id": "txt_1_5_1",
+    "text": "The wine was red wine, and had stained the ground of the narrow street in the suburb of Saint Antoine, in Paris, where it was spilled. It had stained many hands, too, and many faces, and many naked feet, and many wooden shoes. The hands of the man who sawed the wood, left red marks on the billets; and the forehead of the woman who nursed her baby, was stained with the stain of the old rag she wound about her head again. Those who had been greedy with the staves of the cask, had acquired a tigerish smear about the mouth; and one tall joker so besmirched, his head more out of a long squalid bag of a nightcap than in it, scrawled upon a wall with his finger dipped in muddy wine-lees--BLOOD.",
+    "book": 1,
+    "chapter": 5,
+    "chunk_index": 1,
+    "context": "The spilled wine stains the people red -- foreshadowing the blood of the Revolution"
+  },
+  {
+    "id": "txt_1_5_2",
+    "text": "Hunger was pushed out of the tall houses, in the wretched clothing that hung upon poles and lines; Hunger was patched into them with straw and rag and wood and paper; Hunger was repeated in every fragment of the small modicum of firewood that the man sawed off; Hunger stared down from the smokeless chimneys, and started up from the filthy street that had no offal, among its refuse, of anything to eat. Hunger was the inscription on the baker's shelves, written in every small loaf of his scanty stock of bad bread; at the sausage-shop, in every dead-dog preparation that was offered for sale.",
+    "book": 1,
+    "chapter": 5,
+    "chunk_index": 2,
+    "context": "The personification of Hunger pervading every aspect of life in Saint Antoine"
+  },
+  {
+    "id": "txt_1_6_1",
+    "text": "The faintness of the voice was pitiable and dreadful. It was not the faintness of physical weakness, though confinement and hard fare no doubt had their part in it. Its deplorable peculiarity was, that it was the faintness of solitude and disuse. It was like the last feeble echo of a sound made long and long ago. So entirely had it lost the life and resonance of the human voice, that it affected the senses like a once beautiful colour faded away into a poor weak stain.",
+    "book": 1,
+    "chapter": 6,
+    "chunk_index": 1,
+    "context": "Description of Dr. Manette's ruined voice after eighteen years of solitary imprisonment"
+  },
+  {
+    "id": "txt_1_6_2",
+    "text": "\"Did you ask me for my name?\" \"Assuredly I did.\" \"One Hundred and Five, North Tower.\" \"Is that all?\" \"One Hundred and Five, North Tower.\"",
+    "book": 1,
+    "chapter": 6,
+    "chunk_index": 2,
+    "context": "Dr. Manette identifies himself only by his Bastille cell number, having lost his name"
+  },
+  {
+    "id": "txt_1_6_3",
+    "text": "\"She had laid her head upon my shoulder, that night when I was summoned out--she had a fear of my going, though I had none--and when I was brought to the North Tower they found these upon my sleeve. 'You will leave me them? They can never help me to escape in the body, though they may in the spirit.' Those were the words I said. I remember them very well.\"",
+    "book": 1,
+    "chapter": 6,
+    "chunk_index": 3,
+    "context": "Dr. Manette recalls the night of his arrest and the golden hairs from his wife he kept as a talisman"
+  },
+  {
+    "id": "txt_1_6_4",
+    "text": "\"If you hear in my voice--I don't know that it is so, but I hope it is--if you hear in my voice any resemblance to a voice that once was sweet music in your ears, weep for it, weep for it! If you touch, in touching my hair, anything that recalls a beloved head that lay on your breast when you were young and free, weep for it, weep for it!\"",
+    "book": 1,
+    "chapter": 6,
+    "chunk_index": 4,
+    "context": "Lucie's emotional plea to her father in the garret, appealing to his buried memories"
+  },
+  {
+    "id": "txt_1_6_5",
+    "text": "\"I hope you care to be recalled to life?\" And the old answer: \"I can't say.\"",
+    "book": 1,
+    "chapter": 6,
+    "chunk_index": 5,
+    "context": "The closing lines of Book the First, echoing the recurring motif of resurrection"
+  },
+  {
+    "id": "txt_2_1_1",
+    "text": "Tellson's Bank by Temple Bar was an old-fashioned place, even in the year one thousand seven hundred and eighty. It was very small, very dark, very ugly, very incommodious. It was an old-fashioned place, moreover, in the moral attribute that the partners in the House were proud of its smallness, proud of its darkness, proud of its ugliness, proud of its incommodiousness.",
+    "book": 2,
+    "chapter": 1,
+    "chunk_index": 1,
+    "context": "Opening description of Tellson's Bank, establishing its old-fashioned character"
+  },
+  {
+    "id": "txt_2_2_1",
+    "text": "Silence in the court! Charles Darnay had yesterday pleaded Not Guilty to an indictment denouncing him (with infinite jingle and jangle) for that he was a false traitor to our serene, illustrious, excellent, and so forth, prince, our Lord the King, by reason of his having, on divers occasions, and by divers means and ways, assisted Lewis, the French King, in his wars against our said serene, illustrious, excellent, and so forth.",
+    "book": 2,
+    "chapter": 2,
+    "chunk_index": 1,
+    "context": "The formal treason charge against Charles Darnay at the Old Bailey"
+  },
+  {
+    "id": "txt_2_3_1",
+    "text": "Hastily written on the paper was the word 'ACQUITTED.'",
+    "book": 2,
+    "chapter": 3,
+    "chunk_index": 1,
+    "context": "The verdict of Darnay's treason trial, delivered to Jerry Cruncher"
+  },
+  {
+    "id": "txt_2_4_1",
+    "text": "She was the golden thread that united him to a Past beyond his misery, and to a Present beyond his misery: and the sound of her voice, the light of her face, the touch of her hand, had a strong beneficial influence with him almost always.",
+    "book": 2,
+    "chapter": 4,
+    "chunk_index": 1,
+    "context": "Description of Lucie as the golden thread connecting Dr. Manette to life"
+  },
+  {
+    "id": "txt_2_4_2",
+    "text": "Do you particularly like the man?\" he muttered, at his own image; \"why should you particularly like a man who resembles you? There is nothing in you to like; you know that. Ah, confound you! What a change you have made in yourself! A good reason for taking to a man, that he shows you what you have fallen away from, and what you might have been!\"",
+    "book": 2,
+    "chapter": 4,
+    "chunk_index": 2,
+    "context": "Carton's self-lacerating soliloquy in the mirror after dining with Darnay"
+  },
+  {
+    "id": "txt_2_5_1",
+    "text": "Waste forces within him, and a desert all around, this man stood still on his way across a silent terrace, and saw for a moment, lying in the wilderness before him, a mirage of honourable ambition, self-denial, and perseverance.",
+    "book": 2,
+    "chapter": 5,
+    "chunk_index": 1,
+    "context": "Carton's momentary vision of a better life as he walks home at dawn"
+  },
+  {
+    "id": "txt_2_5_2",
+    "text": "Sadly, sadly, the sun rose; it rose upon no sadder sight than the man of good abilities and good emotions, incapable of their directed exercise, incapable of his own help and his own happiness, sensible of the blight on him, and resigning himself to let it eat him away.",
+    "book": 2,
+    "chapter": 5,
+    "chunk_index": 2,
+    "context": "The narrator's summary of Carton's tragic condition"
+  },
+  {
+    "id": "txt_2_6_1",
+    "text": "There never was, nor will be, but one man worthy of Ladybird,\" said Miss Pross; \"and that was my brother Solomon, if he hadn't made a mistake in life.\"",
+    "book": 2,
+    "chapter": 6,
+    "chunk_index": 1,
+    "context": "Miss Pross's deluded devotion to her worthless brother Solomon"
+  },
+  {
+    "id": "txt_2_6_2",
+    "text": "There is a great crowd coming one day into our lives, if that be so,\" Sydney Carton struck in, in his moody way.",
+    "book": 2,
+    "chapter": 6,
+    "chunk_index": 2,
+    "context": "Carton's prophetic remark during the storm, foreshadowing the Revolution"
+  },
+  {
+    "id": "txt_2_7_1",
+    "text": "The earth and the fulness thereof are mine, saith Monseigneur.",
+    "book": 2,
+    "chapter": 7,
+    "chunk_index": 1,
+    "context": "The Monseigneur's self-serving alteration of Scripture to justify his greed"
+  },
+  {
+    "id": "txt_2_7_2",
+    "text": "\"Killed!\" shrieked the man, in wild desperation, extending both arms at their length above his head, and staring at him. \"Dead!\"",
+    "book": 2,
+    "chapter": 7,
+    "chunk_index": 2,
+    "context": "Gaspard's anguished cry when his child is killed by the Marquis's carriage"
+  },
+  {
+    "id": "txt_2_9_1",
+    "text": "\"Repression is the only lasting philosophy. The dark deference of fear and slavery, my friend,\" observed the Marquis, \"will keep the dogs obedient to the whip, as long as this roof,\" looking up to it, \"shuts out the sky.\"",
+    "book": 2,
+    "chapter": 9,
+    "chunk_index": 1,
+    "context": "The Marquis's philosophy of aristocratic rule through fear"
+  },
+  {
+    "id": "txt_2_9_2",
+    "text": "\"This property and France are lost to me,\" said the nephew, sadly; \"I renounce them.\"",
+    "book": 2,
+    "chapter": 9,
+    "chunk_index": 2,
+    "context": "Darnay renouncing the Evr\u00e9monde estate and France"
+  },
+  {
+    "id": "txt_2_9_3",
+    "text": "Drive him fast to his tomb. This, from Jacques.",
+    "book": 2,
+    "chapter": 9,
+    "chunk_index": 3,
+    "context": "The note found on the knife driven into the Marquis's heart"
+  },
+  {
+    "id": "txt_2_10_1",
+    "text": "\"Dear Doctor Manette, I love your daughter fondly, dearly, disinterestedly, devotedly. If ever there were love in the world, I love her. You have loved yourself; let your old love speak for me!\"",
+    "book": 2,
+    "chapter": 10,
+    "chunk_index": 1,
+    "context": "Darnay's declaration of love for Lucie to her father"
+  },
+  {
+    "id": "txt_2_10_2",
+    "text": "\"Tell me when I ask you, not now. If your suit should prosper, if Lucie should love you, you shall tell me on your marriage morning. Do you promise?\"",
+    "book": 2,
+    "chapter": 10,
+    "chunk_index": 2,
+    "context": "Dr. Manette asking Darnay to delay revealing his true name until the wedding"
+  },
+  {
+    "id": "txt_2_13_1",
+    "text": "\"I wish you to know that you have been the last dream of my soul. In my degradation I have not been so degraded but that the sight of you with your father, and of this home made such a home by you, has stirred old shadows that I thought had died out of me.\"",
+    "book": 2,
+    "chapter": 13,
+    "chunk_index": 1,
+    "context": "Carton's confession of love to Lucie"
+  },
+  {
+    "id": "txt_2_13_2",
+    "text": "\"For you, and for any dear to you, I would do anything. If my career were of that better kind that there was any opportunity or capacity of sacrifice in it, I would embrace any sacrifice for you and for those dear to you.\"",
+    "book": 2,
+    "chapter": 13,
+    "chunk_index": 2,
+    "context": "Carton's pledge of sacrifice to Lucie, foreshadowing his ultimate act"
+  },
+  {
+    "id": "txt_2_13_3",
+    "text": "\"O Miss Manette, when the little picture of a happy father's face looks up in yours, when you see your own bright beauty springing up anew at your feet, think now and then that there is a man who would give his life, to keep a life you love beside you!\"",
+    "book": 2,
+    "chapter": 13,
+    "chunk_index": 3,
+    "context": "Carton's farewell words to Lucie, a direct foreshadowing of his sacrifice"
+  },
+  {
+    "id": "txt_2_15_1",
+    "text": "\"To be registered, as doomed to destruction,\" returned Defarge. \"The chateau, and all the race?\" inquired the first. \"The chateau and all the race,\" returned Defarge. \"Extermination.\"",
+    "book": 2,
+    "chapter": 15,
+    "chunk_index": 1,
+    "context": "The Jacques voting to condemn the entire Evr\u00e9monde line to destruction"
+  },
+  {
+    "id": "txt_2_15_2",
+    "text": "\"Jacques,\" returned Defarge, drawing himself up, \"if madame my wife undertook to keep the register in her memory alone, she would not lose a word of it--not a syllable of it. Knitted, in her own stitches and her own symbols, it will always be as plain to her as the sun.\"",
+    "book": 2,
+    "chapter": 15,
+    "chunk_index": 2,
+    "context": "Defarge explaining Madame Defarge's knitted register of the condemned"
+  },
+  {
+    "id": "txt_2_16_1",
+    "text": "\"Vengeance and retribution require a long time; it is the rule.\"",
+    "book": 2,
+    "chapter": 16,
+    "chunk_index": 1,
+    "context": "Madame Defarge's philosophy of patient revolutionary justice"
+  },
+  {
+    "id": "txt_2_16_2",
+    "text": "\"It does not take a long time,\" said madame, \"for an earthquake to swallow a town. Eh well! Tell me how long it takes to prepare the earthquake?\"",
+    "book": 2,
+    "chapter": 16,
+    "chunk_index": 2,
+    "context": "Madame Defarge comparing the revolution to an earthquake in preparation"
+  },
+  {
+    "id": "txt_2_16_3",
+    "text": "\"Her husband's destiny,\" said Madame Defarge, with her usual composure, \"will take him where he is to go, and will lead him to the end that is to end him. That is all I know.\"",
+    "book": 2,
+    "chapter": 16,
+    "chunk_index": 3,
+    "context": "Madame Defarge's cold pronouncement on Darnay's fate despite Defarge's sympathy"
+  },
+  {
+    "id": "txt_2_17_1",
+    "text": "\"I have looked at her from my prison-window, when I could not bear her light. I have looked at her when it has been such torture to me to think of her shining upon what I had lost, that I have beaten my head against my prison-walls.\"",
+    "book": 2,
+    "chapter": 17,
+    "chunk_index": 1,
+    "context": "Dr. Manette speaking of the moon from his prison, his first reference to captivity"
+  },
+  {
+    "id": "txt_2_18_1",
+    "text": "\"O me, O me! All is lost!\" cried she, wringing her hands. \"What is to be told to Ladybird? He doesn't know me, and is making shoes!\"",
+    "book": 2,
+    "chapter": 18,
+    "chunk_index": 1,
+    "context": "Miss Pross's anguished discovery of Dr. Manette's relapse into shoemaking"
+  },
+  {
+    "id": "txt_2_19_1",
+    "text": "\"In her name, then, let it be done; I sanction it. But, I would not take it away while he was present. Let it be removed when he is not there; let him miss his old companion after an absence.\"",
+    "book": 2,
+    "chapter": 19,
+    "chunk_index": 1,
+    "context": "Dr. Manette consenting to the destruction of his shoemaker's bench"
+  },
+  {
+    "id": "txt_2_20_1",
+    "text": "\"I am sure that he is capable of good things, gentle things, even magnanimous things.\"",
+    "book": 2,
+    "chapter": 20,
+    "chunk_index": 1,
+    "context": "Lucie defending Carton's character to her husband"
+  },
+  {
+    "id": "txt_2_20_2",
+    "text": "\"Remember how strong we are in our happiness, and how weak he is in his misery!\"",
+    "book": 2,
+    "chapter": 20,
+    "chunk_index": 2,
+    "context": "Lucie urging Darnay to have compassion for Carton"
+  },
+  {
+    "id": "txt_2_21_1",
+    "text": "With a roar that sounded as if all the breath in France had been shaped into the detested word, the living sea rose, wave on wave, depth on depth, and overflowed the city to that point. Alarm-bells ringing, drums beating, the sea raging and thundering on its new beach, the attack began.",
+    "book": 2,
+    "chapter": 21,
+    "chunk_index": 1,
+    "context": "The people of Paris surging toward the Bastille on July 14, 1789"
+  },
+  {
+    "id": "txt_2_21_2",
+    "text": "\"Alexandre Manette,\" said Defarge in his ear, following the letters with his swart forefinger, deeply engrained with gunpowder. \"And here he wrote 'a poor physician.'\"",
+    "book": 2,
+    "chapter": 21,
+    "chunk_index": 2,
+    "context": "Defarge finding Dr. Manette's inscription in cell 105 North Tower of the Bastille"
+  },
+  {
+    "id": "txt_2_21_3",
+    "text": "Seven prisoners released, seven gory heads on pikes, the keys of the accursed fortress of the eight strong towers, some discovered letters and other memorials of prisoners of old time, long dead of broken hearts,--such, and such--like, the loudly echoing footsteps of Saint Antoine escort through the Paris streets in mid-July, one thousand seven hundred and eighty-nine.",
+    "book": 2,
+    "chapter": 21,
+    "chunk_index": 3,
+    "context": "Summary of the aftermath of the Bastille's fall"
+  },
+  {
+    "id": "txt_2_22_1",
+    "text": "Once, he went aloft, and the rope broke, and they caught him shrieking; twice, he went aloft, and the rope broke, and they caught him shrieking; then, the rope was merciful, and held him, and his head was soon upon a pike, with grass enough in the mouth for all Saint Antoine to dance at the sight of.",
+    "book": 2,
+    "chapter": 22,
+    "chunk_index": 1,
+    "context": "The mob hanging old Foulon with grass in his mouth"
+  },
+  {
+    "id": "txt_2_23_1",
+    "text": "The chateau burned; the nearest trees, laid hold of by the fire, scorched and shrivelled; trees at a distance, fired by the four fierce figures, begirt the blazing edifice with a new forest of smoke.",
+    "book": 2,
+    "chapter": 23,
+    "chunk_index": 1,
+    "context": "The burning of the Evr\u00e9monde chateau"
+  },
+  {
+    "id": "txt_2_24_1",
+    "text": "\"Very pressing. To Monsieur heretofore the Marquis St. Evr\u00e9monde, of France. Confided to the cares of Messrs. Tellson and Co., Bankers, London, England.\"",
+    "book": 2,
+    "chapter": 24,
+    "chunk_index": 1,
+    "context": "The address on Gabelle's letter that reveals Darnay's true identity to the reader"
+  },
+  {
+    "id": "txt_2_24_2",
+    "text": "\"For the love of Heaven, of justice, of generosity, of the honour of your noble name!\" was the poor prisoner's cry with which he strengthened his sinking heart, as he left all that was dear on earth behind him, and floated away for the Loadstone Rock.",
+    "book": 2,
+    "chapter": 24,
+    "chunk_index": 2,
+    "context": "Darnay departing for France, drawn by Gabelle's plea and his own sense of duty"
+  },
+  {
+    "id": "txt_2_21_4",
+    "text": "No man ever really loved a woman, lost her, and knew her with a blameless though an unchanged mind, when she was a wife and a mother, but her children had a strange sympathy with him--an instinctive delicacy of pity for him.",
+    "book": 2,
+    "chapter": 21,
+    "chunk_index": 4,
+    "context": "The narrator on Carton's relationship with the Darnay children"
+  },
+  {
+    "id": "txt_3_1_1",
+    "text": "The traveller fared slowly on his way, who fared towards Paris from England in the autumn of the year one thousand seven hundred and ninety-two.",
+    "book": 3,
+    "chapter": 1,
+    "chunk_index": 1,
+    "context": "Opening line of Book 3, establishing Darnay's journey to revolutionary France"
+  },
+  {
+    "id": "txt_3_1_2",
+    "text": "In the name of that sharp female newly-born, and called La Guillotine, why did you come to France?",
+    "book": 3,
+    "chapter": 1,
+    "chunk_index": 2,
+    "context": "Defarge's warning to Darnay upon conducting him to La Force prison"
+  },
+  {
+    "id": "txt_3_1_3",
+    "text": "Five paces by four and a half, five paces by four and a half, five paces by four and a half.",
+    "book": 3,
+    "chapter": 1,
+    "chunk_index": 3,
+    "context": "Darnay measuring his solitary cell in La Force, echoing his father-in-law's imprisonment"
+  },
+  {
+    "id": "txt_3_2_1",
+    "text": "The grindstone had a double handle, and, turning at it madly were two men, whose faces, as their long hair flapped back when the whirlings of the grindstone brought their faces up, were more horrible and cruel than the visages of the wildest savages in their most barbarous disguise.",
+    "book": 3,
+    "chapter": 2,
+    "chunk_index": 1,
+    "context": "The horrifying scene of revolutionaries sharpening weapons during the September Massacres"
+  },
+  {
+    "id": "txt_3_2_2",
+    "text": "Live the Bastille prisoner! Help for the Bastille prisoner's kindred in La Force! Room for the Bastille prisoner in front there! Save the prisoner Evr\u00e9monde at La Force!",
+    "book": 3,
+    "chapter": 2,
+    "chunk_index": 2,
+    "context": "The crowd carrying Doctor Manette to La Force to save Darnay during the massacres"
+  },
+  {
+    "id": "txt_3_3_1",
+    "text": "The wives and mothers we have been used to see, since we were as little as this child, and much less, have not been greatly considered? We have known their husbands and fathers laid in prison and kept from them, often enough? All our lives, we have seen our sister-women suffer, in themselves and in their children, poverty, nakedness, hunger, thirst, sickness, misery, oppression and neglect of all kinds?",
+    "book": 3,
+    "chapter": 3,
+    "chunk_index": 1,
+    "context": "Madame Defarge's cold response to Lucie's plea for mercy"
+  },
+  {
+    "id": "txt_3_4_1",
+    "text": "It all tended to a good end, my friend; it was not mere waste and ruin. As my beloved child was helpful in restoring me to myself, I will be helpful now in restoring the dearest part of herself to her; by the aid of Heaven I will do it!",
+    "book": 3,
+    "chapter": 4,
+    "chunk_index": 1,
+    "context": "Doctor Manette finding strength in his suffering, resolving to save Darnay"
+  },
+  {
+    "id": "txt_3_4_2",
+    "text": "Above all, one hideous figure grew as familiar as if it had been before the general gaze from the foundations of the world--the figure of the sharp female called La Guillotine.",
+    "book": 3,
+    "chapter": 4,
+    "chunk_index": 2,
+    "context": "Description of the Guillotine becoming the dominant symbol of the Terror"
+  },
+  {
+    "id": "txt_3_4_3",
+    "text": "It superseded the Cross. Models of it were worn on breasts from which the Cross was discarded, and it was bowed down to and believed in where the Cross was denied.",
+    "book": 3,
+    "chapter": 4,
+    "chunk_index": 3,
+    "context": "The Guillotine replacing religion as the symbol of the revolutionary era"
+  },
+  {
+    "id": "txt_3_5_1",
+    "text": "I call myself the Samson of the firewood guillotine. See here again! Loo, loo, loo; Loo, loo, loo! And off her head comes! Now, a child. Tickle, tickle; Pickle, pickle! And off its head comes. All the family!",
+    "book": 3,
+    "chapter": 5,
+    "chunk_index": 1,
+    "context": "The wood-sawyer's sinister game with his saw near La Force prison"
+  },
+  {
+    "id": "txt_3_5_2",
+    "text": "No fight could have been half so terrible as this dance. It was so emphatically a fallen sport--a something, once innocent, delivered over to all devilry--a healthy pastime changed into a means of angering the blood, bewildering the senses, and steeling the heart.",
+    "book": 3,
+    "chapter": 5,
+    "chunk_index": 2,
+    "context": "Description of the Carmagnole dance as corrupted innocence"
+  },
+  {
+    "id": "txt_3_8_1",
+    "text": "In short, this is a desperate time, when desperate games are played for desperate stakes. Let the Doctor play the winning game; I will play the losing one.",
+    "book": 3,
+    "chapter": 8,
+    "chunk_index": 1,
+    "context": "Carton's declaration of his plan to save Darnay by sacrificing himself"
+  },
+  {
+    "id": "txt_3_9_1",
+    "text": "If you could say, with truth, to your own solitary heart, to-night, 'I have secured to myself the love and attachment, the gratitude or respect, of no human creature; I have won myself a tender place in no regard; I have done nothing good or serviceable to be remembered by!' your seventy-eight years would be seventy-eight heavy curses; would they not?",
+    "book": 3,
+    "chapter": 9,
+    "chunk_index": 1,
+    "context": "Carton's reflective conversation with Mr. Lorry about the meaning of life"
+  },
+  {
+    "id": "txt_3_9_2",
+    "text": "I am the resurrection and the life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me, shall never die.",
+    "book": 3,
+    "chapter": 9,
+    "chunk_index": 2,
+    "context": "The scripture Carton repeats throughout his final night walk through Paris"
+  },
+  {
+    "id": "txt_3_9_3",
+    "text": "It was not a reckless manner, the manner in which he said these words aloud under the fast-sailing clouds, nor was it more expressive of negligence than defiance. It was the settled manner of a tired man, who had wandered and struggled and got lost, but who at length struck into his road and saw its end.",
+    "book": 3,
+    "chapter": 9,
+    "chunk_index": 3,
+    "context": "Description of Carton's calm resolve after purchasing the chemicals for his plan"
+  },
+  {
+    "id": "txt_3_10_1",
+    "text": "Marquis, in the days when all these things are to be answered for, I summon you and yours, to the last of your bad race, to answer for them. I mark this cross of blood upon you, as a sign that I do it.",
+    "book": 3,
+    "chapter": 10,
+    "chunk_index": 1,
+    "context": "The dying peasant boy's curse on the Evr\u00e9monde family in Manette's letter"
+  },
+  {
+    "id": "txt_3_10_2",
+    "text": "And them and their descendants, to the last of their race, I, Alexandre Manette, unhappy prisoner, do this last night of the year 1767, in my unbearable agony, denounce to the times when all these things shall be answered for. I denounce them to Heaven and to earth.",
+    "book": 3,
+    "chapter": 10,
+    "chunk_index": 2,
+    "context": "Doctor Manette's denunciation of the Evr\u00e9monde family at the end of his Bastille letter"
+  },
+  {
+    "id": "txt_3_11_1",
+    "text": "It was remembered afterwards that when he bent down and touched her face with his lips, he murmured some words. The child, who was nearest to him, told them afterwards, and told her grandchildren when she was a handsome old lady, that she heard him say, 'A life you love.'",
+    "book": 3,
+    "chapter": 11,
+    "chunk_index": 1,
+    "context": "Carton kissing the unconscious Lucie and murmuring his farewell"
+  },
+  {
+    "id": "txt_3_12_1",
+    "text": "Defarge, I was brought up among the fishermen of the sea-shore, and that peasant family so injured by the two Evr\u00e9monde brothers, as that Bastille paper describes, is my family. Defarge, that sister of the mortally wounded boy upon the ground was my sister, that husband was my sister's husband, that unborn child was their child, that brother was my brother, that father was my father, those dead are my dead, and that summons to answer for those things descends to me!",
+    "book": 3,
+    "chapter": 12,
+    "chunk_index": 1,
+    "context": "Madame Defarge revealing she is the surviving sister from the Evr\u00e9monde atrocity"
+  },
+  {
+    "id": "txt_3_12_2",
+    "text": "Tell Wind and Fire where to stop, but don't tell me.",
+    "book": 3,
+    "chapter": 12,
+    "chunk_index": 2,
+    "context": "Madame Defarge's implacable response when asked to show mercy"
+  },
+  {
+    "id": "txt_3_12_3",
+    "text": "Where is my bench? I have been looking everywhere for my bench, and I can't find it. What have they done with my work? Time presses: I must finish those shoes.",
+    "book": 3,
+    "chapter": 12,
+    "chunk_index": 3,
+    "context": "Doctor Manette's heartbreaking relapse into his shoemaking madness"
+  },
+  {
+    "id": "txt_3_13_1",
+    "text": "I am thankful that the time has come, when I can prove them. That I do so is no subject for regret or grief.",
+    "book": 3,
+    "chapter": 13,
+    "chunk_index": 1,
+    "context": "The farewell note Carton dictates to Darnay, referencing his old promise to Lucie"
+  },
+  {
+    "id": "txt_3_13_2",
+    "text": "Are you dying for him? And his wife and child. Hush! Yes.",
+    "book": 3,
+    "chapter": 13,
+    "chunk_index": 2,
+    "context": "The seamstress recognizing Carton's sacrifice as they await the guillotine"
+  },
+  {
+    "id": "txt_3_14_1",
+    "text": "Miss Pross, with the vigorous tenacity of love, always so much stronger than hate, clasped her tight, and even lifted her from the floor in the struggle that they had.",
+    "book": 3,
+    "chapter": 14,
+    "chunk_index": 1,
+    "context": "The climactic struggle between Miss Pross and Madame Defarge"
+  },
+  {
+    "id": "txt_3_14_2",
+    "text": "I feel as if there had been a flash and a crash, and that crash was the last thing I should ever hear in this life.",
+    "book": 3,
+    "chapter": 14,
+    "chunk_index": 2,
+    "context": "Miss Pross discovering she has been permanently deafened by the gunshot"
+  },
+  {
+    "id": "txt_3_15_1",
+    "text": "Crush humanity out of shape once more, under similar hammers, and it will twist itself into the same tortured forms. Sow the same seed of rapacious license and oppression over again, and it will surely yield the same fruit according to its kind.",
+    "book": 3,
+    "chapter": 15,
+    "chunk_index": 1,
+    "context": "Dickens's warning about the cyclical nature of oppression and revolution"
+  },
+  {
+    "id": "txt_3_15_2",
+    "text": "I see a beautiful city and a brilliant people rising from this abyss, and, in their struggles to be truly free, in their triumphs and defeats, through long years to come, I see the evil of this time and of the previous time of which this is the natural birth, gradually making expiation for itself and wearing out.",
+    "book": 3,
+    "chapter": 15,
+    "chunk_index": 2,
+    "context": "Carton's prophetic vision of a redeemed France"
+  },
+  {
+    "id": "txt_3_15_3",
+    "text": "I see that I hold a sanctuary in their hearts, and in the hearts of their descendants, generations hence. I see her, an old woman, weeping for me on the anniversary of this day.",
+    "book": 3,
+    "chapter": 15,
+    "chunk_index": 3,
+    "context": "Carton's vision of his place in the memory of those he saved"
+  },
+  {
+    "id": "txt_3_15_4",
+    "text": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+    "book": 3,
+    "chapter": 15,
+    "chunk_index": 4,
+    "context": "The novel's famous closing line -- Carton's imagined final thoughts at the guillotine"
+  }
+]
