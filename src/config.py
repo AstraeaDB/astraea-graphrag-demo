@@ -5,7 +5,7 @@ import os
 # AstraeaDB
 ASTRAEA_HOST = os.getenv("ASTRAEA_HOST", "127.0.0.1")
 ASTRAEA_PORT = int(os.getenv("ASTRAEA_PORT", "7687"))
-ASTRAEA_BIN = os.getenv("ASTRAEA_BIN", "/Users/jamesharris/Documents/astraeadb/target/debug/astraea-cli")
+ASTRAEA_BIN = os.getenv("ASTRAEA_BIN", "astraea-cli")
 ASTRAEA_DATA_DIR = os.getenv("ASTRAEA_DATA_DIR", "")  # empty = proxy mode
 
 # Ollama

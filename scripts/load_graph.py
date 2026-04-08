@@ -2,17 +2,22 @@
 
 Usage:
     # Start AstraeaDB first:
-    #   /Users/jamesharris/Documents/astraeadb/target/debug/astraea-cli serve
+    #   astraea-cli serve
     # Then:
     #   python3 scripts/load_graph.py
+
+Set ASTRAEA_PYTHON_PATH to the directory containing the AstraeaDB Python
+client if it is not already on your PYTHONPATH (e.g., /path/to/astraeadb/python).
 """
 
 import json
 import os
 import sys
 
-# Add the AstraeaDB Python client to the path
-sys.path.insert(0, '/Users/jamesharris/Documents/astraeadb/python')
+# Add the AstraeaDB Python client to the path if specified
+_astraea_python = os.getenv("ASTRAEA_PYTHON_PATH", "")
+if _astraea_python:
+    sys.path.insert(0, _astraea_python)
 from astraeadb import AstraeaClient
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'data')

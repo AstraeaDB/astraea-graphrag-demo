@@ -14,7 +14,7 @@ ollama list
 # Should show: gemma3:4b, embeddinggemma
 
 # Terminal 2: Start AstraeaDB
-/Users/jamesharris/Documents/astraeadb/target/debug/astraea-cli serve
+astraea-cli serve
 
 # Terminal 3: Verify the graph is loaded (if not, run):
 python3 scripts/load_graph.py
@@ -264,7 +264,7 @@ If the demo has time or a live question comes up, here are additional questions 
 
 | Problem | Fix |
 |---------|-----|
-| "Failed to start MCP bridge" | AstraeaDB isn't running. Open Terminal B: `/Users/jamesharris/Documents/astraeadb/target/debug/astraea-cli serve` |
+| "Failed to start MCP bridge" | AstraeaDB isn't running. Open Terminal B: `astraea-cli serve` |
 | Tool calls return errors | The graph may not be loaded. Run `python3 scripts/load_graph.py` |
 | Model doesn't call tools | This happens occasionally with small models. Ask a more specific question, or restart |
 | Very slow responses | Check that Ollama is using GPU. Run `ollama ps` to verify |

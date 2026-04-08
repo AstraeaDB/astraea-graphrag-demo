@@ -170,10 +170,10 @@ The embeddings give the system **semantic understanding** (what things *mean*), 
   ollama pull gemma3:4b
   ollama pull embeddinggemma
   ```
-- **AstraeaDB** built from source at `/Users/jamesharris/Documents/astraeadb`
+- **AstraeaDB** built from source (the debug build includes the `mcp` subcommand)
   ```bash
-  cd /Users/jamesharris/Documents/astraeadb
-  cargo build -p astraea-cli    # debug build includes the mcp subcommand
+  cd /path/to/astraeadb
+  cargo build -p astraea-cli
   ```
 - **Python 3.9+** with requests:
   ```bash
@@ -193,8 +193,8 @@ This calls Ollama's embedding API for all 229 entities, truncates to 128 dimensi
 ### 2. Start AstraeaDB and load the graph
 
 ```bash
-# Start the server
-/Users/jamesharris/Documents/astraeadb/target/debug/astraea-cli serve &
+# Start the server (astraea-cli must be on your PATH, or set ASTRAEA_BIN)
+astraea-cli serve &
 
 # Load the knowledge graph (must be repeated after each server restart --
 # AstraeaDB stores data in memory by default)
@@ -321,7 +321,8 @@ All settings can be overridden via environment variables:
 |----------|---------|-------------|
 | `ASTRAEA_HOST` | `127.0.0.1` | AstraeaDB server host |
 | `ASTRAEA_PORT` | `7687` | AstraeaDB server port |
-| `ASTRAEA_BIN` | `target/debug/astraea-cli` | Path to astraea-cli binary (must have `mcp` subcommand -- debug build) |
+| `ASTRAEA_BIN` | `astraea-cli` | Path to astraea-cli binary (must have `mcp` subcommand -- debug build). Set this if the binary is not on your `PATH`. |
+| `ASTRAEA_PYTHON_PATH` | *(unset)* | Path to the directory containing the AstraeaDB Python client (e.g., `/path/to/astraeadb/python`). Only needed if `astraeadb` is not already importable via `PYTHONPATH`. |
 | `OLLAMA_URL` | `http://localhost:11434` | Ollama API endpoint |
 | `CHAT_MODEL` | `gemma3:4b` | Ollama chat model |
 | `EMBED_MODEL` | `embeddinggemma` | Ollama embedding model |
