@@ -66,7 +66,7 @@ EXPOSED_TOOLS = [
         "parameters": {
             "type": "object",
             "properties": {
-                "query": {"type": "array", "items": {"type": "number"}, "description": "128-dimensional query embedding vector"},
+                "query": {"type": "array", "items": {"type": "number"}, "description": "768-dimensional query embedding vector"},
                 "k": {"type": "integer", "description": "Number of results to return (default: 10)"}
             },
             "required": ["query"]
@@ -79,7 +79,7 @@ EXPOSED_TOOLS = [
             "type": "object",
             "properties": {
                 "anchor": {"type": "integer", "description": "Anchor node ID"},
-                "query": {"type": "array", "items": {"type": "number"}, "description": "128-dimensional query embedding vector"},
+                "query": {"type": "array", "items": {"type": "number"}, "description": "768-dimensional query embedding vector"},
                 "max_hops": {"type": "integer", "description": "Maximum graph distance (default: 3)"},
                 "k": {"type": "integer", "description": "Number of results (default: 10)"},
                 "alpha": {"type": "number", "description": "Blend factor: 0.0=pure graph, 1.0=pure vector (default: 0.5)"}

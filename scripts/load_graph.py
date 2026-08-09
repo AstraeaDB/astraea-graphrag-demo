@@ -2,7 +2,7 @@
 
 Usage:
     # Start AstraeaDB first:
-    #   astraea-cli serve
+    #   astraeadb serve
     # Then:
     #   python3 scripts/load_graph.py
 

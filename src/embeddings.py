@@ -1,6 +1,8 @@
 """Embedding generation using EmbeddingGemma via Ollama.
 
-Matryoshka truncation to 128 dimensions with L2 re-normalization.
+Native 768 dimensions with L2 normalization. Must stay in step with
+scripts/generate_embeddings.py: a query embedded at a different width than the
+stored node embeddings will not match anything.
 """
 
 import math
@@ -14,7 +16,7 @@ def _normalize(vec):
 
 
 def embed(text):
-    """Embed a single text string. Returns a 128-dim float list."""
+    """Embed a single text string. Returns a 768-dim float list."""
     resp = requests.post(
         f"{config.OLLAMA_URL}/api/embed",
         json={"model": config.EMBED_MODEL, "input": [text]},
@@ -22,4 +24,4 @@ def embed(text):
     )
     resp.raise_for_status()
     emb = resp.json()["embeddings"][0]
-    return _normalize(emb[:config.EMBEDDING_DIM])
+    return _normalize(emb)

@@ -76,14 +76,14 @@ def _():
         assert e['target'] in all_ids, f"Edge {i}: dangling target '{e['target']}'"
 
 
-@test("Embeddings exist for all entities and are 128-dim")
+@test("Embeddings exist for all entities and are 768-dim")
 def _():
     data_dir = os.path.join(os.path.dirname(__file__), 'data')
     with open(os.path.join(data_dir, 'embeddings.json')) as f:
         embeddings = json.load(f)
     assert len(embeddings) == 229, f"Expected 229 embeddings, got {len(embeddings)}"
     for eid, vec in embeddings.items():
-        assert len(vec) == 128, f"Embedding {eid} has {len(vec)} dims, expected 128"
+        assert len(vec) == 768, f"Embedding {eid} has {len(vec)} dims, expected 768"
 
 
 # ============================================================
@@ -115,11 +115,11 @@ def _():
     assert any('embeddinggemma' in m for m in models), f"embeddinggemma not found in {models}"
 
 
-@test("Embedding generation works (128-dim)")
+@test("Embedding generation works (768-dim)")
 def _():
     from src.embeddings import embed
     vec = embed("test sentence")
-    assert len(vec) == 128, f"Expected 128 dims, got {len(vec)}"
+    assert len(vec) == 768, f"Expected 768 dims, got {len(vec)}"
     # Check it's normalized (L2 norm ~= 1.0)
     import math
     norm = math.sqrt(sum(x*x for x in vec))

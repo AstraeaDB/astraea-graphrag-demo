@@ -14,7 +14,7 @@ ollama list
 # Should show: gemma3:4b, embeddinggemma
 
 # Terminal 2: Start AstraeaDB
-astraea-cli serve
+astraeadb serve
 
 # Terminal 3: Verify the graph is loaded (if not, run):
 python3 scripts/load_graph.py
@@ -40,7 +40,7 @@ Have two terminal windows ready:
 >
 > We're going to use three things: AstraeaDB, a graph database that combines property graphs with vector search; Ollama for local model inference; and MCP -- the Model Context Protocol -- which lets the LLM call database tools directly.
 >
-> The novel is Charles Dickens's *A Tale of Two Cities*. We've extracted a knowledge graph: 229 nodes covering characters, locations, events, themes, chapters, and actual text passages, connected by 317 edges representing relationships, event participation, and thematic links. Every node has a 128-dimensional embedding for semantic search.
+> The novel is Charles Dickens's *A Tale of Two Cities*. We've extracted a knowledge graph: 229 nodes covering characters, locations, events, themes, chapters, and actual text passages, connected by 317 edges representing relationships, event participation, and thematic links. Every node has a 768-dimensional embedding for semantic search.
 
 ### Action
 
@@ -264,7 +264,7 @@ If the demo has time or a live question comes up, here are additional questions 
 
 | Problem | Fix |
 |---------|-----|
-| "Failed to start MCP bridge" | AstraeaDB isn't running. Open Terminal B: `astraea-cli serve` |
+| "Failed to start MCP bridge" | AstraeaDB isn't running. Open Terminal B: `astraeadb serve` |
 | Tool calls return errors | The graph may not be loaded. Run `python3 scripts/load_graph.py` |
 | Model doesn't call tools | This happens occasionally with small models. Ask a more specific question, or restart |
 | Very slow responses | Check that Ollama is using GPU. Run `ollama ps` to verify |
